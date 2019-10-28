@@ -5,9 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Natural Language Understanding
-
-Named Entity Detection
-
-Multimodal Hate Speech Analysis
-
+{% for post in site.research reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

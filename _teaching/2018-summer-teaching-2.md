@@ -2,7 +2,7 @@
 title: "Statistical Natural Language Processing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2018-summer-teaching-2.md
+permalink: /teaching/2018-summer-teaching-2
 venue: "Bielefeld University"
 date: 2018-04-15
 location: "Bielfeld, Germany"

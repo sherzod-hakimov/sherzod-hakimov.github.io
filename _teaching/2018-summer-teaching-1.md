@@ -2,7 +2,7 @@
 title: "Information Extraction from Web Tables"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2018-summer-teaching-1.md
+permalink: /teaching/2018-summer-teaching-1
 venue: "Bielefeld University"
 date: 2018-04-15
 location: "Biefeld, Germany"
