@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Topics"
 permalink: /research/
 author_profile: true
 ---
 
-Natural Language Understanding
+  Natural Language Understanding
 ======
 
-Named Entity Recognition and Disambiguation
+  Named Entity Recognition and Disambiguation
 ======
 
-Multimodal Hate Speech Analysis
+  Multimodal Hate Speech Analysis
 ======
