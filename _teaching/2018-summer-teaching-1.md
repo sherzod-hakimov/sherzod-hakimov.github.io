@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=123314055
 venue: "Bielefeld University"
-date: Summer, 2018
+date: 2018-04-15
 location: "Biefeld, Germany"
 ---
 
