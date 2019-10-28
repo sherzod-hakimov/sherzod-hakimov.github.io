@@ -11,12 +11,3 @@ location: "Biefeld, Germany"
 The task of the project is to i) develop and implement these higher level tasks by building on the basic tasks, thus to realize table understanding, ii) execute these tasks on real data, iii) extract information from tables and extend a knowledge base, and iv) evaluate the correctness of the tasks and the extracted information. Possibly, v) further basic tasks need to be implemented or existing basic tasks need to be improved.
 
 [Web-page](https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=123314055)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
