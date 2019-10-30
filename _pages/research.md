@@ -8,7 +8,7 @@ author_profile: true
   Natural Language Understanding
 ======
 
-  Named Entity Recognition and Disambiguation
+  Information Extraction
 ======
 
   Multimodal Hate Speech Analysis
