@@ -4,6 +4,9 @@ collection: msc-topics
 permalink: /research/msc-theses
 ---
 
+
+======
+
   Multimodal Hate Speech Detection: detecting visual and verbal hate speech in Social Media posts, videos etc. [Relevant publications](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=multimodal+hate+speech&btnG=)
 
   Required skills: Python, Familiarity with any Deep Learning library (Pytorch, Tensforflow)
