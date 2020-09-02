@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Understanding"
 collection: reseach-topics
-permalink: /teaching/natural-language-understanding
+permalink: /research/natural-language-understanding
 ---
 
 Natural Language Understanding is a subtopic of natural language processing in Artifical Intelligence that deals with machine reading comprehension.
