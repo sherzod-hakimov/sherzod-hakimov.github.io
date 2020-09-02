@@ -2,9 +2,6 @@
 permalink: /research/
 title: "Research Areas"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## [Natural Language Understanding](/research/natural-language-understanding)
