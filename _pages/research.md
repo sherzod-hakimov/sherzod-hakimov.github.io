@@ -12,7 +12,7 @@ author_profile: true
 
 ## [Open MSc Topics](/research/msc-theses)
 
-## [Organizing/Programme committee or invited reviewer](/research/conference_journal_reviews.md)
+## [Organizing/Programme committee or invited reviewer](/research/conference-journal-reviews)
 
 
 
