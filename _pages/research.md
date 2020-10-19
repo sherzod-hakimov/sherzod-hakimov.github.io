@@ -6,7 +6,7 @@ author_profile: true
 
 ## [Natural Language Understanding](/research/natural-language-understanding)
 
-## [Multimodal Analysis](/research/multimodal-analysis)
+## [Multimodal Learning](/research/multimodal-learning)
 
 ## [Event Analysis](/research/event-analysis)
 
