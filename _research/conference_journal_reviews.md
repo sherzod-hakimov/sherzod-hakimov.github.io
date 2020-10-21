@@ -13,3 +13,9 @@ permalink: /research/conference-journal-reviews
 [Semantic Web Journal](http://www.semantic-web-journal.net/)
 
 [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence)
+
+[NAACL-HLT 2021]
+
+[ACL 2020]
+
+[EMNLP 2017, 2020]
