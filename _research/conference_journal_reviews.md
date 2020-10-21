@@ -10,7 +10,7 @@ permalink: /research/conference-journal-reviews
 
 [IWILDS Workshop](https://iwilds2020.wordpress.com/)
 
-[Semantic Web Journal](http://www.semantic-web-journal.net/)
+[Semantic Web Journal](http://www.semantic-web-journal.net/) [Editor for Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
 [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence)
 
