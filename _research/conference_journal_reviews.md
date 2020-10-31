@@ -16,7 +16,7 @@ permalink: /research/conference-journal-reviews
 
 [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence)
 
-NAACL-HLT 2021
+EACL 2021
 
 ACL 2020
 
