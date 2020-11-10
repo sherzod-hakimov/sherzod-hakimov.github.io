@@ -17,11 +17,12 @@ Program committee
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence)
-* EACL 2021
 * ACL 2020
-* EMNLP 2017, 2020
-* CIKM 2020
-* ECIR 2021
 * BMVC 2020
+* CIKM 2020
+* EACL 2021
+* ECIR 2021
+* EMNLP 2017, 2020
 * ICME 2020
 * ICMR 2020
+* TPDL 2020
