@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete list of articles on <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">my Google Scholar profile</a>.
+You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
 
 Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)
