@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"
-  email            : "sherzodhakimov - at - gmail dot com"
+  email            : "sherzodhakimov -at- gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.org/pid/117/6023.html"  
 
 
 # Reading Files
