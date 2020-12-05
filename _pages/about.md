@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the <a href="https://www.tib.eu/en/research-development/visual-analytics/" target="_blank">Visual Analytics Group, Leibniz Association for Science and Technology (TIB)</a>. 
+I'm a postdoctoral researcher at the <a href="https://www.tib.eu/en/research-development/visual-analytics/" target="_blank">Visual Analytics Group, Leibniz Association for Science and Technology (TIB), Hanover, Germany</a>. 
 
 I've previously worked at the <a href="http://sc.cit-ec.uni-bielefeld.de/" target="_blank">Semantic Computing Group, CITEC, Bielefeld, Germany</a>.
 
