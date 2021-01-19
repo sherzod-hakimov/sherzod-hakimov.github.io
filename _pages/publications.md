@@ -8,6 +8,18 @@ author_profile: true
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
 
+Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). November. Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision.[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf)
+
+Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy. MediaEval workshop FakeNews task. [PDF](https://arxiv.org/pdf/2101.03529.pdf)
+
+Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). Classification of Important Segments in Educational Videos using Multimodal Features. In Proceedings of the CIKM 2020 Workshops. [PDF](https://arxiv.org/pdf/2010.13626.pdf)
+
+Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2020). A Feature Analysis for Multimodal News Retrieval. CLEOPATRA workshop co-located with Extended Semantic Web Conference (ESWC). [PDF](http://ceur-ws.org/Vol-2611/paper4.pdf)
+
+Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.  In Proceedings of the Eleventh International Conference of the CLEF Association [PDF](https://arxiv.org/pdf/2007.10534.pdf)
+
+Tavakoli, M., Hakimov, S., Ewerth, R. and Kismihók, G., (2020) A Recommender System For Open Educational Videos Based On Skill Requirements. In Proceedings of International Conference on Advanced Learning Technologies (ICALT) [PDF](https://arxiv.org/pdf/2005.10595.pdf)
+
 Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)
 [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf)
 
