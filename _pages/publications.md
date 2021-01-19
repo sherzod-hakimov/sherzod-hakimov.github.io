@@ -8,7 +8,7 @@ author_profile: true
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
 
-Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). November. Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf)
+Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf)
 
 Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy. MediaEval workshop FakeNews task [PDF](https://arxiv.org/pdf/2101.03529.pdf)
 
