@@ -8,6 +8,8 @@ permalink: /research/msc-theses
 <br/>
 <br/>
 
+  **Interpretation of Multimoda Hate Speech Detection Models**: provide interpretable outputs for the model trained on multimodal (image and text) data [Relevant publications](https://scholar.google.com/scholar?q=hate+speech+%22explainable%22&hl=de&as_sdt=0%2C5&as_ylo=2018&as_yhi=)<br/>
+
   **Interpretation of Multimodal Deep Learning Models**: provide interpretable outputs for neural model trained on multimodal (image-text, video) data [Relevant publications](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=text+image+%22layer+wise%22+OR+relevance+OR+propagation+%22taylor+decomposition%22)<br/>
 
   **Visual Framing Analysis of Social Media Posts for Detection of Misinformation**: analyse how visual information is depicted in social media posts and use it for misinformation identification. [Relevant publications](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2020&q=%22visual+framing%22+%22social+media%22+%22misinformation%22&btnG=)<br/>
