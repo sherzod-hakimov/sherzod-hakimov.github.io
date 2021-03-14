@@ -12,11 +12,11 @@ Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2
 
 Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy. MediaEval workshop FakeNews task [PDF](https://arxiv.org/pdf/2101.03529.pdf) [Git repo](https://github.com/cleopatra-itn/TIB_VA_MediaEval_FakeNews)
 
-Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). Classification of Important Segments in Educational Videos using Multimodal Features. In Proceedings of the CIKM 2020 Workshops [PDF](https://arxiv.org/pdf/2010.13626.pdf) [Git repo] (https://github.com/VideoAnalysis/EDUVSUM)
+Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). Classification of Important Segments in Educational Videos using Multimodal Features. In Proceedings of the CIKM 2020 Workshops [PDF](https://arxiv.org/pdf/2010.13626.pdf) [Git repo](https://github.com/VideoAnalysis/EDUVSUM)
 
 Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2020). A Feature Analysis for Multimodal News Retrieval. In the Proceeding of the CLEOPATRA workshop co-located with Extended Semantic Web Conference (ESWC) [PDF](http://ceur-ws.org/Vol-2611/paper4.pdf) [Git repo](https://github.com/cleopatra-itn/multimodal-news-retrieval)
 
-Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.  In Proceedings of the Eleventh International Conference of the CLEF Association [PDF](https://arxiv.org/pdf/2007.10534.pdf) [Git repo] (https://github.com/cleopatra-itn/claim_detection)
+Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.  In Proceedings of the Eleventh International Conference of the CLEF Association [PDF](https://arxiv.org/pdf/2007.10534.pdf) [Git repo](https://github.com/cleopatra-itn/claim_detection)
 
 Tavakoli, M., Hakimov, S., Ewerth, R. and Kismihók, G., (2020) A Recommender System For Open Educational Videos Based On Skill Requirements. In Proceedings of International Conference on Advanced Learning Technologies (ICALT) [PDF](https://arxiv.org/pdf/2005.10595.pdf)
 
