@@ -10,7 +10,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf) [Git repo](https://github.com/TIBHannover/VisE)
 
-Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2020). Proceedings of the 1st International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2020) co-located with the 17th Extended Semantic Web Conference (ESWC 2020) [http://ceur-ws.org/Vol-2611/](http://ceur-ws.org/Vol-2611/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
+Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2020). Proceedings of the 1st International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2020) co-located with the 17th Extended Semantic Web Conference (ESWC 2020) [CEUR Vol-2611](http://ceur-ws.org/Vol-2611/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
 
 Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy. MediaEval workshop FakeNews task [PDF](https://arxiv.org/pdf/2101.03529.pdf) [Git repo](https://github.com/cleopatra-itn/TIB_VA_MediaEval_FakeNews)
 
