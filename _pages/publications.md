@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
+Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2021). Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics
+co-located with the 30th The Web Conference (WWW 2021) [CEUR Vol-2829](http://ceur-ws.org/Vol-2829/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de)
 
 Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf) [Git repo](https://github.com/TIBHannover/VisE)
 
