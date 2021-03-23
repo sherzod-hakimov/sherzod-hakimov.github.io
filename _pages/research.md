@@ -8,6 +8,8 @@ author_profile: true
 
 ## [Multimodal Learning](/research/multimodal-learning)
 
+## [Misinformation Detection](/research/misinformation)
+
 ## [Event Analysis](/research/event-analysis)
 
 ## [Open MSc Topics](/research/msc-theses)

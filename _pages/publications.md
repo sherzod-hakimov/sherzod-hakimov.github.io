@@ -7,6 +7,9 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
+
+Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). On the Role of Images for Analyzing Claims in Social Media. In the Proceedings of the CLEOPATRA workshop co-located with The Web Conference (WWW) [PDF](http://ceur-ws.org/Vol-2829/paper3.pdf) [Git repo](https://github.com/cleopatra-itn/image_text_claim_detection)
+
 Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2021). Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics
 co-located with the 30th The Web Conference (WWW 2021) [CEUR Vol-2829](http://ceur-ws.org/Vol-2829/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de)
 
@@ -18,7 +21,7 @@ Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at
 
 Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). Classification of Important Segments in Educational Videos using Multimodal Features. In Proceedings of the CIKM 2020 Workshops [PDF](https://arxiv.org/pdf/2010.13626.pdf) [Git repo](https://github.com/VideoAnalysis/EDUVSUM)
 
-Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2020). A Feature Analysis for Multimodal News Retrieval. In the Proceeding of the CLEOPATRA workshop co-located with Extended Semantic Web Conference (ESWC) [PDF](http://ceur-ws.org/Vol-2611/paper4.pdf) [Git repo](https://github.com/cleopatra-itn/multimodal-news-retrieval)
+Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2020). A Feature Analysis for Multimodal News Retrieval. In the Proceedings of the CLEOPATRA workshop co-located with Extended Semantic Web Conference (ESWC) [PDF](http://ceur-ws.org/Vol-2611/paper4.pdf) [Git repo](https://github.com/cleopatra-itn/multimodal-news-retrieval)
 
 Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.  In Proceedings of the Eleventh International Conference of the CLEF Association [PDF](https://arxiv.org/pdf/2007.10534.pdf) [Git repo](https://github.com/cleopatra-itn/claim_detection)
 
