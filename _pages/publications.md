@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
+Tahmasebzadeh, G., Kacupaj, E., Müller-Budack, E., Hakimov, S., Lehmann, J. and Ewerth, R., (2021). GeoWINE: Geolocation based Wiki, Image,News and Event Retrieval. In the Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval 2021 (SIGIR) [PDF](https://arxiv.org/pdf/2104.14994.pdf) [DEMO](http://cleopatra.ijs.si/geowine/) [Git repo](https://github.com/cleopatra-itn/GeoWINE)
+
 Müller-Budack, E., Theiner, J.,  Diering, S., Idahl, M., Hakimov, S. and Ewerth, R., (2021). Multimodal  news analytics using measures of cross-modal entity and context  consistency. *International Journal of Multimedia Information Retrieval*, pp.1-15. [PDF](https://link.springer.com/article/10.1007/s13735-021-00207-4) [Git repo](https://github.com/TIBHannover/cross-modal_entity_consistency)
 
 Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). Supervised Video Summarization via Multiple Feature Sets with Parallel Attention. In the Proceedings of IEEE International Conference on Multimedia and Expo (ICME) [PDF](https://arxiv.org/pdf/2104.11530.pdf) [Git repo](https://github.com/TIBHannover/MSVA)
