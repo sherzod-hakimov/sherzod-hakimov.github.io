@@ -6,13 +6,11 @@ author_profile: true
 
 ## [Natural Language Understanding](/research/natural-language-understanding)
 
-## Multimodal Learning
+## [Video Summarization](/research/video-summarization)
 
-## 	[Video Summarization](/research/video-summarization)
+## [Misinformation Detection](/research/misinformation)
 
-## 	[Misinformation Detection](/research/misinformation)
-
-## 	[Event Analysis](/research/event-analysis)
+## [Event Analysis](/research/event-analysis)
 
 ## [Open MSc Topics](/research/msc-theses)
 
