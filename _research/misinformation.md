@@ -8,6 +8,7 @@ Misinformation detection is a field of study to detect documents that include fa
 
 Relevant publications:
 
+Müller-Budack, E., Theiner, J.,  Diering, S., Idahl, M., Hakimov, S. and Ewerth, R., (2021). Multimodal  news analytics using measures of cross-modal entity and context  consistency. *International Journal of Multimedia Information Retrieval*, pp.1-15. [PDF](https://link.springer.com/article/10.1007/s13735-021-00207-4) [Git repo](https://github.com/TIBHannover/cross-modal_entity_consistency)
 
 Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). On the Role of Images for Analyzing Claims in Social Media. In the Proceedings of the CLEOPATRA workshop co-located with The Web Conference (WWW) [PDF](http://ceur-ws.org/Vol-2829/paper3.pdf) [Git repo](https://github.com/cleopatra-itn/image_text_claim_detection)
 
