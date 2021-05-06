@@ -1,7 +1,7 @@
 ---
-title: "Organizing/Programme committee or invited reviewer"
-collection: conference-journal-reviews
-permalink: /research/conference-journal-reviews
+title: "Video Summarization"
+collection: research-topics
+permalink: /research/video-summarization
 ---
 
 Video summarization deals with providing a summary for lengthy videos by taking into account the audio, text and visual frames to create concise, informative summaries. The research mainly deals with educational videos where the aim is to provide short summaries that cover most of the information presented in a video to boost easier and quick way for skimming seminar, research talks.
