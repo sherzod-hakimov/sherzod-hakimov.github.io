@@ -81,7 +81,8 @@ The goal is to analyse vast amounts of event-centric textual and visual informat
 <p>Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf"><b>PDF</b></a> <a href="https://github.com/TIBHannover/VisE"><b>Git repo</b></a></p>
 
 </details>
-</br>
+
+
 <p>Check out the <a href="http://cleopatra-workshop.l3s.uni-hannover.de/">CLEOPATRA Workshop</a></p>
 
 <p>Check out the <a href="http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics">Special Issue at Semantic Web Journal <i>Event-centric Open Analytics</i></a></p>
