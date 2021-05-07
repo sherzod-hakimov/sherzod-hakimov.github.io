@@ -8,12 +8,11 @@ author_profile: true
 
 It is a subtopic of natural language processing in Artifical Intelligence that deals with machine reading comprehension, extracting meaning from natural language text. 
 <details>
-<summary>Relevant publications</summary>
+<summary markdown='span'>Relevant publications</summary>
 
-<p>Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)<a href="https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf"><b>PDF</b></a></p>
+<p>Hakimov, S. (2019).  <i>Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures</i>. Bielefeld University, Germany (Doctoral Dissertation) <a href="https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf"><b>PDF</b></a></p>
 
-Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.  In Proceedings of the 13th International Semantic Computing Conference (ICSC)
-[Paper](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf)
+<p>Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  <i>Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases</i>.  In Proceedings of the 13th International Semantic Computing Conference (ICSC) <a href="https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf"><b>PDF</b></a></p>
 
 Ell B, Hakimov, S. , Braukmann, P., Cazzoli, L., Kaupmann, F., Mancino, A., Altaf Memon, J., Rother, K., Saini, A., Cimiano, P. (2017).  Towards a Large Corpus of Richly Annotated Web Tables for Knowledge Base Population. In Proceedings of 5th International Workshop on Linked Data for Information Extraction, co-located with the 16th International Semantic Web Conference (ISWC)
 [Paper](https://pub.uni-bielefeld.de/download/2913458/2913604/TowardsALargeCorpusOfRichlyAnnotatedWebTablesForKnowledgeBasePopulation.pdf)
