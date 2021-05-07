@@ -6,7 +6,7 @@ author_profile: true
 
 ## Natural Language Understanding
 
-It is a subtopic of natural language processing in Artifical Intelligence that deals with machine reading comprehension, extracting meaning from natural language text. 
+It is a subtopic of natural language processing in Artificial Intelligence that deals with machine reading comprehension, extracting meaning from natural language text. 
 <details>
 <summary markdown='span'>Relevant publications</summary>
 
