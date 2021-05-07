@@ -1,4 +1,3 @@
-```
 ---
 title: "Organizing/Programme committee or invited reviewer"
 collection: conference-journal-reviews
@@ -28,4 +27,3 @@ Reviewer
 * ICME 2020, 2021
 * ICMR 2020
 * TPDL 2020
-```
