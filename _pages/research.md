@@ -38,11 +38,51 @@ Workshops <a href="https://pub.uni-bielefeld.de/download/2657454/2715983/a12-hak
 </details>
 
 
-## [Video Summarization](/research/video-summarization)
+## Video Summarization
 
-## [Misinformation Detection](/research/misinformation)
+It deals with providing a summary for lengthy videos by taking into account the audio, text and visual frames to create concise, informative summaries. The research mainly deals with educational videos where the aim is to provide short summaries that cover most of the information presented in a video to boost easier and quick way for skimming seminar, research talks.
 
-## [Event Analysis](/research/event-analysis)
+<details>
+<summary markdown='span'>Relevant publications</summary>
+
+<p>Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). Supervised Video Summarization via Multiple Feature Sets with Parallel Attention. In the Proceedings of IEEE International Conference on Multimedia and Expo (ICME) <a href="https://arxiv.org/pdf/2104.11530.pdf"><b>PDF</b></a> <a href="https://github.com/TIBHannover/MSVA"><b>Git repo</b></a></p>
+
+<p>Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). Classification of Important Segments in Educational Videos using Multimodal Features. In Proceedings of the CIKM 2020 Workshops <a href="https://arxiv.org/pdf/2010.13626.pdf"><b>PDF</b></a> <a href="https://github.com/VideoAnalysis/EDUVSUM"><b>Git repo</b></a></p>
+
+</details>
+
+## Misinformation Detection
+
+It is a field of study to detect documents that include falsified information in the form of text, images, videos, etc. The research explores the ideas to detect misinformed facts from social media posts, news articles, videos and related multimedia data.
+
+<details>
+<summary markdown='span'>Relevant publications</summary>
+
+<p>Müller-Budack, E., Theiner, J.,  Diering, S., Idahl, M., Hakimov, S. and Ewerth, R., (2021). Multimodal  news analytics using measures of cross-modal entity and context  consistency. *International Journal of Multimedia Information Retrieval*, pp.1-15. <a href="https://link.springer.com/article/10.1007/s13735-021-00207-4"><b>PDF</b></a> <a href="https://github.com/TIBHannover/cross-modal_entity_consistency"><b>Git repo</b></a></p>
+
+<p>Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). On the Role of Images for Analyzing Claims in Social Media. In the Proceedings of the CLEOPATRA workshop co-located with The Web Conference (WWW) <a href="http://ceur-ws.org/Vol-2829/paper3.pdf"><b>PDF</b></a> <a href="https://github.com/cleopatra-itn/image_text_claim_detection"><b>Git repo</b></a></p>
+
+<p>Cheema, G.S., Hakimov, S. and Ewerth, R., (2020) TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy. MediaEval workshop FakeNews task <a href="https://arxiv.org/pdf/2101.03529.pdf"><b>PDF</b></a> <a href="https://github.com/cleopatra-itn/TIB_VA_MediaEval_FakeNews"><b>Git repo</b></a></p>
+
+<p>Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.  In Proceedings of the Eleventh International Conference of the CLEF Association <a href="https://arxiv.org/pdf/2007.10534.pdf"><b>PDF</b></a> <a href="https://github.com/cleopatra-itn/claim_detection"><b>Git repo</b></a></p>
+
+</details>
+
+
+## Event Analysis
+
+The goal is to analyse vast amounts of event-centric textual and visual information in multiple languages. 
+
+<details>
+<summary markdown='span'>Relevant publications</summary>
+
+<p>Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf"><b>PDF</b></a> <a href="https://github.com/TIBHannover/VisE"><b>Git repo</b></a></p>
+
+</details>
+
+<p>Check out the <a href="http://cleopatra-workshop.l3s.uni-hannover.de/">CLEOPATRA Workshop</a></p>
+
+<p>Check out the <a href="http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics">Special Issue at Semantic Web Journal <i>Event-centric Open Analytics</i></a></p>
 
 ## [Open MSc Topics](/research/msc-theses)
 
