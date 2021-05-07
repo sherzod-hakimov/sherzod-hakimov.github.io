@@ -4,6 +4,8 @@ title: "Research Areas"
 author_profile: true
 ---
 
+You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
+
 ## Natural Language Understanding
 
 It is a subtopic of natural language processing in Artificial Intelligence that deals with machine reading comprehension, extracting meaning from natural language text. 
