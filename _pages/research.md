@@ -10,8 +10,7 @@ It is a subtopic of natural language processing in Artifical Intelligence that d
 <details>
 <summary>Relevant publications</summary>
 
-Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)
-[Paper](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf)
+<p>Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)<a href="https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf"><b>PDF</b></a></p>
 
 Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.  In Proceedings of the 13th International Semantic Computing Conference (ICSC)
 [Paper](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf)
