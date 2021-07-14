@@ -9,6 +9,8 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods. In the Proceedings of the Multi-Modal Pre-Training for Multimedia Understanding (MMPT 2021), co-located with ICMR [PDF](https://arxiv.org/pdf/2106.08829.pdf) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
 
+Ilkou, E., Abu-Rasheed, H., Tavakoli, M., Hakimov, S., Kismihók, G., Auer, S. and Nejdl, W., (2021). EduCOR: An Educational and Career-Oriented Recommendation Ontology. In the Proceedings the 20th International Semantic Web Conference (ISWC 2021) [PDF](https://arxiv.org/pdf/2107.05522.pdf) [Ontology page](http://ontology.tib.eu/educor/) [Git repo](https://github.com/tibonto/educor/)
+
 Kanafani, H., Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). Unsupervised Video Summarization via Multi-source Features. In the Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR) [PDF](https://arxiv.org/pdf/2105.12532.pdf) [Git repo](https://github.com/TIBHannover/UnsupervisedVideoSummarization)
 
 Tahmasebzadeh, G., Kacupaj, E., Müller-Budack, E., Hakimov, S., Lehmann, J. and Ewerth, R., (2021). GeoWINE: Geolocation based Wiki, Image,News and Event Retrieval. In the Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval 2021 (SIGIR) [PDF](https://arxiv.org/pdf/2104.14994.pdf) [DEMO](http://cleopatra.ijs.si/geowine/) [Git repo](https://github.com/cleopatra-itn/GeoWINE)
