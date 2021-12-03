@@ -14,6 +14,6 @@ I've previously worked at the <a href="http://sc.cit-ec.uni-bielefeld.de/" targe
 
 My research interests include topics such as Natural Language Processing, Computer Vision, Computational Multimodal Analytics, Event Analysis, Misinformation Detection in Social Media, Machine Learning. [More Info](https://sherzod-hakimov.github.io/research/)
 
-Special Issue on Event-centric Open Analytics at Semantic Web Journal, deadline: 30th June, 2021 [More Info](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
+CLEOPATRA Workshop (event-centric analytics) 2022, co-located with The WebConf (WWW), 25 April, 2022 [More Info](http://cleopatra-workshop.l3s.uni-hannover.de/)
 
-CLEOPATRA Workshop 2021, co-located with The Web Conference (WWW), 12 April, 2021 [More Info](http://cleopatra-workshop.l3s.uni-hannover.de/)
+MUWS Workshop (multimodal machine learning) 2022, co-located with The WebConf (WWW), 25 April, 2022 [More Info](https://muws-workshop.github.io/)
