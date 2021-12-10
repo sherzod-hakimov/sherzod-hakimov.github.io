@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
+Hakimov, S., and Ewerth, R., (2021). Combining Textual Features for the Detection of Hateful and Offensive Language. HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE) [PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
+
 Pustu-Iren, K., Müller-Budack, E., Hakimov, S. and Ewerth, R., (2021). Visualizing Copyright-Protected Video Archive Content Through Similarity Search. In the Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL 2021) [PDF](https://link.springer.com/chapter/10.1007/978-3-030-86324-1_15)
 
 Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods. In the Proceedings of the Multi-Modal Pre-Training for Multimedia Understanding (MMPT 2021), co-located with ICMR [PDF](https://arxiv.org/pdf/2106.08829.pdf) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
