@@ -18,6 +18,8 @@ My research interests include topics such as Natural Language Processing, Comput
 
 ## Recent Updates
 
+- (December 2021) Started working on [FakeNarratives Project](https://fakenarratives.github.io/index) - Understanding Narratives of Disinformation in Public and Alternative News Videos
+
 - (December 2021) Two workshops accepted at The Web Conference (WWW) 2022. 
   [CLEOPATRA Workshop (event-centric analytics)](http://cleopatra-workshop.l3s.uni-hannover.de/) 
   [MUWS Workshop (multimodal understanding for web and social media) 2022](https://muws-workshop.github.io) Deadlines for paper submissions: Feb 7-20, 2022
