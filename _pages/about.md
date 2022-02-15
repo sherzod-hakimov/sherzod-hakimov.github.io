@@ -33,6 +33,18 @@ My research interests include topics such as Natural Language Processing, Comput
 - (May 2019) Received the doctoral degree (Dr. rer. nat) for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), Bielefeld University, Germany
 
 
-<div class="center">
-<a class="twitter-timeline" href="https://twitter.com/sherzodhakimov?ref_src=twsrc%5Etfw">Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-</div>
+<section id="main-description">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        ...
+      </div>
+      <div class="col-md-4">
+        <div>
+          <a class="twitter-timeline" href="https://twitter.com/sherzodhakimov?ref_src=twsrc%5Etfw">Tweets</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+      </div>
+    </div>
+  </div>
+</section
