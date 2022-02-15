@@ -31,3 +31,7 @@ My research interests include topics such as Natural Language Processing, Comput
 - (September 2019) Joined [TIB, Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) as a postdoctoral researcher
 
 - (May 2019) Received the doctoral degree (Dr. rer. nat) for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), Bielefeld University, Germany
+
+## Recent Tweets
+{% twitternocache twitter_url *options %}
+{% twitternocache https://twitter.com/sherzodhakimov maxwidth=500 limit=5 %}
