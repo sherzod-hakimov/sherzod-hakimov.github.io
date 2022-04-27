@@ -26,7 +26,7 @@ My research interests include topics such as Natural Language Processing, Comput
 
 - (April 2021) Organized the [2nd CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/), co-located with The Web Conference (WWW) 2021
 
-- (June 2020) Organized the [1st CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/), co-located with ESWC 2020
+- (June 2020) Organized the [1st CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/), co-located with Extended Semantic Web Conference (ESWC) 2020
 
 - (September 2019) Joined [TIB, Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) as a postdoctoral researcher
 
