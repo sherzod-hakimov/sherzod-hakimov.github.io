@@ -24,7 +24,7 @@ My research interests include topics such as Natural Language Processing, Comput
 
 - (October 2021) Joined the [FakeNarratives Project](https://fakenarratives.github.io/index) - Understanding Narratives of Disinformation in Public and Alternative News Videos
 
-- (April 2021) Organized the [2nd CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/), co-located with WWW 2021
+- (April 2021) Organized the [2nd CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/), co-located with The Web Conference (WWW) 2021
 
 - (June 2020) Organized the [1st CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/), co-located with ESWC 2020
 
