@@ -18,9 +18,9 @@ My research interests include topics such as Natural Language Processing, Comput
 
 ## Recent Updates
 
-- (December 2021) Two workshops accepted at The Web Conference (WWW) 2022. 
-  [CLEOPATRA Workshop (event-centric analytics)](http://cleopatra-workshop.l3s.uni-hannover.de/) 
-  [MUWS Workshop (multimodal understanding for web and social media) 2022](https://muws-workshop.github.io) Deadlines for paper submissions: Feb 7-20, 2022
+- (April 2022) Organized the [3rd CLEOPATRA Workshop](http://cleopatra-workshop.l3s.uni-hannover.de/) co-located with The Web Conference (WWW) 2022
+
+- (April 2022) Organized the [1st MUWS Workshop](https://muws-workshop.github.io/2022-program.html) co-located with The Web Conference (WWW) 2022
 
 - (October 2021) Joined the [FakeNarratives Project](https://fakenarratives.github.io/index) - Understanding Narratives of Disinformation in Public and Alternative News Videos
 
@@ -30,4 +30,4 @@ My research interests include topics such as Natural Language Processing, Comput
 
 - (September 2019) Joined [TIB, Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) as a postdoctoral researcher
 
-- (May 2019) Received the doctoral degree (Dr. rer. nat) for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), Bielefeld University, Germany
+- (May 2019) Received the doctoral degree (Dr. rer. nat) for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), Bielefeld University, Germany.
