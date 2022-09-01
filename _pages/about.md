@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, Potsdam, Germany</a>. 
+I'm a postdoctoral researcher at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics research group at the University of Potsdam, Potsdam, Germany</a>. 
 
 I've previously worked at the <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" target="_blank">Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology & L3S Research Center, Hanover, Germany</a> and <a href="http://sc.cit-ec.uni-bielefeld.de/" target="_blank">Semantic Computing Group, CITEC, Bielefeld, Germany</a>.
 
