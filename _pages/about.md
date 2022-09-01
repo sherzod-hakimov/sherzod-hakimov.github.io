@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" target="_blank">Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology, Hanover, Germany</a>. 
+I'm a postdoctoral researcher at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, Potsdam, Germany</a>. 
 
-I've previously worked at the <a href="http://sc.cit-ec.uni-bielefeld.de/" target="_blank">Semantic Computing Group, CITEC, Bielefeld, Germany</a>.
+I've previously worked at the <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" target="_blank">Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology & L3S Research Center, Hanover, Germany</a> and <a href="http://sc.cit-ec.uni-bielefeld.de/" target="_blank">Semantic Computing Group, CITEC, Bielefeld, Germany</a>.
 
-My research interests include topics such as Natural Language Processing, Computer Vision, Computational Multimodal Analytics, Event Analysis, Misinformation Detection in Social Media, Machine Learning. [More Info](https://sherzod-hakimov.github.io/research/)
+My research interests include topics such as Conversational AI, Natural Language Understanding, Computational Multimodal Models for Social Media and Web Data. [More Info](https://sherzod-hakimov.github.io/research/)
 
 
 
 ## Recent Updates
+
+- (September 2022) Joined [University of Potsdam, Computational Linguistics](https://clp.ling.uni-potsdam.de/) as a postdoctoral researcher
 
 - (April 2022) Organized the [3rd CLEOPATRA Workshop](http://cleopatra-workshop.l3s.uni-hannover.de/) co-located with The Web Conference (WWW) 2022
 
