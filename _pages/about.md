@@ -24,8 +24,6 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (April 2022) Organized the [1st MUWS Workshop](https://muws-workshop.github.io/2022-program.html) co-located with The Web Conference (WWW) 2022
 
-- (October 2021) Joined the [FakeNarratives Project](https://fakenarratives.github.io/index) - Understanding Narratives of Disinformation in Public and Alternative News Videos
-
 - (April 2021) Organized the [2nd CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/), co-located with The Web Conference (WWW) 2021
 
 - (June 2020) Organized the [1st CLEOPATRA Workshop](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/), co-located with Extended Semantic Web Conference (ESWC) 2020
