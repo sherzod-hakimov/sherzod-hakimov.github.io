@@ -30,4 +30,4 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (September 2019) Joined [TIB, Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) as a postdoctoral researcher
 
-- (May 2019) Received the doctoral degree (Dr. rer. nat) for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), supervised by [Philipp Cimiano](http://sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/), Bielefeld University, Germany. 
+- (May 2019) Received the doctoral degree (Dr. rer. nat) with a grade *magna cum laude* for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), supervised by [Philipp Cimiano](http://sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/), Bielefeld University, Germany. 

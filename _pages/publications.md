@@ -47,7 +47,7 @@ Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). Check_square at CheckThat! 202
 Tavakoli, M., Hakimov, S., Ewerth, R. and Kismihók, G., (2020) A Recommender System For Open Educational Videos Based On Skill Requirements. In Proceedings of International Conference on Advanced Learning Technologies (ICALT) [PDF](https://arxiv.org/pdf/2005.10595.pdf)
 
 Hakimov, S. (2019). Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (**Doctoral Dissertation**)
-[URI](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf)[Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures)
+[URI](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf) [Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures) Graded as ***magna cum laude***
 
 Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.  In Proceedings of the 13th International Semantic Computing Conference (ICSC)
 [PDF](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf) [Git repo](https://github.com/ag-sc/SimpleQA)
