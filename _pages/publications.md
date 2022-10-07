@@ -7,7 +7,7 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
-Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022) [PDF](https://arxiv.org/pdf/2205.01989.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
+Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022) [PDF](https://aclanthology.org/2022.findings-naacl.72.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
 
 Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://arxiv.org/pdf/2204.06299.pdf) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
 
