@@ -9,7 +9,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022) [PDF](https://aclanthology.org/2022.findings-naacl.72.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
 
-Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://arxiv.org/pdf/2204.06299.pdf) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
+Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
 
 Hakimov, S. and Ewerth, R., (2021). Combining Textual Features for the Detection of Hateful and Offensive Language. HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE) [PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
 
