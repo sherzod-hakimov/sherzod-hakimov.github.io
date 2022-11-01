@@ -18,6 +18,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam
+
 - (September 2022) Joined [University of Potsdam, Computational Linguistics](https://clp.ling.uni-potsdam.de/) as a postdoctoral researcher
 
 - (April 2022) Organized the [3rd CLEOPATRA Workshop](http://cleopatra-workshop.l3s.uni-hannover.de/) co-located with The Web Conference (WWW) 2022
