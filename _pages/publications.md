@@ -11,6 +11,8 @@ Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R
 
 Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
 
+Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2022). CLEOPATRA'22: 3rd International Workshop on Cross-lingual Event-centric Open Analytics. WWW (Companion Volume) 2022: 497-498
+
 Hakimov, S. and Ewerth, R., (2021). Combining Textual Features for the Detection of Hateful and Offensive Language. HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE) [PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
 
 Pustu-Iren, K., Müller-Budack, E., Hakimov, S. and Ewerth, R., (2021). Visualizing Copyright-Protected Video Archive Content Through Similarity Search. In the Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL 2021) [PDF](https://link.springer.com/chapter/10.1007/978-3-030-86324-1_15)

@@ -8,6 +8,12 @@ Natural Language Understanding is a subtopic of natural language processing in A
 
 Relevant publications:
 
+Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
+
+Hakimov, S. and Ewerth, R., (2021). Combining Textual Features for the Detection of Hateful and Offensive Language. HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE) [PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
+
+Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods. In the Proceedings of the Multi-Modal Pre-Training for Multimedia Understanding (MMPT 2021), co-located with ICMR [PDF](https://arxiv.org/pdf/2106.08829.pdf) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
+
 Hakimov, S. (2019).  Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation)
 [Paper](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf)
 
