@@ -24,4 +24,6 @@ This seminar is part of the MSc degree in Cognitive Systems. It covers various r
 
 The seminar follows the idea of role-playing to engage students in the discussion of selected publications. This type reading seminar was proposed by Jacobson and Raffel ["Role-Playing Paper-Reading Seminars"](https://colinraffel.com/blog/role-playing-seminar.html) (2021).
 
+[Seminar webpage](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=98640)
+
 [Cognitive Systems Master's programme](https://www.ling.uni-potsdam.de/cogsys/program.html)
