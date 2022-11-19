@@ -7,11 +7,16 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
+
+Tahmasebzadeh, G., Müller-Budack, E., Hakimov, S., and Ewerth, R., (2023). MM-Locate-News: Multimodal Focus Location Estimation in News. 29th International Conference on Multimedia Modeling (MMM 2023) [PDF](https://arxiv.org/pdf/2211.08042.pdf) [Git repo](https://github.com/TIBHannover/mm-locate-news)
+
+Hakimov, S., Cheema, G.S., Kastner,M.A., Shah, R.R., Sikka, K., (2022). MUWS'22: 1st International Workshop on Multimodal Understanding for the Web and Social Media. WWW (Companion Volume) 2022: 692-693 [URL](muws-workshop.github.io/2022-program.html)
+
 Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022) [PDF](https://aclanthology.org/2022.findings-naacl.72.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
 
 Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
 
-Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2022). CLEOPATRA'22: 3rd International Workshop on Cross-lingual Event-centric Open Analytics. WWW (Companion Volume) 2022: 497-498
+Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2022). CLEOPATRA'22: 3rd International Workshop on Cross-lingual Event-centric Open Analytics. WWW (Companion Volume) 2022: 497-498 [URL](cleopatra-workshop.l3s.uni-hannover.de/)
 
 Hakimov, S. and Ewerth, R., (2021). Combining Textual Features for the Detection of Hateful and Offensive Language. HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE) [PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
 
