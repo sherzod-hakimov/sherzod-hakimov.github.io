@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Sherzod Hakimov"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : ""
   location         : 
   employer         :
@@ -116,7 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pid/117/6023.html"  
+  dblp             : "https://dblp.org/pid/117/6023.html"
+  mastodon         : "https://sigmoid.social/@hakimov"
 
 
 # Reading Files

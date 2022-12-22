@@ -18,6 +18,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (December 2022) Joined Mastodon - <a rel="me" href="https://sigmoid.social/@hakimov">Sigmoid Social Domain</a>
+
 - (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam
 
 - (September 2022) Joined [University of Potsdam, Computational Linguistics](https://clp.ling.uni-potsdam.de/) as a postdoctoral researcher
