@@ -13,7 +13,7 @@ Organizing committee
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
-* [CheckThat! 2023](https://sites.google.com/view/clef2023-checkthat)
+* [CheckThat! 2023](https://checkthat.gitlab.io/clef2023/task1/)
 
 Program committee
 * [Profiles Workshop 2020](http://profiles2020.l3s.uni-hannover.de/)

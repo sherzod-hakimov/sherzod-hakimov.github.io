@@ -18,6 +18,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (January 2023) Co-organizer of <a href="https://checkthat.gitlab.io/clef2023/task1/">CLEF CheckThat! Task 1 - Multimodal Claim Detection in Twitter</a>
+
 - (December 2022) Joined Mastodon - <a rel="me" href="https://sigmoid.social/@hakimov">Sigmoid Social Domain</a>
 
 - (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam
