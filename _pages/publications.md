@@ -7,11 +7,13 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
+Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J., and Ewerth, R., (2023).  Understanding Image-Text Relations and News Values for Multimodal News Analysis. Frontiers in Artificial Intelligence, Sec. Language and Computation, Volume 6 [PDF](https://www.frontiersin.org/articles/10.3389/frai.2023.1125533) [DOI](https://doi.org/10.3389/frai.2023.1125533)
+
 Tahmasebzadeh, G., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Multimodal Geolocation Estimation of News Photos. Advances in Information Retrieval - 45th European Conference on Information Retrieval (ECIR 2023) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_14) [Git repo](https://github.com/TIBHannover/mmg-newsphoto)
 
 Tahmasebzadeh, G., Müller-Budack, E., Hakimov, S., and Ewerth, R., (2023). MM-Locate-News: Multimodal Focus Location Estimation in News. 29th International Conference on Multimedia Modeling (MMM 2023) [PDF](https://arxiv.org/pdf/2211.08042.pdf) [Git repo](https://github.com/TIBHannover/mm-locate-news)
 
-Hakimov, S., Cheema, G.S., Kastner,M.A., Shah, R.R., Sikka, K., (2022). MUWS'22: 1st International Workshop on Multimodal Understanding for the Web and Social Media. WWW (Companion Volume) 2022: 692-693 [URL](https://muws-workshop.github.io/2022-program.html)
+Hakimov, S., Cheema, G.S., Kastner, M.A., Shah, R.R., Sikka, K., (2022). MUWS'22: 1st International Workshop on Multimodal Understanding for the Web and Social Media. WWW (Companion Volume) 2022: 692-693 [URL](https://muws-workshop.github.io/2022-program.html)
 
 Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). MM-Claims: A Dataset for Multimodal Claim Detection in Social Media. Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022) [PDF](https://aclanthology.org/2022.findings-naacl.72.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
 
