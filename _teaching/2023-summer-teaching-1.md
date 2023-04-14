@@ -8,13 +8,7 @@ date: 2023-04-17
 location: "Potsdam, Germany"
 ---
 
-This course covers topics such as:
-
-- Learn about automata
-
-- Understand Chomsky-hiearchy
-
-- Pumping Lemma, Turing Machines
+This course covers topics such as: learn about automata, understand Chomsky-hiearchy, Pumping Lemma, Turing Machines.
 
 
 [Course webpage](https://web.archive.org/web/20230414125628/https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=99269&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung)
