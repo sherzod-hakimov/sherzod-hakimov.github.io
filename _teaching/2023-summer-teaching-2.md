@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Models That Explain Themselves"
+title: "Project Seminar: Models That Explain Themselves"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-summer-teaching-2

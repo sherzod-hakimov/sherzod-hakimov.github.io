@@ -7,6 +7,12 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
+Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.13782.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
+
+Sadler, P., Hakimov, S., and Schlangen, D., (2023). Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.12880.pdf) [Git repo](https://github.com/clp-research/intra-episodic-feedback)
+
+Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents. [PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clp-research/clembench)
+
 Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J., and Ewerth, R., (2023).  Understanding Image-Text Relations and News Values for Multimodal News Analysis. Frontiers in Artificial Intelligence, Sec. Language and Computation, Volume 6 [PDF](https://www.frontiersin.org/articles/10.3389/frai.2023.1125533) [DOI](https://doi.org/10.3389/frai.2023.1125533)
 
 Tahmasebzadeh, G., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Multimodal Geolocation Estimation of News Photos. Advances in Information Retrieval - 45th European Conference on Information Retrieval (ECIR 2023) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_14) [Git repo](https://github.com/TIBHannover/mmg-newsphoto)
