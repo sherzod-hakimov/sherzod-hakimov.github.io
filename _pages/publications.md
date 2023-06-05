@@ -9,6 +9,8 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.13782.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
 
+Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
+
 Sadler, P., Hakimov, S., and Schlangen, D., (2023). Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.12880.pdf) [Git repo](https://github.com/clp-research/intra-episodic-feedback)
 
 Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents. [PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clp-research/clembench)
