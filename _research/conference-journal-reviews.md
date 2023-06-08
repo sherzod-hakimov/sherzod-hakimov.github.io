@@ -26,15 +26,15 @@ Reviewer
 * [Progress in AI](https://www.springer.com/journal/13748) 2021
 * [Italian Journal of Linguistics](https://www.italian-journal-linguistics.com/) 2021
 * [Multimedia Systems](https://www.springer.com/journal/530) 2021
-* ACM WebScience 2022
+* ACM WebScience 2022, 2023
 * ACM MM 2021, 2022
-* ACL 2020, 2021
+* ACL 2020, 2021, 2023
 * BMVC 2020, 2021
 * CIKM 2020
 * SemEval 2022
 * EACL 2021
 * ECIR 2021, 2022
-* EMNLP 2017, 2020, 2021
+* EMNLP 2017, 2020, 2021, 2023
 * ICME 2020, 2021, 2022
 * ICMR 2020
 * SIGIR Demo 2022
