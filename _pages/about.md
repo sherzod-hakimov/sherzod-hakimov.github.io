@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm a postdoctoral researcher at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam, Potsdam, Germany</a>. 
 
 I've previously worked at the <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" target="_blank">Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology & L3S Research Center, Hanover, Germany</a> and <a href="http://sc.cit-ec.uni-bielefeld.de/" target="_blank">Semantic Computing Group, CITEC, Bielefeld, Germany</a>.
@@ -15,14 +16,14 @@ I've previously worked at the <a href="https://www.tib.eu/en/research-developmen
 My research interests include topics such as Conversational AI, Natural Language Understanding, Computational Multimodal Models for Social Media and Web Data. [More Info](https://sherzod-hakimov.github.io/research/)
 
 
+## [Experience in reviewing or organizing workshops, challenges, special issue, conferences](/research/conference-journal-reviews)
+
 
 ## Recent Updates
 
 - (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [project seminar on building explainable ML models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam
 
 - (January 2023) Co-organizer of <a href="https://checkthat.gitlab.io/clef2023/task1/">CLEF CheckThat! Task 1 - Multimodal Claim Detection in Twitter</a>
-
-- (December 2022) Joined Mastodon - <a rel="me" href="https://sigmoid.social/@hakimov">Sigmoid Social Domain</a>
 
 - (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam
 

@@ -8,6 +8,41 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ## [Experience in reviewing or organizing workshops, challenges, special issue, conferences](/research/conference-journal-reviews)
 
+## Large Language Models
+
+
+<details>
+<summary markdown='span'>Relevant publications</summary>
+
+Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.13782.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
+
+Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents. [PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clp-research/clembench)
+
+
+</details>
+
+## Computational Multimodal Models
+
+
+<details>
+<summary markdown='span'>Relevant publications</summary>
+
+Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J., and Ewerth, R., (2023).  Understanding Image-Text Relations and News Values for Multimodal News Analysis. Frontiers in Artificial Intelligence, Sec. Language and Computation, Volume 6 [PDF](https://www.frontiersin.org/articles/10.3389/frai.2023.1125533) [DOI](https://doi.org/10.3389/frai.2023.1125533)
+
+Tahmasebzadeh, G., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Multimodal Geolocation Estimation of News Photos. Advances in Information Retrieval - 45th European Conference on Information Retrieval (ECIR 2023) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_14) [Git repo](https://github.com/TIBHannover/mmg-newsphoto)
+
+Tahmasebzadeh, G., Müller-Budack, E., Hakimov, S., and Ewerth, R., (2023). MM-Locate-News: Multimodal Focus Location Estimation in News. 29th International Conference on Multimedia Modeling (MMM 2023) [PDF](https://arxiv.org/pdf/2211.08042.pdf) [Git repo](https://github.com/TIBHannover/mm-locate-news)
+
+Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
+
+Hakimov, S., Cheema G.S. and Ewerth, R., (2022). TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes. SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022 [PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
+
+Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods. In the Proceedings of the Multi-Modal Pre-Training for Multimedia Understanding (MMPT 2021), co-located with ICMR [PDF](https://arxiv.org/pdf/2106.08829.pdf) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
+
+
+</details>
+
+
 ## Natural Language Understanding
 
 It is a subtopic of Natural Language Processing that deals with machine reading comprehension, extracting meaning from natural language text. 
