@@ -4,9 +4,9 @@ title: "Research Areas"
 author_profile: true
 ---
 
-You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
+## You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
 
-## [Experience in reviewing or organizing workshops, challenges, special issue, conferences](/research/conference-journal-reviews)
+## [Experience in reviewing or organizing workshops, challenges, special issue, conferences, journals](/research/conference-journal-reviews)
 
 ## Large Language Models
 

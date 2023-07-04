@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Current Highlights in NLP"
+title: "Current Highlights in NLP"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-winter-teaching-1

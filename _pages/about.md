@@ -18,10 +18,12 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## [Experience in reviewing or organizing workshops, challenges, special issue, conferences](/research/conference-journal-reviews)
 
+## [Recent publications](/publications)
+
 
 ## Recent Updates
 
-- (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [project seminar on building explainable ML models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam
+- (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam
 
 - (January 2023) Co-organizer of <a href="https://checkthat.gitlab.io/clef2023/task1/">CLEF CheckThat! Task 1 - Multimodal Claim Detection in Twitter</a>
 

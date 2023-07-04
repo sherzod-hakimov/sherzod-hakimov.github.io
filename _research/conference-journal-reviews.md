@@ -5,11 +5,11 @@ permalink: /research/conference-journal-reviews
 ---
 
 Organizing committee
-* [CLEOPATRA Workshop 2020](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
-* [CLEOPATRA Workshop 2021](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/)
-* [CLEOPATRA Workshop 2022](http://cleopatra-workshop.l3s.uni-hannover.de/)
+* [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2020](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
+* [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2021](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/)
+* [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2022](http://cleopatra-workshop.l3s.uni-hannover.de/)
 
-* [MUWS Workshop 2022](https://muws-workshop.github.io/2022-program.html)
+* [Multimodal Understanding for Web and Social Media (MUWS) Workshop 2022](https://muws-workshop.github.io/2022-program.html)
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
