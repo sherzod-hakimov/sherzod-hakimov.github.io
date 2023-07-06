@@ -8,7 +8,14 @@ author_profile: true
 
 ## [Experience in reviewing or organizing workshops, challenges, special issue, conferences, journals](/research/conference-journal-reviews)
 
-## Large Language Models
+
+## [Experience in supervision, open research topics](/research/supervision)
+
+
+
+## Research Topics & Publications
+
+### Large Language Models
 
 
 <details>
@@ -20,7 +27,7 @@ author_profile: true
 
 </details>
 
-## Computational Multimodal Models
+### Computational Multimodal Models
 
 
 <details>
@@ -42,7 +49,7 @@ Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021).  <i> A Fai
 </details>
 
 
-## Natural Language Understanding
+### Natural Language Understanding
 
 It is a subtopic of Natural Language Processing that deals with machine reading comprehension, extracting meaning from natural language text. 
 <details>
@@ -76,7 +83,7 @@ Workshops <a href="https://pub.uni-bielefeld.de/download/2657454/2715983/a12-hak
 </details>
 
 
-## Video Summarization
+### Video Summarization
 
 It deals with providing a summary for lengthy videos by taking into account the audio, text and visual frames to create concise, informative summaries. The research mainly deals with educational videos where the aim is to provide short summaries that cover most of the information presented in a video to boost easier and quick way for skimming seminar, research talks.
 
@@ -89,7 +96,7 @@ It deals with providing a summary for lengthy videos by taking into account the 
 
 </details>
 
-## Misinformation Detection
+### Misinformation Detection
 
 It is a field of study to detect documents that include falsified information in the form of text, images, videos, etc. The research explores the ideas to detect misinformed facts from social media posts, news articles, videos and related multimedia data.
 
@@ -107,7 +114,7 @@ It is a field of study to detect documents that include falsified information in
 </details>
 
 
-## Event Analysis
+### Event Analysis
 
 The goal is to analyse vast amounts of event-centric textual and visual information in multiple languages. 
 
@@ -116,14 +123,13 @@ The goal is to analyse vast amounts of event-centric textual and visual informat
 
 <p>Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf"><b>PDF</b></a> <a href="https://github.com/TIBHannover/VisE"><b>Git repo</b></a></p>
 
-</details>
+
 
 
 <p>Check out the <a href="http://cleopatra-workshop.l3s.uni-hannover.de/">CLEOPATRA Workshop</a></p>
 
 <p>Check out the <a href="http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics">Special Issue at Semantic Web Journal <i>Event-centric Open Analytics</i></a></p>
 
-## [Open MSc Topics](/research/msc-theses)
-
+</details>
 
 

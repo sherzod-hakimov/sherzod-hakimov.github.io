@@ -20,6 +20,8 @@ Program committee
 
 * [IWILDS Workshop 2020, 2021](https://iwilds2020.wordpress.com/)
 
+* [Linguistic Insights from and for Multimodal Language Processing (LIMO) Workshop 2023](https://sites.google.com/view/limo2023/)
+
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 2021, 2022
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) 2020
