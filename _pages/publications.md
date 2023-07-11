@@ -7,7 +7,7 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
-Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.13782.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
+Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://aclanthology.org/2023.findings-acl.894.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
 
 Hakimov, S., and Cheema, G.S., (2023).  Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict. [PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/record/8043459)
 
