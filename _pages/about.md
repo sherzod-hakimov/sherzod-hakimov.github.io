@@ -23,6 +23,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (July 2023) Organizing the [2nd MUWS Workshop](https://muws-workshop.github.io/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
+
 - (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam
 
 - (January 2023) Co-organizer of <a href="https://checkthat.gitlab.io/clef2023/task1/">CLEF CheckThat! Task 1 - Multimodal Claim Detection in Twitter</a>
