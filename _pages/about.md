@@ -23,13 +23,15 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
-- (July 2023) Organizing the [2nd MUWS Workshop](https://muws-workshop.github.io/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/)
+- (July 2023) Organizing the [2nd MUWS Workshop](https://muws-workshop.github.io/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in October 2023
 
-- (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam
+- (July 2023) Two papers published at ACL 2023
+
+- (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at University of Potsdam, Summer Semester 2023
 
 - (January 2023) Co-organizer of <a href="https://checkthat.gitlab.io/clef2023/task1/">CLEF CheckThat! Task 1 - Multimodal Claim Detection in Twitter</a>
 
-- (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam
+- (October 2022) Teaching NLP [lecture](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-2) and [seminar](https://sherzod-hakimov.github.io/teaching/2022-winter-teaching-1) at University of Potsdam, Winter Semester 2022-2023
 
 - (September 2022) Joined [University of Potsdam, Computational Linguistics](https://clp.ling.uni-potsdam.de/) as a postdoctoral researcher
 
