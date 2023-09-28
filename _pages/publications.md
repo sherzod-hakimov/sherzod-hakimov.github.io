@@ -9,6 +9,9 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://aclanthology.org/2023.findings-acl.894.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
 
+Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023).  Overview of the CLEF-2023 CheckThat! Lab Task 1 on
+Check-Worthiness of Multimodal and Multigenre Content. Working Notes of CLEF [PDF](https://web.archive.org/web/20230928141613/https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-019.pdf) [Challenge Website](https://web.archive.org/web/20230928141911/https://checkthat.gitlab.io/clef2023/task1/)
+
 Hakimov, S., and Cheema, G.S., (2023).  Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict. [PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/record/8043459)
 
 Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
