@@ -23,11 +23,11 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (October 2023) Organized the [2nd MUWS Workshop](https://muws-workshop.github.io/previous/2023/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in Birmingham, UK
+
 - (October 2023) Teaching NLP [MSc seminar](https://sherzod-hakimov.github.io/teaching/2023-winter-teaching-1) and [BSc seminar](https://sherzod-hakimov.github.io/teaching/2023-winter-teaching-2) at the University of Potsdam, Winter Semester 2023-2024
 
-- (July 2023) Organizing the [2nd MUWS Workshop](https://muws-workshop.github.io/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in October 2023
-
-- (July 2023) Two papers published at ACL 2023
+- (July 2023) Two papers published at [ACL 2023](https://2023.aclweb.org/)
 
 - (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at the University of Potsdam, Summer Semester 2023
 
