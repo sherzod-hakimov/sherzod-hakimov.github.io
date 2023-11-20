@@ -23,11 +23,13 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (December 2023) Our paper [clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents](https://clembench.github.io/) is accepted at [EMNLP 2023](https://2023.emnlp.org/)
+
 - (October 2023) Organized the [2nd MUWS Workshop](https://muws-workshop.github.io/previous/2023/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in Birmingham, UK
 
 - (October 2023) Teaching NLP [MSc seminar](https://sherzod-hakimov.github.io/teaching/2023-winter-teaching-1) and [BSc seminar](https://sherzod-hakimov.github.io/teaching/2023-winter-teaching-2) at the University of Potsdam, Winter Semester 2023-2024
 
-- (July 2023) Two papers published at [ACL 2023](https://2023.aclweb.org/)
+- (July 2023) Two papers published at [ACL 2023](https://2023.aclweb.org/): [Paper 1](https://aclanthology.org/2023.findings-acl.894.pdf) & [Paper 2](https://arxiv.org/pdf/2305.12880.pdf)
 
 - (April 2023) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-1) and a [Project Seminar on Building Explainable ML Models](https://sherzod-hakimov.github.io/teaching/2023-summer-teaching-2) at the University of Potsdam, Summer Semester 2023
 
