@@ -9,7 +9,8 @@ Organizing committee
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2021](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/)
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2022](http://cleopatra-workshop.l3s.uni-hannover.de/)
 
-* [Multimodal Understanding for Web and Social Media (MUWS) Workshop 2022](https://muws-workshop.github.io/2022-program.html)
+* [MUWS 2022 - The 1st  International Workshop on Multimodal Understanding for Web and Social Media](https://muws-workshop.github.io/previous/2022/)
+* [MUWS 2023 - The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2023/)
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
@@ -22,22 +23,25 @@ Program committee
 
 * [Linguistic Insights from and for Multimodal Language Processing (LIMO) Workshop 2023](https://sites.google.com/view/limo2023/)
 
+* [ACM International Conference on Multimedia Retrieval (ICMR) 2024](http://icmr2024.org/index.html)
+
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 2021, 2022
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) 2020
 * [Progress in AI](https://www.springer.com/journal/13748) 2021
 * [Italian Journal of Linguistics](https://www.italian-journal-linguistics.com/) 2021
 * [Multimedia Systems](https://www.springer.com/journal/530) 2021
+* AAAI 2024 CMASDL Workshop
 * ACM WebScience 2022, 2023
 * ACM MM 2021, 2022
 * ACL 2020, 2021, 2023
 * BMVC 2020, 2021
 * CIKM 2020, 2023
-* EACL 2021
-* ECIR 2021, 2022
+* EACL 2021, 2024
+* ECIR 2021, 2022, 2023
 * EMNLP 2017, 2020, 2021, 2023
 * ICME 2020, 2021, 2022
-* ICMR 2020
+* ICMR 2020, 2024
 * SemEval 2022
 * SIGIR Demo 2022
 * TPDL 2020
