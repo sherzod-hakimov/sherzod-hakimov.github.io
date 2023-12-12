@@ -7,6 +7,8 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
+Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) [PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clembench/clembench) [Clem Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+
 Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://aclanthology.org/2023.findings-acl.894.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
 
 Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023).  Overview of the CLEF-2023 CheckThat! Lab Task 1 on
@@ -17,8 +19,6 @@ Hakimov, S., and Cheema, G.S., (2023).  Unveiling Global Narratives: A Multiling
 Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
 
 Sadler, P., Hakimov, S., and Schlangen, D., (2023). Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://arxiv.org/pdf/2305.12880.pdf) [Git repo](https://github.com/clp-research/intra-episodic-feedback)
-
-Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents. [PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clp-research/clembench)
 
 Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J., and Ewerth, R., (2023).  Understanding Image-Text Relations and News Values for Multimodal News Analysis. Frontiers in Artificial Intelligence, Sec. Language and Computation, Volume 6 [PDF](https://www.frontiersin.org/articles/10.3389/frai.2023.1125533) [DOI](https://doi.org/10.3389/frai.2023.1125533)
 

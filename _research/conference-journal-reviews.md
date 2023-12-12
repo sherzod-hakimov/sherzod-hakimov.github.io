@@ -25,6 +25,8 @@ Program committee
 
 * [ACM International Conference on Multimedia Retrieval (ICMR) 2024](http://icmr2024.org/index.html)
 
+* [E-Society 2024](https://www.esociety-conf.org/)
+
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 2021, 2022
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) 2020
