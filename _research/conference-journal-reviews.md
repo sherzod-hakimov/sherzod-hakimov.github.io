@@ -27,6 +27,8 @@ Program committee
 
 * [E-Society 2024](https://www.esociety-conf.org/)
 
+* ACM Web Science Conference 2023, 2024
+
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 2021, 2022
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) 2020
@@ -44,6 +46,7 @@ Reviewer
 * EMNLP 2017, 2020, 2021, 2023
 * ICME 2020, 2021, 2022
 * ICMR 2020, 2024
+* NAACL 2024
 * SemEval 2022
 * SIGIR Demo 2022
 * TPDL 2020
