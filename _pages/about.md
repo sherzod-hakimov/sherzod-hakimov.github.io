@@ -25,12 +25,13 @@ My research interests include topics such as Conversational AI, Natural Language
 
 
 ## Recent Updates
-
 - (February 2024) Two papers got accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)
+
+- (February 2024) [Paper](https://clp.ling.uni-potsdam.de/publications/Hakimov-2024.pdf) got accepted at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop at [EACL 2024](https://2024.eacl.org/)
 
 - (January 2024) Organizing the [3rd MUWS Workshop](https://muws-workshop.github.io) at [ICMR 2024](http://icmr2024.org/) in Phuket, Thailand
 
-- (December 2023) Our paper [clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents](https://clembench.github.io/) is published at [EMNLP 2023](https://2023.emnlp.org/) - [Clembench Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+- (December 2023) Our paper [clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents](https://clembench.github.io/) is published at [EMNLP 2023](https://2023.emnlp.org/) - Checkout the [clembench Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
 - (October 2023) Organized the [2nd MUWS Workshop](https://muws-workshop.github.io/previous/2023/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in Birmingham, UK
 
