@@ -13,7 +13,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Thakkar, G., Hakimov, S., and Tadic, M., (2024). M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets. LREC-COLING 2024
 
-Sadler, P., Hakimov, S., and Schlangen, D., (2024). Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies. LREC-COLING 2024
+Sadler, P., Hakimov, S., and Schlangen, D., (2024). Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies. LREC-COLING 2024 [PDF](https://arxiv.org/pdf/2403.17497.pdf)
 
 Sadler, P., Hakimov, S., and Schlangen, D., (2024).  Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game. Work presented at the "Cooperative Multi-Agent Systems Decision-making and Learning" workshop (AAAI'24) [PDF](https://arxiv.org/pdf/2402.04824) [Git repo](https://github.com/clp-research/different-follower-behaviors)
 
