@@ -17,7 +17,7 @@ Sadler, P., Hakimov, S., and Schlangen, D., (2024). Sharing the Cost of Success:
 
 Sadler, P., Hakimov, S., and Schlangen, D., (2024).  Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game. Work presented at the "Cooperative Multi-Agent Systems Decision-making and Learning" workshop (AAAI'24) [PDF](https://arxiv.org/pdf/2402.04824) [Git repo](https://github.com/clp-research/different-follower-behaviors)
 
-Hakimov, S., Weiser, Y., and Schlangen, D., (2024).  Evaluating Modular Dialogue System for Form Filling Using Large Language Models. Proceedings of the Workshop on Simulation of Conversational Intelligence in Chat (SCI-CHAT) at EACL 2024 [PDF](https://aclanthology.org/2024.scichat-1.4.pdf) [Git repo](https://github.com/clp-research/modular_form_filling_with_llm)
+Hakimov, S., Weiser, Y., and Schlangen, D., (2024). 2024. Evaluating Modular Dialogue System for Form Filling Using Large Language Models. In Proceedings of the 1st Workshop on Simulating Conversational Intelligence in Chat (SCI-CHAT 2024) at EACL 2024, pages 36–52, St. Julians, Malta. Association for Computational Linguistics. [PDF](https://aclanthology.org/2024.scichat-1.4.pdf) [Git repo](https://github.com/clp-research/modular_form_filling_with_llm)
 
 ### **2023**
 
