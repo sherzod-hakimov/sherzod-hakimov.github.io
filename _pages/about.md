@@ -27,7 +27,7 @@ My research interests include topics such as Conversational AI, Natural Language
 ## Recent Updates
 - (February 2024) Two papers ([Paper1](https://arxiv.org/pdf/2404.01753.pdf), [Paper2](https://arxiv.org/pdf/2403.17497.pdf)) got accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)
 
-- (February 2024) [Paper](https://clp.ling.uni-potsdam.de/publications/Hakimov-2024.pdf) got accepted at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop at [EACL 2024](https://2024.eacl.org/)
+- (February 2024) [Paper](https://aclanthology.org/2024.scichat-1.4.pdf) got accepted at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop at [EACL 2024](https://2024.eacl.org/)
 
 - (January 2024) Organizing the [3rd MUWS Workshop](https://muws-workshop.github.io) at [ICMR 2024](http://icmr2024.org/) in Phuket, Thailand
 
