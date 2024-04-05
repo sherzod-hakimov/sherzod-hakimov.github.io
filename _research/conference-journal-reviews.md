@@ -25,6 +25,8 @@ Program committee
 
 * [ACM International Conference on Multimedia Retrieval (ICMR) 2024](http://icmr2024.org/index.html)
 
+* [ACM International Conference on Information and Knowledge Management (CIKM) 2024](https://cikm2024.org/)
+
 * [E-Society 2024](https://www.esociety-conf.org/)
 
 * ACM Web Science Conference 2023, 2024
