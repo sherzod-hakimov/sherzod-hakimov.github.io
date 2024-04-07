@@ -10,6 +10,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2024**
 
+Hakimov, S., and Cheema, G.S., (2024).  Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict. ACM International Conference on Multimedia Retrieval (ICMR) 2024 [PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/records/10563101)
 
 Thakkar, G., Hakimov, S., and Tadic, M., (2024). M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets. LREC-COLING 2024 [PDF](https://arxiv.org/pdf/2404.01753.pdf) [Git Repo](https://github.com/cleopatra-itn/M2SA-multimodal-multilingual-sentiment-analysis)
 
@@ -27,8 +28,6 @@ Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the
 
 Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023).  Overview of the CLEF-2023 CheckThat! Lab Task 1 on
 Check-Worthiness of Multimodal and Multigenre Content. Working Notes of CLEF [PDF](https://ceur-ws.org/Vol-3497/paper-019.pdf) [Challenge Website](https://web.archive.org/web/20230928141911/https://checkthat.gitlab.io/clef2023/task1/)
-
-Hakimov, S., and Cheema, G.S., (2023).  Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict. [PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/record/8043459)
 
 Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
 
