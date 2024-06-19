@@ -26,13 +26,13 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (June 2024) Presented the [dataset paper](https://arxiv.org/pdf/2306.12886.pdf) at [ICMR 2024](http://icmr2024.org/) in Phuket, Thailand
+
 - (June 2024) Organized the [3rd MUWS Workshop](https://muws-workshop.github.io/program) at [ICMR 2024](http://icmr2024.org/) in Phuket, Thailand
 
 - (April 2024) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2024-summer-teaching-1) and a [Project Seminar on Evaluating Chat-Optimized Language Models](https://sherzod-hakimov.github.io/teaching/2024-summer-teaching-2) at the University of Potsdam, Summer Semester 2024
 
-- (April 2024) [Dataset paper](https://arxiv.org/pdf/2306.12886.pdf) accepted at [ICMR 2024](http://icmr2024.org/).
-
-- (February 2024) Two papers ([Paper1](https://arxiv.org/pdf/2404.01753.pdf), [Paper2](https://arxiv.org/pdf/2403.17497.pdf)) accepted at [LREC-COLING 2024](https://lrec-coling-2024.org/)
+- (February 2024) Two papers ([Paper1](https://arxiv.org/pdf/2404.01753.pdf), [Paper2](https://arxiv.org/pdf/2403.17497.pdf)) published at [LREC-COLING 2024](https://lrec-coling-2024.org/)
 
 - (February 2024) [Paper](https://aclanthology.org/2024.scichat-1.4.pdf) published at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop co-located with [EACL 2024](https://2024.eacl.org/)
 
