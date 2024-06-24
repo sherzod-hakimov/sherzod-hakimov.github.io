@@ -10,6 +10,12 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2024**
 
+Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen. D. (2024). Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models. [arXiv preprint arXiv:2406.14035](https://arxiv.org/abs/2406.14035)
+
+Bhavsar, N., Jordan, J., Hakimov, S., & Schlangen. D. (2024). How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics [arXiv preprint arXiv:2406.14051](https://arxiv.org/abs/2406.14051)
+
+Beyer, A., Chalamalasetti, K., Hakimov, S., Madureira, B., Sadler, P., & Schlangen, D. (2024). clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents. [arXiv preprint arXiv:2405.20859](https://arxiv.org/abs/2405.20859)
+
 Hakimov, S., and Cheema, G.S., (2024).  Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict. ACM International Conference on Multimedia Retrieval (ICMR) 2024 [PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/records/10563101)
 
 Thakkar, G., Hakimov, S., and Tadic, M., (2024). M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets. LREC-COLING 2024 [PDF](https://arxiv.org/pdf/2404.01753.pdf) [Git Repo](https://github.com/cleopatra-itn/M2SA-multimodal-multilingual-sentiment-analysis)
