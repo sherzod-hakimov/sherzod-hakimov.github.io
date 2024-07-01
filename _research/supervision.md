@@ -14,9 +14,3 @@ permalink: /research/supervision
 
 <br/>
 <br/>
-
-### Open Topics
-
-** Fine-tuning Large Language Models on Specific Domains: This project involves using existing code bases to fine-tune LlaMa model on various new domains. The required skills to have would be previous experience in training machine learning models, familiarity with following instructions from another Github repository and being able to install/run the code. The access to GPUs will be provided by the group for training.
-
-  Required skills: Python, Familiarity with any Deep Learning library (Pytorch, Tensorflow), Natural Language Processing, Computer Vision
