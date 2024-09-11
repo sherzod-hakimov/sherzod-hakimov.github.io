@@ -33,6 +33,10 @@ Program committee
 
 * ACM Web Science Conference 2023, 2024
 
+* CoNLL 2025
+
+* COLING 2025
+
 Reviewer
 * [Semantic Web Journal](http://www.semantic-web-journal.net/) 2021, 2022
 * [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) 2020
@@ -43,8 +47,10 @@ Reviewer
 * ACM WebScience 2022, 2023
 * ACM MM 2021, 2022
 * ACL 2020, 2021, 2023, 2024
+* ARR 2022, 2023, 2024
 * BMVC 2020, 2021
 * CIKM 2020, 2023, 2024
+* CoNLL 2024
 * EACL 2021, 2024
 * ECIR 2021, 2022, 2023
 * EMNLP 2017, 2020, 2021, 2023
