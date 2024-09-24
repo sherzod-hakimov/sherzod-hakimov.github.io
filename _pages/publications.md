@@ -10,7 +10,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2024**
 
-Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2024). Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models. [arXiv preprint arXiv:2406.14035](https://arxiv.org/abs/2406.14035)
+Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2024). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models. [arXiv preprint arXiv:2406.14035](https://arxiv.org/abs/2406.14035)
 
 Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. [arXiv preprint arXiv:2407.01384](https://arxiv.org/abs/2407.01384)
 
