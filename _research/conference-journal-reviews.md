@@ -33,7 +33,7 @@ Program committee
 
 * ACM Web Science Conference 2023, 2024
 
-* CoNLL 2025
+* CoNLL 2024
 
 * COLING 2025
 
@@ -50,6 +50,7 @@ Reviewer
 * ARR 2022, 2023, 2024
 * BMVC 2020, 2021
 * CIKM 2020, 2023, 2024
+* COLING 2025
 * CoNLL 2024
 * EACL 2021, 2024
 * ECIR 2021, 2022, 2023

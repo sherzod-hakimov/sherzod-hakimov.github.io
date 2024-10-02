@@ -26,6 +26,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (October 2024) Teaching NLP [MSc seminar](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-1) and [BSc Programming 1](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-2) at the University of Potsdam, Winter Semester 2024-2025
+
 - (August 2024) - Attended [PEELx Workshop 2024 organized by Startup Service of University of Potsdam](https://www.linkedin.com/posts/startup-service-uni-potsdam_potsdamtransfer-startupservice-peelx2024-activity-7237854532922220544-y-dT/) as an idea provider "Custom LLMs for Enterprises"
 
 - (June 2024) Presented the [dataset paper](https://arxiv.org/pdf/2306.12886.pdf) at [ICMR 2024](http://icmr2024.org/) in Phuket, Thailand
