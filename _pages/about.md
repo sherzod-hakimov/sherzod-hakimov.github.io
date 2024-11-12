@@ -24,9 +24,9 @@ My research interests include topics such as Conversational AI, Natural Language
 ## [Recent publications](/publications)
 
 
-## Recent Updates
+## Important Updates
 
-- (November 2024) [Paper](https://arxiv.org/abs/2406.17553) accepted at [EMNLP 2024](https://2024.emnlp.org/)
+- (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
 
 - (October 2024) Teaching [MSc NLP seminar](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-1) and [BSc Programming 1](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-2) at the University of Potsdam, Winter Semester 2024-2025
 

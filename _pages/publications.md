@@ -14,7 +14,7 @@ Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & 
 
 Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. [arXiv preprint arXiv:2407.01384](https://arxiv.org/abs/2407.01384)
 
-Kranti, C., Hakimov, S. and Schlangen, D. (2024). Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft. [EMNLP 2024](https://arxiv.org/abs/2406.17553)
+Kranti, C., Hakimov, S. and Schlangen, D. (2024). Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [PDF](https://aclanthology.org/2024.findings-emnlp.652/)
 
 Bhavsar, N., Jordan, J., Hakimov, S., & Schlangen. D. (2024). How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics [arXiv preprint arXiv:2406.14051](https://arxiv.org/abs/2406.14051)
 
