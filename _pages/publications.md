@@ -8,9 +8,11 @@ author_profile: true
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
 
-### **2024**
+### **2025**
 
-Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2024). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models. [arXiv preprint arXiv:2406.14035](https://arxiv.org/abs/2406.14035)
+Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://arxiv.org/abs/2406.14035) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+
+### **2024**
 
 Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. [arXiv preprint arXiv:2407.01384](https://arxiv.org/abs/2407.01384)
 
