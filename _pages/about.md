@@ -26,6 +26,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Important Updates
 
+- (December 2024) [Paper on benchmarking Multimodal LLMs](https://arxiv.org/abs/2406.14035) accepted at [COLING 2025](https://coling2025.org/). Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+
 - (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
 
 - (October 2024) Teaching [MSc NLP seminar](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-1) and [BSc Programming 1](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-2) at the University of Potsdam, Winter Semester 2024-2025
