@@ -26,7 +26,7 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Important Updates
 
-- (December 2024) [Paper on benchmarking Multimodal LLMs](https://arxiv.org/abs/2406.14035) accepted at [COLING 2025](https://coling2025.org/). Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+- (January 2025) [Paper on benchmarking Multimodal LLMs](https://aclanthology.org/2025.coling-main.381/) was presented at [COLING 2025](https://coling2025.org/) in Abu Dhabi, UAE. Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
 - (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
 
