@@ -12,6 +12,10 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
+Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models. [PDF](https://arxiv.org/pdf/2502.11707)
+
+Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Table, Book on Shelf. Benchmarking Practical Reasoning and Situation Modelling in a Text-Simulated Situated Environment [PDF](https://arxiv.org/pdf/2502.11733)
+
 ### **2024**
 
 Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. [arXiv preprint arXiv:2407.01384](https://arxiv.org/abs/2407.01384)
