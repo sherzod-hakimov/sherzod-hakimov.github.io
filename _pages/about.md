@@ -26,6 +26,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Important Updates
 
+- (March 2025) Our [MUWS - Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) workshop is accepted to be held at [ACM Multimedia'25](https://acmmm2025.org/) in October, in Dublin.
+
 - (January 2025) [Paper on benchmarking Multimodal LLMs](https://aclanthology.org/2025.coling-main.381/) was presented at [COLING 2025](https://coling2025.org/) in Abu Dhabi, UAE. Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
 - (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
