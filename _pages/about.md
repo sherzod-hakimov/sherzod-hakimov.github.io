@@ -26,6 +26,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Important Updates
 
+- (April 2025) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2025-summer-teaching-1) and a [Project Seminar on Evaluating Chat-Optimized Language Models](https://sherzod-hakimov.github.io/teaching/2025-summer-teaching-2) at the University of Potsdam, Summer Semester 2025
+
 - (March 2025) Our [MUWS - Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) workshop is accepted to be held at [ACM Multimedia'25](https://acmmm2025.org/) in October, in Dublin.
 
 - (January 2025) [Paper on benchmarking Multimodal LLMs](https://aclanthology.org/2025.coling-main.381/) was presented at [COLING 2025](https://coling2025.org/) in Abu Dhabi, UAE. Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
