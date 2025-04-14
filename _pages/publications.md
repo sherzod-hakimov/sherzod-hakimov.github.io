@@ -14,7 +14,9 @@ Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & 
 
 Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models. [PDF](https://arxiv.org/pdf/2502.11707)
 
-Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Table, Book on Shelf. Benchmarking Practical Reasoning and Situation Modelling in a Text-Simulated Situated Environment [PDF](https://arxiv.org/pdf/2502.11733)
+Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Table, Book on Shelf. Benchmarking Practical Reasoning and Situation Modelling in a Text-Simulated Situated Environment. [PDF](https://arxiv.org/pdf/2502.11733)
+
+Nicola Horst and Davide Mazzaccara and Antonia Schmidt and Michael Sullivan and Filippo Momentè and Luca Franceschetti and Philipp Sadler and Sherzod Hakimov and Alberto Testoni and Raffaella Bernardi and Raquel Fernández and Alexander Koller and Oliver Lemon and David Schlangen and Mario Giulianelli and Alessandro Suglia (2025). Playpen: An Environment for Exploring Learning Through Conversational Interaction. [PDF](https://arxiv.org/pdf/2504.08590)
 
 ### **2024**
 
