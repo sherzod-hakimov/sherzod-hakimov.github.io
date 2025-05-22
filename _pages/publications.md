@@ -12,11 +12,13 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
-Kranti, C., Hakimov, S. and Schlangen, D. (2024). clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations. [PDF](https://arxiv.org/pdf/2505.05445)
+Kranti, C., Hakimov, S. and Schlangen, D. (2025). clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations. [PDF](https://arxiv.org/pdf/2505.05445)
+
+Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. [PDF](https://arxiv.org/pdf/2505.14425)
 
 Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models. [PDF](https://arxiv.org/pdf/2502.11707)
 
-Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Table, Book on Shelf. Benchmarking Practical Reasoning and Situation Modelling in a Text-Simulated Situated Environment. [PDF](https://arxiv.org/pdf/2502.11733)
+Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Rably, Inat Aphone. Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment. [PDF](https://arxiv.org/pdf/2502.11733)
 
 Nicola Horst and Davide Mazzaccara and Antonia Schmidt and Michael Sullivan and Filippo Momentè and Luca Franceschetti and Philipp Sadler and Sherzod Hakimov and Alberto Testoni and Raffaella Bernardi and Raquel Fernández and Alexander Koller and Oliver Lemon and David Schlangen and Mario Giulianelli and Alessandro Suglia (2025). Playpen: An Environment for Exploring Learning Through Conversational Interaction. [PDF](https://arxiv.org/pdf/2504.08590)
 
