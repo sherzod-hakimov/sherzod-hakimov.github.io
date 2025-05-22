@@ -26,6 +26,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Important Updates
 
+- (May 2025) Presented our [paper on incremental learning in an interactive fiction environment](https://arxiv.org/pdf/2502.11733) at [ResearchTrend - LLM Agents Track](https://researchtrend.ai/social-events/researchtrend-connect-llmag-vlm-fedml)
+
 - (April 2025) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2025-summer-teaching-1) and a [Project Seminar on Evaluating Chat-Optimized Language Models](https://sherzod-hakimov.github.io/teaching/2025-summer-teaching-2) at the University of Potsdam, Summer Semester 2025
 
 - (March 2025) Our [MUWS - Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) workshop is accepted to be held at [ACM Multimedia'25](https://acmmm2025.org/) in October, in Dublin.
