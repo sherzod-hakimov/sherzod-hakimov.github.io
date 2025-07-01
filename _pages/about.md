@@ -50,6 +50,7 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (February 2024) [Paper](https://aclanthology.org/2024.scichat-1.4.pdf) published at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop co-located with [EACL 2024](https://2024.eacl.org/)
 
+<!--
 - (December 2023) Our paper [clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents](https://clembench.github.io/) is published at [EMNLP 2023](https://2023.emnlp.org/) - Checkout the [clembench Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
 - (October 2023) Organized the [2nd MUWS Workshop](https://muws-workshop.github.io/previous/2023/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in Birmingham, UK
@@ -77,3 +78,5 @@ My research interests include topics such as Conversational AI, Natural Language
 - (September 2019) Joined [TIB, Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) and [CLEOPATRA Project- Marie Skłodowska-Curie Innovative Training Network](https://cleopatra-project.eu/) as a postdoctoral researcher
 
 - (May 2019) Received the doctoral degree (Dr. rer. nat) with a grade *magna cum laude* for the dissertation: [Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf), supervised by [Philipp Cimiano](http://sc.cit-ec.uni-bielefeld.de/team/philipp-cimiano/), Bielefeld University, Germany. 
+
+-->
