@@ -18,13 +18,13 @@ Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Ra
 
 Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models. GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025 [PDF](https://arxiv.org/pdf/2502.11707)
 
+Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025 [PDF](https://arxiv.org/abs/2407.01384)
+
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. [PDF](https://arxiv.org/pdf/2505.14425)
 
 Nicola Horst and Davide Mazzaccara and Antonia Schmidt and Michael Sullivan and Filippo Momentè and Luca Franceschetti and Philipp Sadler and Sherzod Hakimov and Alberto Testoni and Raffaella Bernardi and Raquel Fernández and Alexander Koller and Oliver Lemon and David Schlangen and Mario Giulianelli and Alessandro Suglia (2025). Playpen: An Environment for Exploring Learning Through Conversational Interaction. [PDF](https://arxiv.org/pdf/2504.08590)
 
 ### **2024**
-
-Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. [arXiv preprint arXiv:2407.01384](https://arxiv.org/abs/2407.01384)
 
 Kranti, C., Hakimov, S. and Schlangen, D. (2024). Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [PDF](https://aclanthology.org/2024.findings-emnlp.652/)
 
