@@ -31,6 +31,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (July 2025) Added a tool for filtering body of waters for LAVB Branbenburg [link](https://sherzod-hakimov-brandenburg-angeln-gewaesser.hf.space)
+
 - (July 2025) Paper [clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](https://arxiv.org/pdf/2505.05445) is accepted [SIGDIAL'25](https://2025.sigdial.org/)
 
 - (July 2025) Paper on [incremental learning in an interaction fiction environment: Adventure game](https://arxiv.org/pdf/2502.11733) is accepted [Text,Speech, Dialog (TSD'25)](https://www.kiv.zcu.cz/tsd2025/index.php)
