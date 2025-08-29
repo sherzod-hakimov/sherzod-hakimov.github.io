@@ -16,7 +16,8 @@ Kranti, C., Hakimov, S. and Schlangen, D. (2025). clem:todd: A Framework for the
 
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming. ITL4HRI Workshop co-located with International Conference on Robot and Human Interactive Communication (RO-MAN) [PDF](https://arxiv.org/pdf/2409.11041)
 
-Jordan, J., Hakimov, S., & Schlangen, D. (2025). Plant in Cupboard, Orange on Rably, Inat Aphone. Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment. Text, Speech, and Dialogue (TSD 2025) [PDF](https://arxiv.org/pdf/2502.11733)
+
+Jordan, J., Hakimov, S., Schlangen, D. (2026). Plant in Cupboard, Orange on Rably, Inat Aphone. Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment. In: Text, Speech, and Dialogue. TSD 2025. Lecture Notes in Computer Science(), vol 16030. Springer, Cham. https://doi.org/10.1007/978-3-032-02551-7_6 [PDF](https://arxiv.org/pdf/2502.11733)
 
 Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models. GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025 [PDF](https://arxiv.org/pdf/2502.11707)
 
