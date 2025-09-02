@@ -31,15 +31,16 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
-- (August 2025) Paper on [Code Synthesis by Large Code Models for Conversational Programming](https://arxiv.org/pdf/2409.11041) is accepted at a workshop, co-located with [RO-MAN](https://www.ro-man2025.org/)
+- (September 2025) Paper on [training language models on dialogue games' data (Playpen)](https://arxiv.org/pdf/2504.08590) is accepted at EMNLP 2025
+- (August 2025) Paper on [Code Synthesis by Large Code Models for Conversational Programming](https://arxiv.org/pdf/2409.11041) is published at a workshop, co-located with [RO-MAN](https://www.ro-man2025.org/)
 
 - (July 2025) Added a tool for filtering body of waters for LAVB Branbenburg [link](https://sherzod-hakimov-brandenburg-angeln-gewaesser.hf.space)
 
-- (July 2025) Paper [clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](https://arxiv.org/pdf/2505.05445) is accepted [SIGDIAL'25](https://2025.sigdial.org/)
+- (July 2025) Paper [clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations](https://arxiv.org/pdf/2505.05445) is published at [SIGDIAL'25](https://2025.sigdial.org/)
 
 - (July 2025) Paper on [incremental learning in an interaction fiction environment: Adventure game](https://arxiv.org/pdf/2502.11733) is accepted [Text,Speech, Dialog (TSD'25)](https://www.kiv.zcu.cz/tsd2025/index.php)
 
-- (July 2025) Paper [Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models](https://arxiv.org/pdf/2502.11707) is accepted [Gem-Bench workshop at ACL'25](https://gem-benchmark.com/workshop)
+- (July 2025) Paper [Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models](https://arxiv.org/pdf/2502.11707) is published at [Gem-Bench workshop @ ACL'25](https://gem-benchmark.com/workshop)
 
 - (May 2025) Presented our [paper on incremental learning in an interactive fiction environment](https://arxiv.org/pdf/2502.11733) at [ResearchTrend - LLM Agents Track](https://researchtrend.ai/social-events/researchtrend-connect-llmag-vlm-fedml), here is the [video recording](https://youtu.be/3llyAwB3oug?t=973)
 

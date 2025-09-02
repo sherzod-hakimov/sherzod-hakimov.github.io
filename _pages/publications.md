@@ -12,6 +12,8 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
+Horst, N. and Mazzaccara, D. and Schmidt, A. and Sullivan, M. and Momentè, F. and Franceschetti, L. and Sadler, P. and Hakimov, S. and Testoni, A. and Bernardi, R. and Fernández, R. and Koller, A. and Lemon, O. and Schlangen, D. and Giulianelli, M. and Suglia, A. (2025). Playpen: An Environment for Exploring Learning Through Conversational Interaction. In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) [PDF](https://arxiv.org/pdf/2504.08590)
+
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations. Special Interest Group on Discourse and Dialogue (SIGDIAL 2025) [PDF](https://arxiv.org/pdf/2505.05445)
 
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming. ITL4HRI Workshop co-located with International Conference on Robot and Human Interactive Communication (RO-MAN) [PDF](https://arxiv.org/pdf/2409.11041)
@@ -24,7 +26,7 @@ Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under 
 
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. [PDF](https://arxiv.org/pdf/2505.14425)
 
-Nicola Horst and Davide Mazzaccara and Antonia Schmidt and Michael Sullivan and Filippo Momentè and Luca Franceschetti and Philipp Sadler and Sherzod Hakimov and Alberto Testoni and Raffaella Bernardi and Raquel Fernández and Alexander Koller and Oliver Lemon and David Schlangen and Mario Giulianelli and Alessandro Suglia (2025). Playpen: An Environment for Exploring Learning Through Conversational Interaction. [PDF](https://arxiv.org/pdf/2504.08590)
+
 
 ### **2024**
 
