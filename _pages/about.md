@@ -31,7 +31,9 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
-- (October 2025) Teaching seminars on programming (BSc) and NLP (MSc) at the University of Potsdam, Winter Semester 2025-2026
+- (October 2025) Organized the [4th MUWS Workshop](https://muws-workshop.github.io/program) at [ACM Multimedia 2025](https://acmmm2025.org/) in Dublin, Ireland
+
+- (October 2025) Teaching [MSc NLP seminar](https://sherzod-hakimov.github.io/teaching/2025-winter-teaching-1) and [BSc Programming 2](https://sherzod-hakimov.github.io/teaching/2025-winter-teaching-2) at the University of Potsdam, Winter Semester 2025-2026
 
 - (September 2025) Paper on [training language models on dialogue games' data (Playpen)](https://arxiv.org/pdf/2504.08590) is accepted at EMNLP 2025
 - (August 2025) Paper on [Code Synthesis by Large Code Models for Conversational Programming](https://arxiv.org/pdf/2409.11041) is published at a workshop, co-located with [RO-MAN](https://www.ro-man2025.org/)
