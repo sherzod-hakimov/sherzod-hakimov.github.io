@@ -24,7 +24,7 @@ Hakimov, S.,  Pfennigschmidt, L., & Schlangen, D. (2025). Ad-hoc Concept Forming
 
 Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under Readability Level Control. GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025 [PDF](https://arxiv.org/abs/2407.01384)
 
-Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. [PDF](https://arxiv.org/pdf/2505.14425)
+Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. IJCNLP-AACL 2025.  [PDF](https://arxiv.org/pdf/2505.14425)
 
 Hakimov S, Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models. [PDF](https://arxiv.org/pdf/2510.08098)
 
