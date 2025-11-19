@@ -12,7 +12,9 @@ Organizing committee
 * [MUWS 2022 - The 1st  International Workshop on Multimodal Understanding for Web and Social Media](https://muws-workshop.github.io/previous/2022/)
 * [MUWS 2023 - The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2023/)
 
-* [MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2023/)
+* [MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2024/)
+
+* [MUWS 2025 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2025/)
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
@@ -63,4 +65,4 @@ Reviewer
 * SIGDIAL 2024
 * SIGIR 2025
 * TPDL 2020
-* WWW PhD Symposium 2022
+* WWW 2022, 2025
