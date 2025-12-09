@@ -271,11 +271,8 @@ author_profile: true
     </div>
 </div>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    
-    // Publication data
-    const markdownContent = `
+{% raw %}
+<script type="text/plain" id="publication-data">
 ### **2025**
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
@@ -415,17 +412,36 @@ Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013) Semantic question answeri
 ### **2012**
 
 Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th international workshop on semantic web information management [PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
-    `;
+</script>
+{% endraw %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    
+    // FETCH THE RAW DATA FROM THE SCRIPT BLOCK
+    const dataElement = document.getElementById('publication-data');
+    if (!dataElement) {
+        console.error("Could not find publication data element");
+        return;
+    }
+    
+    const markdownContent = dataElement.textContent;
 
     function parseMarkdown(md) {
-        const lines = md.trim().split('\n');
+        // Split by newline and cleanup carriage returns
+        const lines = md.trim().replace(/\r\n/g, '\n').split('\n');
         const publications = {};
         let currentYear = null;
         let currentEntry = '';
 
         for (let line of lines) {
-            // Check for year header (updated specifically for handling indentation)
-            const yearMatch = line.match(/^\s*###\s+\*\*(\d{4})\*\*/);
+            // Trim whitespace from line
+            const trimmedLine = line.trim();
+            
+            // Regex to find Year Header (e.g. ### **2025**)
+            // Handles potential spaces around ### or inside **
+            const yearMatch = trimmedLine.match(/^###\s+\*\*(\d{4})\*\*/);
+            
             if (yearMatch) {
                 currentYear = yearMatch[1];
                 publications[currentYear] = [];
@@ -434,7 +450,7 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
             }
 
             // Skip empty lines
-            if (!line.trim()) {
+            if (!trimmedLine) {
                 if (currentEntry && currentYear) {
                     publications[currentYear].push(parseEntry(currentEntry));
                     currentEntry = '';
@@ -444,11 +460,11 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
 
             // Accumulate entry lines
             if (currentYear) {
-                currentEntry += (currentEntry ? ' ' : '') + line.trim();
+                currentEntry += (currentEntry ? ' ' : '') + trimmedLine;
             }
         }
 
-        // Add last entry
+        // Add last entry if exists
         if (currentEntry && currentYear) {
             publications[currentYear].push(parseEntry(currentEntry));
         }
@@ -457,15 +473,15 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
     }
 
     function parseEntry(entry) {
-        // Extract authors (everything before the year in parentheses)
-        const authorMatch = entry.match(/^\s*(.+?)\s+\(\d{4}\)/);
+        // Extract authors (start of line until year in parens)
+        const authorMatch = entry.match(/^(.+?)\s+\(\d{4}\)/);
         const authors = authorMatch ? authorMatch[1] : '';
 
-        // Extract title (between year and venue/links)
+        // Extract title (between year and "In Proceedings" or similar)
+        // Regex looks for (YEAR). TITLE. Venue...
         const titleMatch = entry.match(/\(\d{4}\)\.\s+(.+?)(?:\.\s+(?:In |Proceedings|[A-Z])|$)/);
         const title = titleMatch ? titleMatch[1] : '';
 
-        // Check for thesis
         const isThesis = entry.includes('Doctoral Dissertation');
         const isMagnaCumLaude = entry.includes('magna cum laude');
 
@@ -476,7 +492,7 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
             venue = venueMatch[1].trim();
         }
 
-        // Extract all links
+        // Extract links
         const links = [];
         const linkRegex = /\[([^\]]+)\]\(([^\)]+)\)/g;
         let linkMatch;
@@ -484,17 +500,17 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
             let label = linkMatch[1];
             const url = linkMatch[2];
             
-            // Determine icon based on label
             let icon = '🔗';
-            if (label.toLowerCase().includes('pdf')) icon = '📄';
-            else if (label.toLowerCase().includes('git') || label.toLowerCase().includes('code') || label.toLowerCase().includes('repo')) icon = '💻';
-            else if (label.toLowerCase().includes('dataset')) icon = '📊';
-            else if (label.toLowerCase().includes('demo')) icon = '🎮';
-            else if (label.toLowerCase().includes('leaderboard')) icon = '🏆';
-            else if (label.toLowerCase().includes('slide')) icon = '🎤';
-            else if (label.toLowerCase().includes('challenge') || label.toLowerCase().includes('website')) icon = '🌐';
-            else if (label.toLowerCase().includes('ontology')) icon = '🔍';
-            else if (label.toLowerCase().includes('uri') || label.toLowerCase().includes('doi')) icon = '🔗';
+            const lowerLabel = label.toLowerCase();
+            if (lowerLabel.includes('pdf')) icon = '📄';
+            else if (lowerLabel.includes('git') || lowerLabel.includes('code') || lowerLabel.includes('repo')) icon = '💻';
+            else if (lowerLabel.includes('dataset')) icon = '📊';
+            else if (lowerLabel.includes('demo')) icon = '🎮';
+            else if (lowerLabel.includes('leaderboard')) icon = '🏆';
+            else if (lowerLabel.includes('slide')) icon = '🎤';
+            else if (lowerLabel.includes('challenge') || lowerLabel.includes('website')) icon = '🌐';
+            else if (lowerLabel.includes('ontology')) icon = '🔍';
+            else if (lowerLabel.includes('uri') || lowerLabel.includes('doi')) icon = '🔗';
 
             links.push({ label, url, icon });
         }
@@ -504,7 +520,8 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
 
     function renderPublications(publications) {
         const container = document.getElementById('publications-container');
-        if(!container) return; // Guard clause
+        if(!container) return;
+        
         container.innerHTML = '';
 
         const years = Object.keys(publications).sort((a, b) => b - a);
@@ -579,14 +596,20 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
         if(yearsActiveEl) yearsActiveEl.textContent = years.length;
     }
 
-    // Parse and render
     try {
+        console.log("Parsing publications...");
         const publications = parseMarkdown(markdownContent);
-        renderPublications(publications);
+        if (Object.keys(publications).length === 0) {
+            console.warn("No publications found! Check regex/format.");
+            document.getElementById('publications-container').innerHTML = 
+                '<div class="loading" style="color:red">Error: No publications found in data block.</div>';
+        } else {
+            renderPublications(publications);
+        }
     } catch(e) {
         console.error("Publication rendering failed:", e);
         const container = document.getElementById('publications-container');
-        if(container) container.innerHTML = '<div style="color:red; text-align:center;">Error loading publications. Please check console.</div>';
+        if(container) container.innerHTML = '<div style="color:red; text-align:center;">Error loading publications. See console.</div>';
     }
 });
 </script>
