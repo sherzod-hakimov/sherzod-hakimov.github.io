@@ -6,16 +6,14 @@ author_profile: true
 ---
 
 <style>
-    /* Scoped container to avoid breaking site-wide layout, 
-       but applying the requested visual style */
-    
     .pub-custom-body {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
         line-height: 1.6;
         color: #333;
         background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
         padding: 40px 20px;
-        border-radius: 8px; /* Soften edges if embedded in a theme */
+        border-radius: 8px;
+        margin-top: 20px;
     }
 
     .pub-container {
@@ -35,11 +33,11 @@ author_profile: true
     }
 
     .pub-header h1 {
-        font-size: 2.8em;
+        font-size: 2.5em;
         color: #2c3e50;
         margin-bottom: 20px;
         font-weight: 700;
-        border-bottom: none; /* Override potential theme defaults */
+        border-bottom: none;
     }
 
     .profile-links {
@@ -56,7 +54,7 @@ author_profile: true
         gap: 8px;
         padding: 12px 24px;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white !important; /* Force color override for themes */
+        color: white !important;
         text-decoration: none !important;
         border-radius: 25px;
         font-weight: 600;
@@ -274,7 +272,9 @@ author_profile: true
 </div>
 
 <script>
-    // Publication data from your markdown content
+document.addEventListener("DOMContentLoaded", function() {
+    
+    // Publication data
     const markdownContent = `
 ### **2025**
 
@@ -295,8 +295,6 @@ Hsu, Y., Feldhus, N., & Hakimov, S. (2024) Free-text Rationale Generation under 
 Kranti, C., Hakimov, S. and Schlangen, D. (2025). From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning. IJCNLP-AACL 2025.  [PDF](https://arxiv.org/pdf/2505.14425)
 
 Hakimov S, Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models. [PDF](https://arxiv.org/pdf/2510.08098)
-
-
 
 ### **2024**
 
@@ -322,8 +320,7 @@ Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schl
 
 Hakimov, S., and Schlangen, D., (2023).  Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks. Findings of the Association for Computational Linguistics: ACL 2023 [PDF](https://aclanthology.org/2023.findings-acl.894.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
 
-Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023).  Overview of the CLEF-2023 CheckThat! Lab Task 1 on
-Check-Worthiness of Multimodal and Multigenre Content. Working Notes of CLEF [PDF](https://ceur-ws.org/Vol-3497/paper-019.pdf) [Challenge Website](https://web.archive.org/web/20230928141911/https://checkthat.gitlab.io/clef2023/task1/)
+Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023).  Overview of the CLEF-2023 CheckThat! Lab Task 1 on Check-Worthiness of Multimodal and Multigenre Content. Working Notes of CLEF [PDF](https://ceur-ws.org/Vol-3497/paper-019.pdf) [Challenge Website](https://web.archive.org/web/20230928141911/https://checkthat.gitlab.io/clef2023/task1/)
 
 Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). Improving Generalization for Multimodal Fake News Detection. International Conference on Multimedia Retrieval (ICMR 2023) [PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
 
@@ -365,8 +362,7 @@ Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). Supervised Video Summarization
 
 Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). On the Role of Images for Analyzing Claims in Social Media. In the Proceedings of the CLEOPATRA workshop co-located with The Web Conference (WWW) [PDF](http://ceur-ws.org/Vol-2829/paper3.pdf) [Git repo](https://github.com/cleopatra-itn/image_text_claim_detection)
 
-Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2021). Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics
-co-located with the 30th The Web Conference (WWW 2021) [CEUR Vol-2829](http://ceur-ws.org/Vol-2829/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de)
+Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2021). Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics co-located with the 30th The Web Conference (WWW 2021) [CEUR Vol-2829](http://ceur-ws.org/Vol-2829/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de)
 
 Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). Ontology-driven Event Type Classification in Images. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf) [Git repo](https://github.com/TIBHannover/VisE)
 
@@ -386,53 +382,39 @@ Tavakoli, M., Hakimov, S., Ewerth, R. and Kismihók, G., (2020) A Recommender Sy
 
 ### **2019**
 
-Hakimov, S. (2019). Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (**Doctoral Dissertation**)
-[URI](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf) [Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures) Graded as ***magna cum laude***
+Hakimov, S. (2019). Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (**Doctoral Dissertation**) [URI](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf) [Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures) Graded as ***magna cum laude***
 
-Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.  In Proceedings of the 13th International Semantic Computing Conference (ICSC)
-[PDF](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf) [Git repo](https://github.com/ag-sc/SimpleQA)
+Hakimov, S. , Jebbara, S., Cimiano, P. (2019).  Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.  In Proceedings of the 13th International Semantic Computing Conference (ICSC) [PDF](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf) [Git repo](https://github.com/ag-sc/SimpleQA)
 
 ### **2017**
 
-Ell B, Hakimov, S. , Braukmann, P., Cazzoli, L., Kaupmann, F., Mancino, A., Altaf Memon, J., Rother, K., Saini, A., Cimiano, P. (2017).  Towards a Large Corpus of Richly Annotated Web Tables for Knowledge Base Population. In Proceedings of 5th International Workshop on Linked Data for Information Extraction, co-located with the 16th International Semantic Web Conference (ISWC)
-[PDF](https://pub.uni-bielefeld.de/download/2913458/2913604/TowardsALargeCorpusOfRichlyAnnotatedWebTablesForKnowledgeBasePopulation.pdf) [Git repo](https://github.com/ag-sc/WTU)
+Ell B, Hakimov, S. , Braukmann, P., Cazzoli, L., Kaupmann, F., Mancino, A., Altaf Memon, J., Rother, K., Saini, A., Cimiano, P. (2017).  Towards a Large Corpus of Richly Annotated Web Tables for Knowledge Base Population. In Proceedings of 5th International Workshop on Linked Data for Information Extraction, co-located with the 16th International Semantic Web Conference (ISWC) [PDF](https://pub.uni-bielefeld.de/download/2913458/2913604/TowardsALargeCorpusOfRichlyAnnotatedWebTablesForKnowledgeBasePopulation.pdf) [Git repo](https://github.com/ag-sc/WTU)
 
-Hakimov, S., Jebbara, S., Cimiano, P. (2017).  AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data.  In Proceedings of the 16th International Semantic
-Web Conference (ISWC)
-[PDF](https://pub.uni-bielefeld.de/download/2913141/2913142/paper.pdf) [Git repo](https://github.com/ag-sc/AMUSE) 
+Hakimov, S., Jebbara, S., Cimiano, P. (2017).  AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data.  In Proceedings of the 16th International Semantic Web Conference (ISWC) [PDF](https://pub.uni-bielefeld.de/download/2913141/2913142/paper.pdf) [Git repo](https://github.com/ag-sc/AMUSE) 
 
 ### **2016**
 
-Ell, B., Hakimov, S., Cimiano, P. (2016). Statistical Induction of Coupled Domain/Range Restrictions from RDF Knowledge Bases. In Proceedings of 4th NLP and DBpedia Workshop,
-co-located with the 15th International Semantic Web Conference (ISWC)
-[PDF](https://pub.uni-bielefeld.de/download/2904967/2905746/Camera_ready__Workshop_NLP___DBpedia_2016.pdf) [Git repo](https://github.com/ag-sc/SchemaInduction)
+Ell, B., Hakimov, S., Cimiano, P. (2016). Statistical Induction of Coupled Domain/Range Restrictions from RDF Knowledge Bases. In Proceedings of 4th NLP and DBpedia Workshop, co-located with the 15th International Semantic Web Conference (ISWC) [PDF](https://pub.uni-bielefeld.de/download/2904967/2905746/Camera_ready__Workshop_NLP___DBpedia_2016.pdf) [Git repo](https://github.com/ag-sc/SchemaInduction)
 
-Hakimov, S., ter Horst, H., Jebbara, S., Hartung, M., Cimiano, P. (2016). Combining textual and graph-based features for named entity disambiguation using undirected probabilistic graphical models. In Proceedings of 20th International Knowledge Engineering and Knowledge Management Conference (EKAW)
-[PDF](https://pub.uni-bielefeld.de/download/2905552/2905808/paper.pdf) [Git repo](https://github.com/ag-sc/NERFGUN)
+Hakimov, S., ter Horst, H., Jebbara, S., Hartung, M., Cimiano, P. (2016). Combining textual and graph-based features for named entity disambiguation using undirected probabilistic graphical models. In Proceedings of 20th International Knowledge Engineering and Knowledge Management Conference (EKAW) [PDF](https://pub.uni-bielefeld.de/download/2905552/2905808/paper.pdf) [Git repo](https://github.com/ag-sc/NERFGUN)
 
 ### **2015**
 
-Hakimov, S., Unger, C., Walter, S., Cimiano, P. (2015) Applying semantic parsing to question answering over linked data:  Addressing the lexical gap.   In Proceedings of International Conference on Applications of Natural Language to Information Systems (NLDB)
-[PDF](https://pub.uni-bielefeld.de/download/2760642/2760651/qa_ccg_camera_ready_version.pdf) [Git repo](https://github.com/ag-sc/CCGParsing)
+Hakimov, S., Unger, C., Walter, S., Cimiano, P. (2015) Applying semantic parsing to question answering over linked data:  Addressing the lexical gap.   In Proceedings of International Conference on Applications of Natural Language to Information Systems (NLDB) [PDF](https://pub.uni-bielefeld.de/download/2760642/2760651/qa_ccg_camera_ready_version.pdf) [Git repo](https://github.com/ag-sc/CCGParsing)
 
 ### **2014**
 
-Dogdu, E., Hakimov, S., Yumusak, S. (2014).  A data-model driven web application development framework. In Proceedings of the 2014 ACM Southeast Regional Conference
-[PDF](https://pub.uni-bielefeld.de/download/2715998/2905809/a47-dogdu.pdf)
+Dogdu, E., Hakimov, S., Yumusak, S. (2014).  A data-model driven web application development framework. In Proceedings of the 2014 ACM Southeast Regional Conference [PDF](https://pub.uni-bielefeld.de/download/2715998/2905809/a47-dogdu.pdf)
 
 ### **2013**
 
-Hakimov, S. (2013). Named Entity Disambiguation using Linked Open Data. TOBB University, Ankara, Turkey (Master's Thesis)
-[PDF](http://earsiv.etu.edu.tr/xmlui/bitstream/handle/20.500.11851/919/350357.pdf?sequence=1)
+Hakimov, S. (2013). Named Entity Disambiguation using Linked Open Data. TOBB University, Ankara, Turkey (Master's Thesis) [PDF](http://earsiv.etu.edu.tr/xmlui/bitstream/handle/20.500.11851/919/350357.pdf?sequence=1)
 
-Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013) Semantic question answering system over linked data using relational patterns. In Proceedings of the Joint EDBT/ICDT 2013
-Workshops
-[PDF](https://pub.uni-bielefeld.de/download/2657454/2715983/a12-hakimov.pdf)
+Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013) Semantic question answering system over linked data using relational patterns. In Proceedings of the Joint EDBT/ICDT 2013 Workshops [PDF](https://pub.uni-bielefeld.de/download/2657454/2715983/a12-hakimov.pdf)
 
 ### **2012**
 
-Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th international workshop on semantic web information management
-[PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
+Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th international workshop on semantic web information management [PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
     `;
 
     function parseMarkdown(md) {
@@ -442,8 +424,8 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
         let currentEntry = '';
 
         for (let line of lines) {
-            // Check for year header
-            const yearMatch = line.match(/^###\s+\*\*(\d{4})\*\*/);
+            // Check for year header (updated specifically for handling indentation)
+            const yearMatch = line.match(/^\s*###\s+\*\*(\d{4})\*\*/);
             if (yearMatch) {
                 currentYear = yearMatch[1];
                 publications[currentYear] = [];
@@ -476,7 +458,7 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
 
     function parseEntry(entry) {
         // Extract authors (everything before the year in parentheses)
-        const authorMatch = entry.match(/^(.+?)\s+\(\d{4}\)/);
+        const authorMatch = entry.match(/^\s*(.+?)\s+\(\d{4}\)/);
         const authors = authorMatch ? authorMatch[1] : '';
 
         // Extract title (between year and venue/links)
@@ -522,6 +504,7 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
 
     function renderPublications(publications) {
         const container = document.getElementById('publications-container');
+        if(!container) return; // Guard clause
         container.innerHTML = '';
 
         const years = Object.keys(publications).sort((a, b) => b - a);
@@ -596,7 +579,14 @@ Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambi
         if(yearsActiveEl) yearsActiveEl.textContent = years.length;
     }
 
-    // Parse and render on page load
-    const publications = parseMarkdown(markdownContent);
-    renderPublications(publications);
+    // Parse and render
+    try {
+        const publications = parseMarkdown(markdownContent);
+        renderPublications(publications);
+    } catch(e) {
+        console.error("Publication rendering failed:", e);
+        const container = document.getElementById('publications-container');
+        if(container) container.innerHTML = '<div style="color:red; text-align:center;">Error loading publications. Please check console.</div>';
+    }
+});
 </script>
