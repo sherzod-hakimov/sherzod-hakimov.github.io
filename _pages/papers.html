@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 <style>
-    /* Styling for the publication list */
-    .pub-custom-body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-        line-height: 1.6;
+    .pub-wrapper {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         color: #333;
         background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
         padding: 40px 20px;
@@ -17,263 +15,210 @@ author_profile: true
         margin-top: 20px;
     }
 
-    .pub-container {
+    .pub-card {
         max-width: 1000px;
         margin: 0 auto;
         background: white;
         border-radius: 20px;
-        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
         padding: 50px;
     }
 
     .pub-header {
         text-align: center;
-        margin-bottom: 50px;
-        padding-bottom: 30px;
-        border-bottom: 3px solid #e0e0e0;
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+        border-bottom: 2px solid #eee;
     }
 
     .pub-header h1 {
-        font-size: 2.5em;
+        margin: 0 0 20px 0;
         color: #2c3e50;
-        margin-bottom: 20px;
-        font-weight: 700;
-        border-bottom: none;
+        font-size: 2.5em;
     }
 
-    .profile-links {
+    .pub-buttons {
         display: flex;
         justify-content: center;
-        gap: 20px;
-        margin-top: 25px;
+        gap: 15px;
         flex-wrap: wrap;
     }
 
-    .profile-links a {
+    .pub-btn {
         display: inline-flex;
         align-items: center;
         gap: 8px;
-        padding: 12px 24px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        padding: 10px 20px;
+        background: #667eea;
         color: white !important;
         text-decoration: none !important;
         border-radius: 25px;
         font-weight: 600;
-        transition: transform 0.3s, box-shadow 0.3s;
-        box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        transition: transform 0.2s;
     }
 
-    .profile-links a:hover {
+    .pub-btn:hover {
         transform: translateY(-2px);
-        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
-        text-decoration: none;
+        background: #5a6fd6;
     }
 
-    .year-section {
-        margin-bottom: 50px;
-    }
-
-    .year-header {
-        font-size: 2em;
-        color: #667eea;
-        margin-bottom: 25px;
-        padding-left: 20px;
-        border-left: 5px solid #667eea;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-    }
-
-    .publication-count {
-        font-size: 0.6em;
-        background: #667eea;
-        color: white;
-        padding: 4px 12px;
-        border-radius: 15px;
-        font-weight: 600;
-        vertical-align: middle;
-    }
-
-    .publication {
-        background: #f8f9fa;
-        padding: 25px;
-        margin-bottom: 20px;
-        border-radius: 12px;
-        border-left: 4px solid #667eea;
-        transition: transform 0.2s, box-shadow 0.2s;
-    }
-
-    .publication:hover {
-        transform: translateX(5px);
-        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-    }
-
-    .authors {
-        color: #555;
-        margin-bottom: 8px;
-        font-size: 0.95em;
-    }
-
-    .pub-title {
-        font-size: 1.15em;
-        font-weight: 600;
-        color: #2c3e50;
-        margin-bottom: 8px;
-        line-height: 1.4;
-    }
-
-    .venue {
-        color: #666;
-        font-style: italic;
-        margin-bottom: 12px;
-        font-size: 0.95em;
-    }
-
-    .pub-links {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-top: 12px;
-    }
-
-    .pub-links a {
-        display: inline-flex;
-        align-items: center;
-        gap: 5px;
-        padding: 6px 14px;
-        background: white;
-        color: #667eea !important;
-        text-decoration: none !important;
-        border-radius: 20px;
-        font-size: 0.85em;
-        font-weight: 600;
-        border: 2px solid #667eea;
-        transition: all 0.3s;
-    }
-
-    .pub-links a:hover {
-        background: #667eea;
-        color: white !important;
-    }
-
-    .pub-badge {
-        display: inline-block;
-        padding: 4px 10px;
-        background: #ff6b6b;
-        color: white;
-        font-size: 0.75em;
-        border-radius: 12px;
-        font-weight: 700;
-        text-transform: uppercase;
-        margin-left: 10px;
-        vertical-align: middle;
-    }
-
-    .stats {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
-        padding: 30px;
-        border-radius: 15px;
-        margin-bottom: 40px;
-        text-align: center;
-    }
-    
-    .stats h2 {
-        color: white;
-        margin-top: 0;
-    }
-
-    .stats-grid {
+    /* Stats Section */
+    .pub-stats {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        grid-template-columns: 1fr 1fr;
         gap: 20px;
-        margin-top: 20px;
+        background: #667eea;
+        color: white;
+        padding: 20px;
+        border-radius: 12px;
+        text-align: center;
+        margin-bottom: 40px;
     }
 
-    .stat-item {
-        background: rgba(255, 255, 255, 0.2);
-        padding: 15px;
-        border-radius: 10px;
-    }
-
-    .stat-number {
-        font-size: 2.5em;
-        font-weight: 700;
+    .stat-val {
+        font-size: 2em;
+        font-weight: bold;
         display: block;
     }
 
     .stat-label {
-        font-size: 0.9em;
         opacity: 0.9;
+        font-size: 0.9em;
     }
 
-    #publications-container {
+    /* List Styling */
+    .year-group {
+        margin-bottom: 40px;
+    }
+
+    .year-title {
+        color: #667eea;
+        font-size: 1.8em;
+        border-left: 5px solid #667eea;
+        padding-left: 15px;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+    }
+
+    .year-badge {
+        font-size: 0.5em;
+        background: #667eea;
+        color: white;
+        padding: 2px 10px;
+        border-radius: 10px;
+        margin-left: 15px;
+        vertical-align: middle;
+    }
+
+    .paper-item {
+        background: #f8f9fa;
+        padding: 20px;
+        margin-bottom: 15px;
+        border-radius: 8px;
+        border-left: 3px solid #ddd;
+        transition: transform 0.2s;
+    }
+
+    .paper-item:hover {
+        transform: translateX(5px);
+        border-left-color: #667eea;
+        background: #fff;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+
+    .paper-title {
+        font-weight: 700;
+        color: #2c3e50;
+        font-size: 1.1em;
+        margin-bottom: 5px;
+    }
+
+    .paper-authors {
+        color: #555;
+        font-size: 0.95em;
+        margin-bottom: 5px;
+    }
+
+    .paper-venue {
+        font-style: italic;
+        color: #666;
+        font-size: 0.9em;
+        margin-bottom: 10px;
+    }
+
+    .paper-links {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+
+    .link-tag {
+        font-size: 0.8em;
+        padding: 4px 12px;
+        border: 1px solid #667eea;
+        border-radius: 15px;
+        color: #667eea !important;
+        text-decoration: none !important;
+        font-weight: 600;
+        background: white;
+    }
+
+    .link-tag:hover {
+        background: #667eea;
+        color: white !important;
+    }
+
+    /* Loading / Error States */
+    #render-area {
         min-height: 200px;
     }
-
-    .loading {
+    .msg-box {
         text-align: center;
-        padding: 50px;
-        color: #667eea;
-        font-size: 1.2em;
+        padding: 40px;
+        color: #666;
+        font-style: italic;
     }
-
-    @media (max-width: 768px) {
-        .pub-container {
-            padding: 30px 20px;
-        }
-
-        .pub-header h1 {
-            font-size: 2em;
-        }
-
-        .profile-links {
-            flex-direction: column;
-            align-items: stretch;
-        }
-
-        .year-header {
-            font-size: 1.6em;
-        }
+    .error-box {
+        color: #d32f2f;
+        background: #ffebee;
+        padding: 15px;
+        border-radius: 5px;
+        border: 1px solid #ffcdd2;
+        text-align: center;
     }
 </style>
 
-<div class="pub-custom-body">
-    <div class="pub-container">
+<div class="pub-wrapper">
+    <div class="pub-card">
         <header class="pub-header">
-            <h1>📚 Publications</h1>
-            <div class="profile-links">
-                <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en" target="_blank">
-                    🎓 Google Scholar
-                </a>
-                <a href="https://dblp.org/pid/117/6023.html" target="_blank">
-                    📖 DBLP Profile
-                </a>
+            <h1>Publications</h1>
+            <div class="pub-buttons">
+                <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en" class="pub-btn" target="_blank">Google Scholar</a>
+                <a href="https://dblp.org/pid/117/6023.html" class="pub-btn" target="_blank">DBLP Profile</a>
             </div>
         </header>
 
-        <div class="stats" id="stats">
-            <h2>Publication Overview</h2>
-            <div class="stats-grid">
-                <div class="stat-item">
-                    <span class="stat-number" id="total-pubs">...</span>
-                    <span class="stat-label">Total Publications</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number" id="years-active">...</span>
-                    <span class="stat-label">Years Active</span>
-                </div>
+        <div class="pub-stats">
+            <div>
+                <span class="stat-val" id="stat-total">-</span>
+                <span class="stat-label">Total Papers</span>
+            </div>
+            <div>
+                <span class="stat-val" id="stat-years">-</span>
+                <span class="stat-label">Years Active</span>
             </div>
         </div>
 
-        <div id="publications-container">
-            <div class="loading">Loading publications...</div>
+        <div id="render-area">
+            <div class="msg-box">Loading content...</div>
         </div>
     </div>
 </div>
 
 {% raw %}
-<textarea id="markdown-source" style="display:none;">
+<script id="raw-content" type="text/plain">
 ### **2025**
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
@@ -413,214 +358,193 @@ Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013) Semantic question answeri
 ### **2012**
 
 Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th international workshop on semantic web information management [PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
-</textarea>
+</script>
 {% endraw %}
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    
-    // Read the content from the textarea
-    const rawInput = document.getElementById('markdown-source');
-    if (!rawInput) {
-        document.getElementById('publications-container').innerHTML = "Error: Data source not found.";
-        return;
-    }
-    
-    // Normalize newlines
-    const markdownContent = rawInput.value;
-
-    function parseMarkdown(md) {
-        const lines = md.split('\n');
-        const publications = {};
-        let currentYear = null;
-        let currentEntry = '';
-
-        for (let line of lines) {
-            // Trim whitespace
-            let trimmedLine = line.trim();
-            if (!trimmedLine) continue;
-
-            // Loose check for year header
-            // e.g. "### **2025**" or "### 2025"
-            if (trimmedLine.startsWith('###')) {
-                // Remove ###, *, and spaces to find the year number
-                const yearNum = trimmedLine.replace(/[#*\s]/g, '');
-                if (yearNum && yearNum.length === 4 && !isNaN(yearNum)) {
-                    currentYear = yearNum;
-                    publications[currentYear] = [];
-                    currentEntry = '';
-                    continue;
-                }
-            }
-
-            // Detect if this is a new publication entry
-            // Usually starts with an Author Name or "Hakimov"
-            // If we are in a year block, treat every non-empty line as a paper
-            // (assuming one line per paper in the source provided)
-            if (currentYear) {
-               // Append to list
-               publications[currentYear].push(parseEntry(trimmedLine));
-            }
+(function() {
+    function init() {
+        const renderArea = document.getElementById('render-area');
+        const scriptContent = document.getElementById('raw-content');
+        
+        if (!renderArea || !scriptContent) {
+            console.error("Critical Error: Elements not found");
+            return;
         }
 
-        return publications;
+        try {
+            const rawText = scriptContent.textContent;
+            const publications = parseText(rawText);
+            renderHTML(publications);
+        } catch (e) {
+            renderArea.innerHTML = `<div class="error-box">Error parsing data: ${e.message}</div>`;
+            console.error(e);
+        }
     }
 
-    function parseEntry(entry) {
-        // 1. Extract Year from parens (YYYY) to split Author/Title
-        const yearMatch = entry.match(/\((\d{4})\)/);
-        let authors = '';
-        let title = '';
-        let rest = '';
+    function parseText(text) {
+        // Split lines and normalize
+        const lines = text.split(/\r?\n/);
+        const data = {};
+        let currentYear = null;
+
+        lines.forEach(line => {
+            const trimmed = line.trim();
+            if (!trimmed) return;
+
+            // Robust Year Detection: Finds "202X" if line starts with #
+            // Example match: ### **2025** -> 2025
+            if (trimmed.startsWith('#')) {
+                const yearMatch = trimmed.match(/\d{4}/);
+                if (yearMatch) {
+                    currentYear = yearMatch[0];
+                    data[currentYear] = [];
+                }
+                return;
+            }
+
+            // If we have a year, assume this is a paper
+            if (currentYear) {
+                data[currentYear].push(parsePaperLine(trimmed));
+            }
+        });
+        return data;
+    }
+
+    function parsePaperLine(line) {
+        // 1. Extract links (Markdown format [Label](Url))
+        const links = [];
+        let cleanText = line;
+        
+        // Regex to find all links
+        const linkRegex = /\[([^\]]+)\]\(([^\)]+)\)/g;
+        let match;
+        
+        while ((match = linkRegex.exec(line)) !== null) {
+            links.push({
+                label: match[1],
+                url: match[2]
+            });
+            // Remove link from text for cleaner parsing of title/venue
+            cleanText = cleanText.replace(match[0], '');
+        }
+
+        // 2. Extract Authors and Title based on (YEAR). pattern
+        // Authors usually come before the year
+        const yearRegex = /\(\d{4}\)\./;
+        const yearMatch = cleanText.match(yearRegex);
+        
+        let authors = "Unknown Authors";
+        let title = cleanText;
+        let venue = "";
 
         if (yearMatch) {
-            const yearIndex = yearMatch.index;
-            authors = entry.substring(0, yearIndex).trim();
+            const idx = yearMatch.index;
+            authors = cleanText.substring(0, idx).trim();
             
-            // Everything after (YYYY). is the rest
-            // We look for the closing paren + dot
-            const afterYear = entry.substring(yearIndex + yearMatch[0].length);
+            // Text after (YEAR). is Title + Venue
+            const rest = cleanText.substring(idx + yearMatch[0].length).trim();
             
-            // Title is usually until the next dot, but titles can have dots.
-            // We look for the Venue pattern or Links.
-            
-            // Heuristic: Split by "In Proceedings" or "[PDF]"
-            const splitRegex = /(?:\.\s+In\s|\.\s+Proceedings|\s\[PDF\])/;
-            const splitMatch = afterYear.match(splitRegex);
+            // Heuristic: Split title and venue by first dot followed by space
+            // or by "In Proceedings" / "In:" / "ACM" etc
+            const splitMatch = rest.match(/\.\s+(In\s|Proceedings|ACM|IEEE|Springer|LREC|Findings|[A-Z])/);
             
             if (splitMatch) {
-                 title = afterYear.substring(0, splitMatch.index).replace(/^\.\s+/, '').trim();
-                 rest = afterYear.substring(splitMatch.index);
+                title = rest.substring(0, splitMatch.index).trim();
+                venue = rest.substring(splitMatch.index + 1).trim(); // +1 skip dot
             } else {
-                 // Fallback
-                 title = afterYear.replace(/^\.\s+/, '').trim();
+                title = rest;
             }
-        } else {
-            // Fallback if formatting is weird
-            title = entry;
         }
 
-        // 2. Extract Venue
-        let venue = '';
-        // Remove links from the "rest" to see what's left for venue
-        let textWithoutLinks = rest.replace(/\[([^\]]+)\]\(([^\)]+)\)/g, '');
-        // Clean up leading dots/spaces
-        venue = textWithoutLinks.replace(/^\.\s+/, '').trim();
-        
-        // 3. Extract Links
-        const links = [];
-        const linkRegex = /\[([^\]]+)\]\(([^\)]+)\)/g;
-        let linkMatch;
-        while ((linkMatch = linkRegex.exec(entry)) !== null) {
-            let label = linkMatch[1];
-            const url = linkMatch[2];
-            
-            let icon = '🔗';
-            const lowerLabel = label.toLowerCase();
-            if (lowerLabel.includes('pdf')) icon = '📄';
-            else if (lowerLabel.includes('git') || lowerLabel.includes('code') || lowerLabel.includes('repo')) icon = '💻';
-            else if (lowerLabel.includes('dataset')) icon = '📊';
-            else if (lowerLabel.includes('demo')) icon = '🎮';
-            else if (lowerLabel.includes('leaderboard')) icon = '🏆';
-            else if (lowerLabel.includes('slide')) icon = '🎤';
-            else if (lowerLabel.includes('challenge') || lowerLabel.includes('website')) icon = '🌐';
-            else if (lowerLabel.includes('ontology')) icon = '🔍';
-            else if (lowerLabel.includes('uri') || lowerLabel.includes('doi')) icon = '🔗';
+        // Clean up markdown bolding from title/authors if present
+        title = title.replace(/\*\*/g, '');
+        authors = authors.replace(/\*\*/g, '');
+        venue = venue.replace(/^\.+/, '').trim(); // Remove leading dots
 
-            links.push({ label, url, icon });
-        }
-        
-        const isThesis = entry.includes('Doctoral Dissertation');
-        const isMagnaCumLaude = entry.includes('magna cum laude');
-
-        return { authors, title, venue, links, isThesis, isMagnaCumLaude };
+        return { authors, title, venue, links };
     }
 
-    function renderPublications(publications) {
-        const container = document.getElementById('publications-container');
+    function renderHTML(data) {
+        const container = document.getElementById('render-area');
         container.innerHTML = '';
-
-        const years = Object.keys(publications).sort((a, b) => b - a);
-        let totalPubs = 0;
+        
+        // Sort years descending
+        const years = Object.keys(data).sort((a, b) => b - a);
+        let totalCount = 0;
 
         years.forEach(year => {
-            const pubs = publications[year];
-            if (pubs.length === 0) return;
-            
-            totalPubs += pubs.length;
+            const papers = data[year];
+            if (!papers.length) return;
+            totalCount += papers.length;
 
+            // Section Container
             const section = document.createElement('div');
-            section.className = 'year-section';
+            section.className = 'year-group';
 
-            const header = document.createElement('h2');
-            header.className = 'year-header';
-            header.innerHTML = `${year} <span class="publication-count">${pubs.length} paper${pubs.length !== 1 ? 's' : ''}</span>`;
+            // Year Header
+            const header = document.createElement('div');
+            header.className = 'year-title';
+            header.innerHTML = `${year} <span class="year-badge">${papers.length}</span>`;
             section.appendChild(header);
 
-            pubs.forEach(pub => {
-                const pubDiv = document.createElement('div');
-                pubDiv.className = 'publication';
+            // Papers
+            papers.forEach(p => {
+                const pDiv = document.createElement('div');
+                pDiv.className = 'paper-item';
 
-                const authorsDiv = document.createElement('div');
-                authorsDiv.className = 'authors';
-                authorsDiv.textContent = pub.authors;
-                pubDiv.appendChild(authorsDiv);
+                // Authors
+                const aut = document.createElement('div');
+                aut.className = 'paper-authors';
+                aut.textContent = p.authors;
+                pDiv.appendChild(aut);
 
-                const titleDiv = document.createElement('div');
-                titleDiv.className = 'pub-title';
-                titleDiv.textContent = pub.title;
-                if (pub.isThesis) {
-                    const badge = document.createElement('span');
-                    badge.className = 'pub-badge';
-                    badge.textContent = 'PhD Thesis';
-                    titleDiv.appendChild(badge);
-                }
-                pubDiv.appendChild(titleDiv);
+                // Title
+                const tit = document.createElement('div');
+                tit.className = 'paper-title';
+                tit.textContent = p.title;
+                pDiv.appendChild(tit);
 
-                if (pub.venue) {
-                    const venueDiv = document.createElement('div');
-                    venueDiv.className = 'venue';
-                    // Clean up extra dots/spaces
-                    let displayVenue = pub.venue.replace(/^\.+/, '').trim();
-                    if(displayVenue.length > 2) {
-                         venueDiv.textContent = displayVenue;
-                         pubDiv.appendChild(venueDiv);
-                    }
+                // Venue
+                if (p.venue && p.venue.length > 2) {
+                    const ven = document.createElement('div');
+                    ven.className = 'paper-venue';
+                    ven.textContent = p.venue;
+                    pDiv.appendChild(ven);
                 }
 
-                if (pub.links.length > 0) {
-                    const linksDiv = document.createElement('div');
-                    linksDiv.className = 'pub-links';
-                    pub.links.forEach(link => {
+                // Links
+                if (p.links.length) {
+                    const lnkDiv = document.createElement('div');
+                    lnkDiv.className = 'paper-links';
+                    
+                    p.links.forEach(l => {
                         const a = document.createElement('a');
-                        a.href = link.url;
+                        a.href = l.url;
+                        a.className = 'link-tag';
                         a.target = '_blank';
-                        a.textContent = `${link.icon} ${link.label}`;
-                        linksDiv.appendChild(a);
+                        a.textContent = l.label;
+                        lnkDiv.appendChild(a);
                     });
-                    pubDiv.appendChild(linksDiv);
+                    pDiv.appendChild(lnkDiv);
                 }
 
-                section.appendChild(pubDiv);
+                section.appendChild(pDiv);
             });
 
             container.appendChild(section);
         });
 
-        // Update stats
-        const totalPubsEl = document.getElementById('total-pubs');
-        const yearsActiveEl = document.getElementById('years-active');
-        
-        if(totalPubsEl) totalPubsEl.textContent = totalPubs;
-        if(yearsActiveEl) yearsActiveEl.textContent = years.length;
+        // Update Stats
+        document.getElementById('stat-total').textContent = totalCount;
+        document.getElementById('stat-years').textContent = years.length;
     }
 
-    try {
-        const publications = parseMarkdown(markdownContent);
-        renderPublications(publications);
-    } catch(e) {
-        console.error("Rendering failed:", e);
-        document.getElementById('publications-container').innerHTML = `<div style="color:red; text-align:center;">Error parsing publications: ${e.message}</div>`;
+    // Run when DOM is ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
     }
-});
+})();
 </script>
