@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Papers"
+title: "Publications"
 permalink: /papers/
 author_profile: true
 ---
 
 <style>
+    /* Styling for the publication list */
     .pub-custom-body {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
         line-height: 1.6;
@@ -272,7 +273,7 @@ author_profile: true
 </div>
 
 {% raw %}
-<script type="text/plain" id="publication-data">
+<textarea id="markdown-source" style="display:none;">
 ### **2025**
 
 Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.  The 31st International Conference on Computational Linguistics (COLING 2025) [PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
@@ -412,87 +413,101 @@ Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013) Semantic question answeri
 ### **2012**
 
 Hakimov, S., Oto, S. A., Dogdu, E. (2012).  Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th international workshop on semantic web information management [PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
-</script>
+</textarea>
 {% endraw %}
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     
-    // FETCH THE RAW DATA FROM THE SCRIPT BLOCK
-    const dataElement = document.getElementById('publication-data');
-    if (!dataElement) {
-        console.error("Could not find publication data element");
+    // Read the content from the textarea
+    const rawInput = document.getElementById('markdown-source');
+    if (!rawInput) {
+        document.getElementById('publications-container').innerHTML = "Error: Data source not found.";
         return;
     }
     
-    const markdownContent = dataElement.textContent;
+    // Normalize newlines
+    const markdownContent = rawInput.value;
 
     function parseMarkdown(md) {
-        // Split by newline and cleanup carriage returns
-        const lines = md.trim().replace(/\r\n/g, '\n').split('\n');
+        const lines = md.split('\n');
         const publications = {};
         let currentYear = null;
         let currentEntry = '';
 
         for (let line of lines) {
-            // Trim whitespace from line
-            const trimmedLine = line.trim();
-            
-            // Regex to find Year Header (e.g. ### **2025**)
-            // Handles potential spaces around ### or inside **
-            const yearMatch = trimmedLine.match(/^###\s+\*\*(\d{4})\*\*/);
-            
-            if (yearMatch) {
-                currentYear = yearMatch[1];
-                publications[currentYear] = [];
-                currentEntry = '';
-                continue;
-            }
+            // Trim whitespace
+            let trimmedLine = line.trim();
+            if (!trimmedLine) continue;
 
-            // Skip empty lines
-            if (!trimmedLine) {
-                if (currentEntry && currentYear) {
-                    publications[currentYear].push(parseEntry(currentEntry));
+            // Loose check for year header
+            // e.g. "### **2025**" or "### 2025"
+            if (trimmedLine.startsWith('###')) {
+                // Remove ###, *, and spaces to find the year number
+                const yearNum = trimmedLine.replace(/[#*\s]/g, '');
+                if (yearNum && yearNum.length === 4 && !isNaN(yearNum)) {
+                    currentYear = yearNum;
+                    publications[currentYear] = [];
                     currentEntry = '';
+                    continue;
                 }
-                continue;
             }
 
-            // Accumulate entry lines
+            // Detect if this is a new publication entry
+            // Usually starts with an Author Name or "Hakimov"
+            // If we are in a year block, treat every non-empty line as a paper
+            // (assuming one line per paper in the source provided)
             if (currentYear) {
-                currentEntry += (currentEntry ? ' ' : '') + trimmedLine;
+               // Append to list
+               publications[currentYear].push(parseEntry(trimmedLine));
             }
-        }
-
-        // Add last entry if exists
-        if (currentEntry && currentYear) {
-            publications[currentYear].push(parseEntry(currentEntry));
         }
 
         return publications;
     }
 
     function parseEntry(entry) {
-        // Extract authors (start of line until year in parens)
-        const authorMatch = entry.match(/^(.+?)\s+\(\d{4}\)/);
-        const authors = authorMatch ? authorMatch[1] : '';
+        // 1. Extract Year from parens (YYYY) to split Author/Title
+        const yearMatch = entry.match(/\((\d{4})\)/);
+        let authors = '';
+        let title = '';
+        let rest = '';
 
-        // Extract title (between year and "In Proceedings" or similar)
-        // Regex looks for (YEAR). TITLE. Venue...
-        const titleMatch = entry.match(/\(\d{4}\)\.\s+(.+?)(?:\.\s+(?:In |Proceedings|[A-Z])|$)/);
-        const title = titleMatch ? titleMatch[1] : '';
-
-        const isThesis = entry.includes('Doctoral Dissertation');
-        const isMagnaCumLaude = entry.includes('magna cum laude');
-
-        // Extract venue
-        let venue = '';
-        const venueMatch = entry.match(/\.\s+((?:In |Proceedings|[A-Z]).+?)(?:\[|$)/);
-        if (venueMatch) {
-            venue = venueMatch[1].trim();
+        if (yearMatch) {
+            const yearIndex = yearMatch.index;
+            authors = entry.substring(0, yearIndex).trim();
+            
+            // Everything after (YYYY). is the rest
+            // We look for the closing paren + dot
+            const afterYear = entry.substring(yearIndex + yearMatch[0].length);
+            
+            // Title is usually until the next dot, but titles can have dots.
+            // We look for the Venue pattern or Links.
+            
+            // Heuristic: Split by "In Proceedings" or "[PDF]"
+            const splitRegex = /(?:\.\s+In\s|\.\s+Proceedings|\s\[PDF\])/;
+            const splitMatch = afterYear.match(splitRegex);
+            
+            if (splitMatch) {
+                 title = afterYear.substring(0, splitMatch.index).replace(/^\.\s+/, '').trim();
+                 rest = afterYear.substring(splitMatch.index);
+            } else {
+                 // Fallback
+                 title = afterYear.replace(/^\.\s+/, '').trim();
+            }
+        } else {
+            // Fallback if formatting is weird
+            title = entry;
         }
 
-        // Extract links
+        // 2. Extract Venue
+        let venue = '';
+        // Remove links from the "rest" to see what's left for venue
+        let textWithoutLinks = rest.replace(/\[([^\]]+)\]\(([^\)]+)\)/g, '');
+        // Clean up leading dots/spaces
+        venue = textWithoutLinks.replace(/^\.\s+/, '').trim();
+        
+        // 3. Extract Links
         const links = [];
         const linkRegex = /\[([^\]]+)\]\(([^\)]+)\)/g;
         let linkMatch;
@@ -514,14 +529,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
             links.push({ label, url, icon });
         }
+        
+        const isThesis = entry.includes('Doctoral Dissertation');
+        const isMagnaCumLaude = entry.includes('magna cum laude');
 
         return { authors, title, venue, links, isThesis, isMagnaCumLaude };
     }
 
     function renderPublications(publications) {
         const container = document.getElementById('publications-container');
-        if(!container) return;
-        
         container.innerHTML = '';
 
         const years = Object.keys(publications).sort((a, b) => b - a);
@@ -529,6 +545,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         years.forEach(year => {
             const pubs = publications[year];
+            if (pubs.length === 0) return;
+            
             totalPubs += pubs.length;
 
             const section = document.createElement('div');
@@ -562,11 +580,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (pub.venue) {
                     const venueDiv = document.createElement('div');
                     venueDiv.className = 'venue';
-                    venueDiv.textContent = pub.venue;
-                    if (pub.isMagnaCumLaude) {
-                        venueDiv.textContent += ' - Graded as magna cum laude';
+                    // Clean up extra dots/spaces
+                    let displayVenue = pub.venue.replace(/^\.+/, '').trim();
+                    if(displayVenue.length > 2) {
+                         venueDiv.textContent = displayVenue;
+                         pubDiv.appendChild(venueDiv);
                     }
-                    pubDiv.appendChild(venueDiv);
                 }
 
                 if (pub.links.length > 0) {
@@ -597,19 +616,11 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     try {
-        console.log("Parsing publications...");
         const publications = parseMarkdown(markdownContent);
-        if (Object.keys(publications).length === 0) {
-            console.warn("No publications found! Check regex/format.");
-            document.getElementById('publications-container').innerHTML = 
-                '<div class="loading" style="color:red">Error: No publications found in data block.</div>';
-        } else {
-            renderPublications(publications);
-        }
+        renderPublications(publications);
     } catch(e) {
-        console.error("Publication rendering failed:", e);
-        const container = document.getElementById('publications-container');
-        if(container) container.innerHTML = '<div style="color:red; text-align:center;">Error loading publications. See console.</div>';
+        console.error("Rendering failed:", e);
+        document.getElementById('publications-container').innerHTML = `<div style="color:red; text-align:center;">Error parsing publications: ${e.message}</div>`;
     }
 });
 </script>
