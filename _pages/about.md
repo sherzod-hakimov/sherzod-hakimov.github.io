@@ -32,6 +32,10 @@ My research interests include topics such as Conversational AI, Natural Language
 ## Recent Updates
 
 
+- (January 2026) Paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) is accepted at [EACL'26](https://2026.eacl.org/)
+
+<!--
+
 - (November 2025) Presented the Paper on [Playpen: training language models on dialogue games' data](https://arxiv.org/pdf/2504.08590) at EMNLP 2025 in Suzhou, China
 
 - (October 2025) Organized the [4th MUWS Workshop](https://muws-workshop.github.io/program) at [ACM Multimedia 2025](https://acmmm2025.org/) in Dublin, Ireland
@@ -56,7 +60,7 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (January 2025) [Paper on benchmarking Multimodal LLMs](https://aclanthology.org/2025.coling-main.381/) was presented at [COLING 2025](https://coling2025.org/) in Abu Dhabi, UAE. Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
-<!--
+
 
 - (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
 
