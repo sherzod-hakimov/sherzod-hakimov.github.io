@@ -9,7 +9,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2026**
 
-Hakimov S, Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models. The 19th Conference of the European Chapter
+Hakimov S, Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. (2026) The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models. The 19th Conference of the European Chapter
 of the Association for Computational Linguistics (EACL) [PDF](https://arxiv.org/pdf/2510.08098)
 
 
