@@ -9,7 +9,9 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2026**
 
-- Hakimov S, Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)_<br>[PDF](https://arxiv.org/pdf/2510.08098)
+- Hakimov, S. (2026) **TurkicNLP: An NLP Toolkit for Turkic Languages**<br>[PDF](https://arxiv.org/abs/2602.19174)<br>[Git Repo](https://github.com/turkic-nlp/turkicnlp)
+
+- Hakimov, S., Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _The 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)_<br>[PDF](https://arxiv.org/pdf/2510.08098)
 
 - Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.**<br>[PDF](https://arxiv.org/abs/2601.07648)
 
