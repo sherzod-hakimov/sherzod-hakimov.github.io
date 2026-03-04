@@ -5,6 +5,9 @@ permalink: /research/conference-journal-reviews
 ---
 
 Organizing committee
+
+* [ The LM Playschool Workshop Improving Language Models through Learning from Dialogue Interaction - EMNLP 2026](https://lm-playschool.github.io/)
+
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2020](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2021](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/)
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2022](http://cleopatra-workshop.l3s.uni-hannover.de/)

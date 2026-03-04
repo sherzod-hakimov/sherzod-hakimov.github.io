@@ -31,7 +31,9 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
-- (February 2026) Released an open-source library: [TurkicNLP](https://turkic-nlp.github.io/) that combines all available resources for 20+ Turkic languages into one library
+- (March 2026) Workshop accepted at EMNLP 2026 - [LM Playschool Improving Language Models through Learning from Dialogue Interaction](https://lm-playschool.github.io/)
+
+- (February 2026) Released an open-source library: [TurkicNLP toolkit](https://turkic-nlp.github.io/) that combines all available resources (trained models, tools) for 20+ Turkic languages into one library
 
 - (January 2026) Paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) is accepted at [EACL'26](https://2026.eacl.org/)
 
