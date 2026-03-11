@@ -24,7 +24,8 @@ My research interests include topics such as Conversational AI, Natural Language
 ## [Recent publications](/publications)
 
 ## Organized Events
-- [MUWS workshop series 2022-2025](https://muws-workshop.github.io/)
+- [LM Playschool 2026](https://lm-playschool.github.io/)
+- [MUWS workshop series 2022-2026](https://muws-workshop.github.io/)
 - [CLEOPATRA workshop series 2020-2022](https://cleopatra-workshop.l3s.uni-hannover.de/)
 - [CLEF Task 1 2023](https://checkthat.gitlab.io/clef2023/task1/)
 
