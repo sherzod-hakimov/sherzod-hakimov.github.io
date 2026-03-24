@@ -32,11 +32,11 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (March 2026) Presented the paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) at [EACL'26](https://2026.eacl.org/) in Rabat, Morocco
+
 - (March 2026) Workshop accepted at EMNLP 2026 - [LM Playschool Improving Language Models through Learning from Dialogue Interaction](https://lm-playschool.github.io/)
 
 - (February 2026) Released an open-source library: [TurkicNLP toolkit](https://turkic-nlp.github.io/) that combines all available resources (trained models, tools) for 20+ Turkic languages into one library
-
-- (January 2026) Paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) is accepted at [EACL'26](https://2026.eacl.org/)
 
 - (November 2025) Presented the Paper on [Playpen: training language models on dialogue games' data](https://arxiv.org/pdf/2504.08590) at EMNLP 2025 in Suzhou, China
 
