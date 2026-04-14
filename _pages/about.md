@@ -32,6 +32,8 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (April 2026) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2026-summer-teaching-1) and a [Project Seminar on Learning in Interaction](https://sherzod-hakimov.github.io/teaching/2026-summer-teaching-2) at the University of Potsdam, Summer Semester 2026
+
 - (March 2026) Presented the paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) at [EACL'26](https://2026.eacl.org/) in Rabat, Morocco
 
 - (March 2026) Workshop accepted at EMNLP 2026 - [LM Playschool Improving Language Models through Learning from Dialogue Interaction](https://lm-playschool.github.io/)
