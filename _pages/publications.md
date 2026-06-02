@@ -9,7 +9,11 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ### **2026**
 
-- Hakimov, S. (2026) **TurkicNLP: An NLP Toolkit for Turkic Languages**<br>[Arxiv prerprint](https://arxiv.org/abs/2602.19174)  [Git Repo](https://github.com/turkic-nlp/turkicnlp)
+- Hakimov, S. (2026) **TurkicNLP: An NLP Toolkit for Turkic Languages**<br>[PDF](https://arxiv.org/abs/2602.19174)  [Git Repo](https://github.com/turkic-nlp/turkicnlp)
+
+- Hakimov, S., D'Agostini, M., Samodelkin, I., Schlangen D. (2026). **The Image Reconstruction Game: Drawing Common Ground Through Iterative Multimodal Dialogue**. <br>[PDF](https://arxiv.org/pdf/2606.01901)
+
+- Kranti, C., Hakimov, S., Schlangen, D. (2025). **Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely** <br>[PDF](https://arxiv.org/pdf/2605.31387)
 
 - Hakimov, S., Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _In Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[PDF](https://aclanthology.org/2026.findings-eacl.27/)
 
@@ -22,17 +26,17 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 - Horst, N. and Mazzaccara, D. and Schmidt, A. and Sullivan, M. and Momentè, F. and Franceschetti, L. and Sadler, P. and Hakimov, S. and Testoni, A. and Bernardi, R. and Fernández, R. and Koller, A. and Lemon, O. and Schlangen, D. and Giulianelli, M. and Suglia, A. (2025). **Playpen: An Environment for Exploring Learning Through Conversational Interaction.** _In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_<br>[PDF](https://aclanthology.org/2025.emnlp-main.1517/) [Git repo](https://github.com/lm-playpen/playpen)
 
-- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations.** _Special Interest Group on Discourse and Dialogue (SIGDIAL 2025)_<br>[PDF](https://arxiv.org/pdf/2505.05445)
+- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations.** _Special Interest Group on Discourse and Dialogue (SIGDIAL 2025)_<br>[PDF](https://aclanthology.org/anthology-files/pdf/sigdial/2025.sigdial-1.5.pdf)
 
 - Kranti, C., Hakimov, S. and Schlangen, D. (2025). **Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming.** _ITL4HRI Workshop co-located with International Conference on Robot and Human Interactive Communication (RO-MAN)_<br>[PDF](https://arxiv.org/pdf/2409.11041)
 
 - Jordan, J., Hakimov, S., Schlangen, D. (2025). **Plant in Cupboard, Orange on Rably, Inat Aphone.** _Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment. In: Text, Speech, and Dialogue. TSD 2025. Lecture Notes in Computer Science(), vol 16030. Springer, Cham. https://doi.org/10.1007/978-3-032-02551-7_6_<br>[PDF](https://arxiv.org/pdf/2502.11733)
 
-- Hakimov, S., Pfennigschmidt, L., & Schlangen, D. (2025). **Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://arxiv.org/pdf/2502.11707)
+- Hakimov, S., Pfennigschmidt, L., & Schlangen, D. (2025). **Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://aclanthology.org/2025.gem-1.63.pdf)
 
-- Hsu, Y., Feldhus, N., & Hakimov, S. (2024). **Free-text Rationale Generation under Readability Level Control.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://arxiv.org/abs/2407.01384)
+- Hsu, Y., Feldhus, N., & Hakimov, S. (2024). **Free-text Rationale Generation under Readability Level Control.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://aclanthology.org/2025.gem-1.11.pdf)
 
-- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning.** _IJCNLP-AACL 2025._<br>[PDF](https://arxiv.org/pdf/2505.14425)
+- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning.** _IJCNLP-AACL 2025._<br>[PDF](https://aclanthology.org/2025.ijcnlp-long.139.pdf)
 
 
 ### **2024**
