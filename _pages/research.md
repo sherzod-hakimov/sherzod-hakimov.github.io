@@ -18,8 +18,8 @@ I study the evaluation and grounding of LLMs in interactive and multimodal setti
 
 - Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., and Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[PDF](https://aclanthology.org/2026.findings-eacl.27/)
 - Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., and Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.**<br>[PDF](https://arxiv.org/abs/2601.07648)
-- Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., and Schlangen, D. (2025). **Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.** _COLING 2025_<br>[PDF](https://aclanthology.org/2025.coling-main.381/)
-- Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D. (2023). **clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.** _EMNLP 2023_<br>[PDF](https://arxiv.org/pdf/2305.13455.pdf)
+- Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., and Schlangen, D. (2025). **Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.** _COLING 2025_<br>[PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+- Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D. (2023). **clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.** _EMNLP 2023_<br>[PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clembench/clembench) [Clem Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 - Hakimov, S., and Schlangen, D. (2023). **Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks.** _Findings of ACL 2023_<br>[PDF](https://aclanthology.org/2023.findings-acl.894.pdf)
 
 ### Multimodal Understanding and News Analytics
@@ -46,6 +46,11 @@ I work on semantic parsing, knowledge base question answering, and structured me
 - Hakimov, S., Jebbara, S., and Cimiano, P. (2019). **Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.** _ICSC 2019_<br>[PDF](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf)
 - Hakimov, S., Jebbara, S., and Cimiano, P. (2017). **AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data.** _ISWC 2017_<br>[PDF](https://pub.uni-bielefeld.de/download/2913141/2913142/paper.pdf)
 - Hakimov, S., Unger, C., Walter, S., and Cimiano, P. (2015). **Applying Semantic Parsing to Question Answering over Linked Data: Addressing the Lexical Gap.** _NLDB 2015_<br>[PDF](https://pub.uni-bielefeld.de/download/2760642/2760651/qa_ccg_camera_ready_version.pdf)
+
+### Multilingual NLP Resources and Tools
+I build open-source resources and toolkits for under-served languages, bringing trained models and tools for Turkic languages into a single library.
+
+- Hakimov, S. (2026). **TurkicNLP: An NLP Toolkit for Turkic Languages.**<br>[PDF](https://arxiv.org/abs/2602.19174) [Git repo](https://github.com/turkic-nlp/turkicnlp) [Project site](https://turkic-nlp.github.io/)
 
 ### Video Summarization
 I build multimodal approaches for summarizing long-form educational and lecture videos, balancing informativeness and compactness.
