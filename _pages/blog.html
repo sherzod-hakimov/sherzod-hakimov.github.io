@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Blog Posts"
+permalink: /blog/
+author_profile: true
+---
+
+{% assign posts_sorted = site.blogposts | sort: 'date' | reverse %}
+{% for post in posts_sorted %}
+  {% include archive-single.html %}
+{% endfor %}

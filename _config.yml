@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  blogposts:
+    output: true
+    permalink: /blog/:path/
 
 
 # Defaults
@@ -246,6 +249,15 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      share: true
+  # _blogposts
+  - scope:
+      path: ""
+      type: blogposts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
       share: true
 
 # Sass/SCSS
