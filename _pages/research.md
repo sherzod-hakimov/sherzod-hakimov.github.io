@@ -4,21 +4,19 @@ title: "Research Areas"
 author_profile: true
 ---
 
-## You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en">Google Scholar</a> or <a href="https://dblp.org/pid/117/6023.html">DBLP</a> profiles.
+You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles, and the full publication list on the [Publications](/publications/) page.
 
-## [Experience in reviewing or organizing workshops, challenges, special issue, conferences, journals](/research/conference-journal-reviews)
+**More:**
 
-
-## [Experience in supervision, open research topics](/research/supervision)
-
-
+- [Reviewing & organizing: workshops, challenges, special issues, conferences, journals](/research/conference-journal-reviews)
+- [Supervision & open research topics](/research/supervision)
 
 ## Research Topics & Publications
 
 ### Large Language Models and Dialogue
 I study the evaluation and grounding of LLMs in interactive and multimodal settings, with a focus on behavioral benchmarking, reasoning costs, and grounding in conversation.
 
-- Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., and Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _EACL 2026_<br>[PDF](https://arxiv.org/pdf/2510.08098)
+- Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., and Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[PDF](https://aclanthology.org/2026.findings-eacl.27/)
 - Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., and Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.**<br>[PDF](https://arxiv.org/abs/2601.07648)
 - Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., and Schlangen, D. (2025). **Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.** _COLING 2025_<br>[PDF](https://aclanthology.org/2025.coling-main.381/)
 - Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D. (2023). **clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.** _EMNLP 2023_<br>[PDF](https://arxiv.org/pdf/2305.13455.pdf)
