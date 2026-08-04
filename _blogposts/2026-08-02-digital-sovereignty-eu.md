@@ -60,7 +60,7 @@ This gives us 108k episodes of models playing conversational games in different 
 
 ---
 
-**arXiv preprint of the study:** to be added
+**arXiv preprint of the study:** [https://arxiv.org/abs/2608.01395](https://arxiv.org/abs/2608.01395)
 
 **Leaderboard:** [clembench.github.io/leaderboard.html](https://clembench.github.io/leaderboard.html)
 
