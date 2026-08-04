@@ -11,6 +11,8 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 - Hakimov, S. (2026) **TurkicNLP: An NLP Toolkit for Turkic Languages**<br>[PDF](https://arxiv.org/abs/2602.19174)  [Git Repo](https://github.com/turkic-nlp/turkicnlp)
 
+- Hakimov, S., Osswald, K., Psurek, J., Bukovszky, E., Lüser, A., Schlangen D. (2026). **Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+**. <br>[PDF](https://arxiv.org/pdf/2608.01395) [Git repo](https://github.com/clembench/multilingual) [Leaderboard](https://clembench.github.io/leaderboard.html)
+
 - Hakimov, S., D'Agostini, M., Samodelkin, I., Schlangen D. (2026). **The Image Reconstruction Game: Drawing Common Ground Through Iterative Multimodal Dialogue**. <br>[PDF](https://arxiv.org/pdf/2606.01901)
 
 - Kranti, C., Hakimov, S., Schlangen, D. (2025). **Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely** <br>[PDF](https://arxiv.org/pdf/2605.31387)
