@@ -1,28 +1,26 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# Jekyll version is pinned by the github-pages meta-gem so that local builds
+# match what GitHub Pages actually runs. Run Jekyll with `bundle exec`:
 #
-#     bundle exec jekyll serve
+#     bundle exec jekyll serve --livereload
 #
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-
 gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
-
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem 'jekyll-twitter-plugin'
+  gem "jekyll-sitemap"
 end
+
+# --- Ruby 3.4+ compatibility -------------------------------------------------
+# These were bundled gems in the stdlib and were removed in Ruby 3.4/3.5.
+# github-pages pins Jekyll 3.10, which predates that change, so declare them.
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "logger"
+gem "ostruct"
+gem "webrick"
+
+# Windows-only filesystem watcher
+gem "wdm", "~> 0.1.0" if Gem.win_platform?

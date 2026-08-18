@@ -6,6 +6,7 @@ permalink: /teaching/2026-summer-teaching-2
 venue: "University of Potsdam"
 date: 2026-04-16
 location: "Potsdam, Germany"
+excerpt: "MSc project module on post-training LLMs from dialogue-game feedback using DPO, PPO, GRPO and SFT with the Playpen framework."
 ---
 
 This practical seminar (aka project module) is part of the MSc degree in Cognitive Systems. It covers post-training of Large Language Models using interactive data (dialogue game feedback). The implementation includes taking pretrained LLM and apply learning algorithms (DPO, PPO, GRPO, SFT) by using the [Playpen](https://github.com/lm-playpen/playpen) framework.

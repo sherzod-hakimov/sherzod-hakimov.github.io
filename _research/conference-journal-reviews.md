@@ -17,7 +17,7 @@ Organizing committee
 
 * [MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2024/)
 
-* [MUWS 2025 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2025/)
+* [MUWS 2025 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2025/)
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 

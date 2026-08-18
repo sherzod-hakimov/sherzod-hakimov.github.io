@@ -6,6 +6,7 @@ permalink: /teaching/2023-winter-teaching-1
 venue: "University of Potsdam"
 date: 2023-10-16
 location: "Potsdam, Germany"
+excerpt: "MSc seminar on recent developments in NLP, run as a role-playing paper-reading seminar."
 ---
 
 This seminar is part of the MSc degree in Cognitive Systems. It covers various recent advancements from the Natural Language Processing field. The goals of the seminar are the following:

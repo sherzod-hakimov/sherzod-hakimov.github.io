@@ -7,167 +7,109 @@ author_profile: true
 
 You can find the complete list of articles on my <a href="https://scholar.google.com/citations?user=7cm4SVgAAAAJ&hl=en"><b>Google Scholar</b></a> or <a href="https://dblp.org/pid/117/6023.html"><b>DBLP</b></a> profiles.
 
-### **2026**
-
-- Hakimov, S. (2026) **TurkicNLP: An NLP Toolkit for Turkic Languages**<br>[PDF](https://arxiv.org/abs/2602.19174)  [Git Repo](https://github.com/turkic-nlp/turkicnlp)
-
-- Hakimov, S., Osswald, K., Psurek, J., Bukovszky, E., Lüser, A., Schlangen D. (2026). **Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+**. <br>[PDF](https://arxiv.org/pdf/2608.01395) [Git repo](https://github.com/clembench/multilingual) [Leaderboard](https://clembench.github.io/leaderboard.html)
-
-- Hakimov, S., D'Agostini, M., Samodelkin, I., Schlangen D. (2026). **The Image Reconstruction Game: Drawing Common Ground Through Iterative Multimodal Dialogue**. <br>[PDF](https://arxiv.org/pdf/2606.01901)
-
-- Kranti, C., Hakimov, S., Schlangen, D. (2025). **Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely** <br>[PDF](https://arxiv.org/pdf/2605.31387)
-
-- Hakimov, S., Bernard R, Leiber T, Osswald K, Richert K, Yang R, Bernardi R, Schlangen D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _In Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[PDF](https://aclanthology.org/2026.findings-eacl.27/)
-
-- Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.**<br>[PDF](https://arxiv.org/abs/2601.07648)
-
-
-### **2025**
-
-- Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., & Schlangen, D. (2025). **Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.** _The 31st International Conference on Computational Linguistics (COLING 2025)_<br>[PDF](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
-
-- Horst, N. and Mazzaccara, D. and Schmidt, A. and Sullivan, M. and Momentè, F. and Franceschetti, L. and Sadler, P. and Hakimov, S. and Testoni, A. and Bernardi, R. and Fernández, R. and Koller, A. and Lemon, O. and Schlangen, D. and Giulianelli, M. and Suglia, A. (2025). **Playpen: An Environment for Exploring Learning Through Conversational Interaction.** _In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)_<br>[PDF](https://aclanthology.org/2025.emnlp-main.1517/) [Git repo](https://github.com/lm-playpen/playpen)
-
-- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations.** _Special Interest Group on Discourse and Dialogue (SIGDIAL 2025)_<br>[PDF](https://aclanthology.org/anthology-files/pdf/sigdial/2025.sigdial-1.5.pdf)
-
-- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming.** _ITL4HRI Workshop co-located with International Conference on Robot and Human Interactive Communication (RO-MAN)_<br>[PDF](https://arxiv.org/pdf/2409.11041)
-
-- Jordan, J., Hakimov, S., Schlangen, D. (2025). **Plant in Cupboard, Orange on Rably, Inat Aphone.** _Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment. In: Text, Speech, and Dialogue. TSD 2025. Lecture Notes in Computer Science(), vol 16030. Springer, Cham. https://doi.org/10.1007/978-3-032-02551-7_6_<br>[PDF](https://arxiv.org/pdf/2502.11733)
-
-- Hakimov, S., Pfennigschmidt, L., & Schlangen, D. (2025). **Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://aclanthology.org/2025.gem-1.63.pdf)
-
-- Hsu, Y., Feldhus, N., & Hakimov, S. (2024). **Free-text Rationale Generation under Readability Level Control.** _GEM2 Workshop: Generation, Evaluation & Metrics co-located at ACL 2025_<br>[PDF](https://aclanthology.org/2025.gem-1.11.pdf)
-
-- Kranti, C., Hakimov, S. and Schlangen, D. (2025). **From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning.** _IJCNLP-AACL 2025._<br>[PDF](https://aclanthology.org/2025.ijcnlp-long.139.pdf)
-
-
-### **2024**
-
-- Kranti, C., Hakimov, S. and Schlangen, D. (2024). **Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft.** _Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)_<br>[PDF](https://aclanthology.org/2024.findings-emnlp.652/)
-
-- Bhavsar, N., Jordan, J., Hakimov, S., & Schlangen. D. (2024). **How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics.**<br>[arXiv preprint arXiv:2406.14051](https://arxiv.org/abs/2406.14051)
-
-- Beyer, A., Chalamalasetti, K., Hakimov, S., Madureira, B., Sadler, P., & Schlangen, D. (2024). **clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents.**<br>[arXiv preprint arXiv:2405.20859](https://arxiv.org/abs/2405.20859)
-
-- Hakimov, S., and Cheema, G.S., (2024). **Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict.** _ACM International Conference on Multimedia Retrieval (ICMR) 2024_<br>[PDF](https://arxiv.org/pdf/2306.12886.pdf) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/records/10563101)
-
-- Thakkar, G., Hakimov, S., and Tadic, M., (2024). **M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets.** _LREC-COLING 2024_<br>[PDF](https://arxiv.org/pdf/2404.01753.pdf) [Git Repo](https://github.com/cleopatra-itn/M2SA-multimodal-multilingual-sentiment-analysis)
-
-- Sadler, P., Hakimov, S., and Schlangen, D., (2024). **Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies.** _LREC-COLING 2024_<br>[PDF](https://arxiv.org/pdf/2403.17497.pdf)
-
-- Sadler, P., Hakimov, S., and Schlangen, D., (2024). **Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game.** _Work presented at the "Cooperative Multi-Agent Systems Decision-making and Learning" workshop (AAAI'24)_<br>[PDF](https://arxiv.org/pdf/2402.04824) [Git repo](https://github.com/clp-research/different-follower-behaviors)
-
-- Hakimov, S., Weiser, Y., and Schlangen, D., (2024). **Evaluating Modular Dialogue System for Form Filling Using Large Language Models.** _In Proceedings of the 1st Workshop on Simulating Conversational Intelligence in Chat (SCI-CHAT 2024) at EACL 2024, pages 36–52, St. Julians, Malta. Association for Computational Linguistics._<br>[PDF](https://aclanthology.org/2024.scichat-1.4.pdf) [Git repo](https://github.com/clp-research/modular_form_filling_with_llm)
-
-
-### **2023**
-
-- Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., and Schlangen, D., (2023). **clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.** _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)_<br>[PDF](https://arxiv.org/pdf/2305.13455.pdf) [Git repo](https://github.com/clembench/clembench) [Clem Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
-
-- Hakimov, S., and Schlangen, D., (2023). **Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks.** _Findings of the Association for Computational Linguistics: ACL 2023_<br>[PDF](https://aclanthology.org/2023.findings-acl.894.pdf) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
-
-- Alam F, Barrón-Cedeño A, Cheema GS, Hakimov S, Hasanain M, Li C, Míguez R, Mubarak H, Shahi GK, Zaghouani W, Nakov P., (2023). **Overview of the CLEF-2023 CheckThat! Lab Task 1 on Check-Worthiness of Multimodal and Multigenre Content.** _Working Notes of CLEF_<br>[PDF](https://ceur-ws.org/Vol-3497/paper-019.pdf) [Challenge Website](https://web.archive.org/web/20230928141911/https://checkthat.gitlab.io/clef2023/task1/)
-
-- Tahmasebi, S., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). **Improving Generalization for Multimodal Fake News Detection.** _International Conference on Multimedia Retrieval (ICMR 2023)_<br>[PDF](https://arxiv.org/pdf/2305.18599.pdf) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
-
-- Sadler, P., Hakimov, S., and Schlangen, D., (2023). **Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers.** _Findings of the Association for Computational Linguistics: ACL 2023_<br>[PDF](https://arxiv.org/pdf/2305.12880.pdf) [Git repo](https://github.com/clp-research/intra-episodic-feedback)
-
-- Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J., and Ewerth, R., (2023). **Understanding Image-Text Relations and News Values for Multimodal News Analysis.** _Frontiers in Artificial Intelligence, Sec. Language and Computation, Volume 6_<br>[PDF](https://www.frontiersin.org/articles/10.3389/frai.2023.1125533) [DOI](https://doi.org/10.3389/frai.2023.1125533)
-
-- Tahmasebzadeh, G., Hakimov, S., Ewerth, R., and Müller-Budack, E., (2023). **Multimodal Geolocation Estimation of News Photos.** _Advances in Information Retrieval - 45th European Conference on Information Retrieval (ECIR 2023)_<br>[PDF](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_14) [Git repo](https://github.com/TIBHannover/mmg-newsphoto)
-
-- Tahmasebzadeh, G., Müller-Budack, E., Hakimov, S., and Ewerth, R., (2023). **MM-Locate-News: Multimodal Focus Location Estimation in News.** _29th International Conference on Multimedia Modeling (MMM 2023)_<br>[PDF](https://arxiv.org/pdf/2211.08042.pdf) [Git repo](https://github.com/TIBHannover/mm-locate-news)
-
-
-### **2022**
-
-- Hakimov, S., Cheema, G.S., Kastner, M.A., Shah, R.R., Sikka, K., (2022). **MUWS'22: 1st International Workshop on Multimodal Understanding for the Web and Social Media.** _WWW (Companion Volume) 2022: 692-693_<br>[URL](https://muws-workshop.github.io/2022-program.html)
-
-- Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto C. and Ewerth, R., (2022). **MM-Claims: A Dataset for Multimodal Claim Detection in Social Media.** _Findings of the North American Chapter of the Association for Computational Linguistics (Findings of NAACL 2022)_<br>[PDF](https://aclanthology.org/2022.findings-naacl.72.pdf) [Git repo](https://github.com/TIBHannover/MM_Claims)
-
-- Hakimov, S., Cheema G.S. and Ewerth, R., (2022). **TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes.** _SemEval-2022, Task 5: MAMI - Multimedia Automatic Misogyny Identification co-located with NAACL 2022_<br>[PDF](https://aclanthology.org/2022.semeval-1.105/) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
-
-- Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2022). **CLEOPATRA'22: 3rd International Workshop on Cross-lingual Event-centric Open Analytics.** _WWW (Companion Volume) 2022: 497-498_<br>[URL](https://cleopatra-workshop.l3s.uni-hannover.de/)
-
-
-### **2021**
-
-- Hakimov, S. and Ewerth, R., (2021). **Combining Textual Features for the Detection of Hateful and Offensive Language.** _HASOC 2021 - Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages, co-located with Forum for Information Retrieval Evaluation (FIRE)_<br>[PDF](https://arxiv.org/pdf/2112.04803.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
-
-- Pustu-Iren, K., Müller-Budack, E., Hakimov, S. and Ewerth, R., (2021). **Visualizing Copyright-Protected Video Archive Content Through Similarity Search.** _In the Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL 2021)_<br>[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86324-1_15)
-
-- Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). **A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods.** _In the Proceedings of the Multi-Modal Pre-Training for Multimedia Understanding (MMPT 2021), co-located with ICMR_<br>[PDF](https://arxiv.org/pdf/2106.08829.pdf) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
-
-- Ilkou, E., Abu-Rasheed, H., Tavakoli, M., Hakimov, S., Kismihók, G., Auer, S. and Nejdl, W., (2021). **EduCOR: An Educational and Career-Oriented Recommendation Ontology.** _In the Proceedings the 20th International Semantic Web Conference (ISWC 2021)_<br>[PDF](https://arxiv.org/pdf/2107.05522.pdf) [Ontology page](http://ontology.tib.eu/educor/) [Git repo](https://github.com/tibonto/educor/)
-
-- Kanafani, H., Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). **Unsupervised Video Summarization via Multi-source Features.** _In the Proceedings of the ACM International Conference on Multimedia Retrieval (ICMR)_<br>[PDF](https://arxiv.org/pdf/2105.12532.pdf) [Git repo](https://github.com/TIBHannover/UnsupervisedVideoSummarization)
-
-- Tahmasebzadeh, G., Kacupaj, E., Müller-Budack, E., Hakimov, S., Lehmann, J. and Ewerth, R., (2021). **GeoWINE: Geolocation based Wiki, Image,News and Event Retrieval.** _In the Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval 2021 (SIGIR)_<br>[PDF](https://arxiv.org/pdf/2104.14994.pdf) [DEMO](http://cleopatra.ijs.si/geowine/) [Git repo](https://github.com/cleopatra-itn/GeoWINE)
-
-- Müller-Budack, E., Theiner, J., Diering, S., Idahl, M., Hakimov, S. and Ewerth, R., (2021). **Multimodal news analytics using measures of cross-modal entity and context consistency.** _*International Journal of Multimedia Information Retrieval*, pp.1-15._<br>[PDF](https://link.springer.com/article/10.1007/s13735-021-00207-4) [Git repo](https://github.com/TIBHannover/cross-modal_entity_consistency)
-
-- Ghauri, J.A., Hakimov, S. and Ewerth, R., (2021). **Supervised Video Summarization via Multiple Feature Sets with Parallel Attention.** _In the Proceedings of IEEE International Conference on Multimedia and Expo (ICME)_<br>[PDF](https://arxiv.org/pdf/2104.11530.pdf) [Git repo](https://github.com/TIBHannover/MSVA)
-
-- Cheema, G.S., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2021). **On the Role of Images for Analyzing Claims in Social Media.** _In the Proceedings of the CLEOPATRA workshop co-located with The Web Conference (WWW)_<br>[PDF](http://ceur-ws.org/Vol-2829/paper3.pdf) [Git repo](https://github.com/cleopatra-itn/image_text_claim_detection)
-
-- Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2021). **Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics co-located with the 30th The Web Conference (WWW 2021).**<br>[CEUR Vol-2829](http://ceur-ws.org/Vol-2829/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de)
-
-- Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K. and Ewerth, R., (2021). **Ontology-driven Event Type Classification in Images.** _In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision_<br>[PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf) [Git repo](https://github.com/TIBHannover/VisE)
-
-
-### **2020**
-
-- Demidova, E., Hakimov, S., Winters, J. and Tadic, M., (2020). **Proceedings of the 1st International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2020) co-located with the 17th Extended Semantic Web Conference (ESWC 2020).**<br>[CEUR Vol-2611](http://ceur-ws.org/Vol-2611/) [Workshop page](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
-
-- Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). **TIB's Visual Analytics Group at MediaEval'20: Detecting Fake News on Corona Virus and 5G Conspiracy.** _MediaEval workshop FakeNews task_<br>[PDF](https://arxiv.org/pdf/2101.03529.pdf) [Git repo](https://github.com/cleopatra-itn/TIB_VA_MediaEval_FakeNews)
-
-- Ghauri, J.A., Hakimov, S. and Ewerth, R., (2020). **Classification of Important Segments in Educational Videos using Multimodal Features.** _In Proceedings of the CIKM 2020 Workshops_<br>[PDF](https://arxiv.org/pdf/2010.13626.pdf) [Git repo](https://github.com/VideoAnalysis/EDUVSUM)
-
-- Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E. and Ewerth, R., (2020). **A Feature Analysis for Multimodal News Retrieval.** _In the Proceedings of the CLEOPATRA workshop co-located with Extended Semantic Web Conference (ESWC)_<br>[PDF](http://ceur-ws.org/Vol-2611/paper4.pdf) [Git repo](https://github.com/cleopatra-itn/multimodal-news-retrieval)
-
-- Cheema, G.S., Hakimov, S. and Ewerth, R., (2020). **Check_square at CheckThat! 2020: Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.** _In Proceedings of the Eleventh International Conference of the CLEF Association_<br>[PDF](https://arxiv.org/pdf/2007.10534.pdf) [Git repo](https://github.com/cleopatra-itn/claim_detection)
-
-- Tavakoli, M., Hakimov, S., Ewerth, R. and Kismihók, G., (2020). **A Recommender System For Open Educational Videos Based On Skill Requirements.** _In Proceedings of International Conference on Advanced Learning Technologies (ICALT)_<br>[PDF](https://arxiv.org/pdf/2005.10595.pdf)
-
-
-### **2019**
-
-- Hakimov, S. (2019). **Learning Multilingual Semantic Parsers for Question Answering over Linked Data.** _A comparison of neural and probabilistic graphical model architectures. Bielefeld University, Germany (Doctoral Dissertation) Graded as *magna cum laude*_<br>[URI](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf) [Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures)
-
-- Hakimov, S. , Jebbara, S., Cimiano, P. (2019). **Evaluating Architectural Choices for Deep Learning Approaches for Question Answering over Knowledge Bases.** _In Proceedings of the 13th International Semantic Computing Conference (ICSC)_<br>[PDF](https://pub.uni-bielefeld.de/download/2933089/2933090/hakimov_jebbara_cimiano_paper_38.pdf) [Git repo](https://github.com/ag-sc/SimpleQA)
-
-
-### **2017**
-
-- Ell B, Hakimov, S. , Braukmann, P., Cazzoli, L., Kaupmann, F., Mancino, A., Altaf Memon, J., Rother, K., Saini, A., Cimiano, P. (2017). **Towards a Large Corpus of Richly Annotated Web Tables for Knowledge Base Population.** _In Proceedings of 5th International Workshop on Linked Data for Information Extraction, co-located with the 16th International Semantic Web Conference (ISWC)_<br>[PDF](https://pub.uni-bielefeld.de/download/2913458/2913604/TowardsALargeCorpusOfRichlyAnnotatedWebTablesForKnowledgeBasePopulation.pdf) [Git repo](https://github.com/ag-sc/WTU)
-
-- Hakimov, S., Jebbara, S., Cimiano, P. (2017). **AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data.** _In Proceedings of the 16th International Semantic Web Conference (ISWC)_<br>[PDF](https://pub.uni-bielefeld.de/download/2913141/2913142/paper.pdf) [Git repo](https://github.com/ag-sc/AMUSE)
-
-
-### **2016**
-
-- Ell, B., Hakimov, S., Cimiano, P. (2016). **Statistical Induction of Coupled Domain/Range Restrictions from RDF Knowledge Bases.** _In Proceedings of 4th NLP and DBpedia Workshop, co-located with the 15th International Semantic Web Conference (ISWC)_<br>[PDF](https://pub.uni-bielefeld.de/download/2904967/2905746/Camera_ready__Workshop_NLP___DBpedia_2016.pdf) [Git repo](https://github.com/ag-sc/SchemaInduction)
-
-- Hakimov, S., ter Horst, H., Jebbara, S., Hartung, M., Cimiano, P. (2016). **Combining textual and graph-based features for named entity disambiguation using undirected probabilistic graphical models.** _In Proceedings of 20th International Knowledge Engineering and Knowledge Management Conference (EKAW)_<br>[PDF](https://pub.uni-bielefeld.de/download/2905552/2905808/paper.pdf) [Git repo](https://github.com/ag-sc/NERFGUN)
-
-
-### **2015**
-
-- Hakimov, S., Unger, C., Walter, S., Cimiano, P. (2015). **Applying semantic parsing to question answering over linked data: Addressing the lexical gap.** _In Proceedings of International Conference on Applications of Natural Language to Information Systems (NLDB)_<br>[PDF](https://pub.uni-bielefeld.de/download/2760642/2760651/qa_ccg_camera_ready_version.pdf) [Git repo](https://github.com/ag-sc/CCGParsing)
-
-
-### **2014**
-
-- Dogdu, E., Hakimov, S., Yumusak, S. (2014). **A data-model driven web application development framework.** _In Proceedings of the 2014 ACM Southeast Regional Conference_<br>[PDF](https://pub.uni-bielefeld.de/download/2715998/2905809/a47-dogdu.pdf)
-
-
-### **2013**
-
-- Hakimov, S. (2013). **Named Entity Disambiguation using Linked Open Data.** _TOBB University, Ankara, Turkey (Master's Thesis)_<br>[PDF](http://earsiv.etu.edu.tr/xmlui/bitstream/handle/20.500.11851/919/350357.pdf?sequence=1)
-
-- Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013). **Semantic question answering system over linked data using relational patterns.** _In Proceedings of the Joint EDBT/ICDT 2013 Workshops_<br>[PDF](https://pub.uni-bielefeld.de/download/2657454/2715983/a12-hakimov.pdf)
-
-
-### **2012**
-
-- Hakimov, S., Oto, S. A., Dogdu, E. (2012). **Named entity recognition and disambiguation using linked data and graph-based centrality scoring.** _In Proceedings of the 4th international workshop on semantic web information management_<br>[PDF](https://pub.uni-bielefeld.de/download/2657450/2715987/2012-nerso-swim.pdf)
+## 2026
+{: .archive__subtitle}
+- Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[Paper](https://aclanthology.org/2026.findings-eacl.27/)
+- Hakimov, S., Osswald, K., Psurek, J., Bukovszky, E., Lüser, A., Schlangen, D. (2026). **Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2608.01395) [Git repo](https://github.com/clembench/multilingual) [Leaderboard](https://clembench.github.io/leaderboard.html)
+- Mohiuddin, S., Chalamalasetti, K., Hakimov, S., Schlangen, D. (2026). **Don't Let Me Ask for It: LLMs Show Deficiencies in Active Multi-Turn Information Acquisition for Abductive Inference.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2608.03388)
+- Chalamalasetti, K., Hakimov, S., Schlangen, D. (2026). **Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2605.31387)
+- Hakimov, S., D'Agostini, M., Samodelkin, I., Schlangen, D. (2026). **The Image Reconstruction Game: Drawing Common Ground Through Iterative Multimodal Dialogue.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2606.01901)
+- Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2601.07648)
+- Hakimov, S. (2026). **TurkicNLP: An NLP Toolkit for Turkic Languages.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2602.19174) [Git repo](https://github.com/turkic-nlp/turkicnlp) [Project site](https://turkic-nlp.github.io/)
+
+## 2025
+{: .archive__subtitle}
+- Hakimov, S., Abdullayeva, Y., Koshti, K., Schmidt, A., Weiser, Y., Beyer, A., Schlangen, D. (2025). **Using Game Play to Investigate Multimodal and Conversational Grounding in Large Multimodal Models.** _Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025), pages 5686–5718, Abu Dhabi, UAE_<br>[Paper](https://aclanthology.org/2025.coling-main.381/) [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+- Horst, N., Mazzaccara, D., Schmidt, A., Sullivan, M., Momentè, F., Franceschetti, L., Sadler, P., Hakimov, S., Testoni, A., Bernardi, R., Fernández, R., Koller, A., Lemon, O., Schlangen, D., Giulianelli, M., Suglia, A. (2025). **Playpen: An Environment for Exploring Learning From Dialogue Game Feedback.** _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Suzhou, China_<br>[Paper](https://aclanthology.org/2025.emnlp-main.1517/) [Git repo](https://github.com/lm-playpen/playpen)
+- Chalamalasetti, K., Hakimov, S., Schlangen, D. (2025). **clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations.** _Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2025), Avignon, France_<br>[Paper](https://aclanthology.org/2025.sigdial-1.5/)
+- Chalamalasetti, K., Hakimov, S., Schlangen, D. (2025). **From Templates to Natural Language: Generalization Challenges in Instruction-Tuned LLMs for Spatial Reasoning.** _Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025)_<br>[Paper](https://aclanthology.org/2025.ijcnlp-long.139/)
+- Hakimov, S., Pfennigschmidt, L., Schlangen, D. (2025). **Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models.** _Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²) at ACL 2025, Vienna, Austria_<br>[Paper](https://aclanthology.org/2025.gem-1.63/)
+- Hsu, Y.-S., Feldhus, N., Hakimov, S. (2025). **Free-text Rationale Generation under Readability Level Control.** _Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics (GEM²) at ACL 2025, Vienna, Austria_<br>[Paper](https://aclanthology.org/2025.gem-1.11/)
+- Jordan, J., Hakimov, S., Schlangen, D. (2025). **Plant in Cupboard, Orange on Rably, Inat Aphone. Benchmarking Incremental Learning of Situation and Language Model using a Text-Simulated Situated Environment.** _Text, Speech, and Dialogue (TSD 2025), Lecture Notes in Computer Science vol. 16030, pages 51–63, Springer, Cham_<br>[Paper](https://doi.org/10.1007/978-3-032-02551-7_6) [arXiv](https://arxiv.org/abs/2502.11733)
+- Chalamalasetti, K., Hakimov, S., Schlangen, D. (2025). **Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming.** _ITL4HRI Workshop at IEEE RO-MAN 2025, Eindhoven, Netherlands_<br>[PDF](https://clp.ling.uni-potsdam.de/publications/Chalamalasetti-2025-2.pdf) [arXiv](https://arxiv.org/abs/2409.11041)
+
+## 2024
+{: .archive__subtitle}
+- Chalamalasetti, K., Hakimov, S., Schlangen, D. (2024). **Retrieval-Augmented Code Generation for Situated Action Generation: A Case Study on Minecraft.** _Findings of the Association for Computational Linguistics: EMNLP 2024, pages 11159–11170, Miami, Florida, USA_<br>[Paper](https://aclanthology.org/2024.findings-emnlp.652/)
+- Hakimov, S., Cheema, G.S. (2024). **Unveiling Global Narratives: A Multilingual Twitter Dataset of News Media on the Russo-Ukrainian Conflict.** _Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR 2024), pages 1160–1164, Phuket, Thailand, ACM_<br>[Paper](https://doi.org/10.1145/3652583.3657622) [Git repo](https://github.com/sherzod-hakimov/ru-ua-news-discourse-twitter) [Dataset](https://zenodo.org/records/10563101)
+- Thakkar, G., Hakimov, S., Tadić, M. (2024). **M2SA: Multimodal and Multilingual Model for Sentiment Analysis of Tweets.** _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 10833–10845, Torino, Italy_<br>[Paper](https://aclanthology.org/2024.lrec-main.946/) [Git repo](https://github.com/cleopatra-itn/M2SA-multimodal-multilingual-sentiment-analysis)
+- Sadler, P., Hakimov, S., Schlangen, D. (2024). **Sharing the Cost of Success: A Game for Evaluating and Learning Collaborative Multi-Agent Instruction Giving and Following Policies.** _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 14770–14783, Torino, Italy_<br>[Paper](https://aclanthology.org/2024.lrec-main.1287/)
+- Sadler, P., Hakimov, S., Schlangen, D. (2024). **Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game.** _Proceedings of the 4th Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2024) at ACL 2024, pages 17–29, Bangkok, Thailand_<br>[Paper](https://aclanthology.org/2024.splurobonlp-1.2/) [Git repo](https://github.com/clp-research/different-follower-behaviors)
+- Hakimov, S., Weiser, Y., Schlangen, D. (2024). **Evaluating Modular Dialogue System for Form Filling Using Large Language Models.** _Proceedings of the 1st Workshop on Simulating Conversational Intelligence in Chat (SCI-CHAT 2024) at EACL 2024, pages 36–52, St. Julians, Malta_<br>[Paper](https://aclanthology.org/2024.scichat-1.4/) [Git repo](https://github.com/clp-research/modular_form_filling_with_llm)
+- Kastner, M.A., Cheema, G.S., Hakimov, S., Garcia, N. (2024). **MUWS 2024: The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media.** _Proceedings of the 2024 International Conference on Multimedia Retrieval (ICMR 2024), pages 1342–1344, Phuket, Thailand, ACM_<br>[Paper](https://doi.org/10.1145/3652583.3658893) [Workshop page](https://muws-workshop.github.io/previous/2024/)
+- Beyer, A., Chalamalasetti, K., Hakimov, S., Madureira, B., Sadler, P., Schlangen, D. (2024). **clembench-2024: A Challenging, Dynamic, Complementary, Multilingual Benchmark and Underlying Flexible Framework for LLMs as Multi-Action Agents.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2405.20859)
+- Bhavsar, N., Jordan, J., Hakimov, S., Schlangen, D. (2024). **How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2406.14051)
+
+## 2023
+{: .archive__subtitle}
+- Chalamalasetti, K., Götze, J., Hakimov, S., Madureira, B., Sadler, P., Schlangen, D. (2023). **clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.** _Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pages 11174–11219, Singapore_<br>[Paper](https://aclanthology.org/2023.emnlp-main.689/) [Git repo](https://github.com/clembench/clembench) [Clem Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
+- Hakimov, S., Schlangen, D. (2023). **Images in Language Space: Exploring the Suitability of Large Language Models for Vision & Language Tasks.** _Findings of the Association for Computational Linguistics: ACL 2023, pages 14196–14210, Toronto, Canada_<br>[Paper](https://aclanthology.org/2023.findings-acl.894/) [Git repo](https://github.com/clp-research/language-models-multimodal-tasks)
+- Sadler, P., Hakimov, S., Schlangen, D. (2023). **Yes, this Way! Learning to Ground Referring Expressions into Actions with Intra-episodic Feedback from Supportive Teachers.** _Findings of the Association for Computational Linguistics: ACL 2023, pages 9228–9239, Toronto, Canada_<br>[Paper](https://aclanthology.org/2023.findings-acl.587/) [Git repo](https://github.com/clp-research/intra-episodic-feedback)
+- Cheema, G.S., Hakimov, S., Müller-Budack, E., Otto, C., Bateman, J.A., Ewerth, R. (2023). **Understanding image-text relations and news values for multimodal news analysis.** _Frontiers in Artificial Intelligence, volume 6_<br>[Paper](https://doi.org/10.3389/frai.2023.1125533)
+- Tahmasebzadeh, G., Hakimov, S., Ewerth, R., Müller-Budack, E. (2023). **Multimodal Geolocation Estimation of News Photos.** _Advances in Information Retrieval – 45th European Conference on Information Retrieval (ECIR 2023), Lecture Notes in Computer Science vol. 13981, pages 204–220, Dublin, Ireland, Springer_<br>[Paper](https://doi.org/10.1007/978-3-031-28238-6_14) [Git repo](https://github.com/TIBHannover/mmg-newsphoto)
+- Tahmasebzadeh, G., Müller-Budack, E., Hakimov, S., Ewerth, R. (2023). **MM-Locate-News: Multimodal Focus Location Estimation in News.** _MultiMedia Modeling – 29th International Conference (MMM 2023), Lecture Notes in Computer Science vol. 13833, pages 204–216, Bergen, Norway, Springer_<br>[Paper](https://doi.org/10.1007/978-3-031-27077-2_16) [Git repo](https://github.com/TIBHannover/mm-locate-news)
+- Tahmasebi, S., Hakimov, S., Ewerth, R., Müller-Budack, E. (2023). **Improving Generalization for Multimodal Fake News Detection.** _Proceedings of the 2023 ACM International Conference on Multimedia Retrieval (ICMR 2023), pages 581–585, Thessaloniki, Greece, ACM_<br>[Paper](https://doi.org/10.1145/3591106.3592230) [Git repo](https://github.com/TIBHannover/MM-FakeNews-Detection)
+- Cheema, G.S., Hakimov, S., Kastner, M.A., Garcia, N. (2023). **MUWS'2023: The 2nd International Workshop on Multimodal Human Understanding for the Web and Social Media.** _Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), pages 5263–5266, Birmingham, United Kingdom, ACM_<br>[Paper](https://doi.org/10.1145/3583780.3615310) [Workshop page](https://muws-workshop.github.io/previous/2023/)
+- Alam, F., Barrón-Cedeño, A., Cheema, G.S., Shahi, G.K., Hakimov, S., Hasanain, M., Li, C., Míguez, R., Mubarak, H., Zaghouani, W., Nakov, P. (2023). **Overview of the CLEF-2023 CheckThat! Lab Task 1 on Check-Worthiness in Multimodal and Multigenre Content.** _Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2023), CEUR Workshop Proceedings vol. 3497, pages 219–235, Thessaloniki, Greece_<br>[Paper](https://ceur-ws.org/Vol-3497/paper-019.pdf)
+
+## 2022
+{: .archive__subtitle}
+- Cheema, G.S., Hakimov, S., Sittar, A., Müller-Budack, E., Otto, C., Ewerth, R. (2022). **MM-Claims: A Dataset for Multimodal Claim Detection in Social Media.** _Findings of the Association for Computational Linguistics: NAACL 2022, pages 962–979, Seattle, WA, USA_<br>[Paper](https://doi.org/10.18653/v1/2022.findings-naacl.72) [Git repo](https://github.com/TIBHannover/MM_Claims)
+- Hakimov, S., Cheema, G.S., Ewerth, R. (2022). **TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes.** _Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022) at NAACL 2022, pages 756–760, Seattle, WA, USA_<br>[Paper](https://doi.org/10.18653/v1/2022.semeval-1.105) [Git repo](https://github.com/TIBHannover/multimodal-misogyny-detection-mami-2022)
+- Hakimov, S., Cheema, G.S., Kastner, M.A., Shah, R.R., Sikka, K. (2022). **MUWS'22: 1st International Workshop on Multimodal Understanding for the Web and Social Media.** _Companion of The Web Conference 2022, pages 692–693, Lyon, France, ACM_<br>[Paper](https://doi.org/10.1145/3487553.3524873) [Workshop page](https://muws-workshop.github.io/previous/2022/)
+- Demidova, E., Hakimov, S., Winters, J., Tadić, M. (2022). **CLEOPATRA'22: 3rd International Workshop on Cross-lingual Event-centric Open Analytics.** _Companion of The Web Conference 2022, pages 497–498, Lyon, France, ACM_<br>[Paper](https://doi.org/10.1145/3487553.3524865) [Workshop page](https://cleopatra-workshop.l3s.uni-hannover.de/)
+
+## 2021
+{: .archive__subtitle}
+- Müller-Budack, E., Theiner, J., Diering, S., Idahl, M., Hakimov, S., Ewerth, R. (2021). **Multimodal news analytics using measures of cross-modal entity and context consistency.** _International Journal of Multimedia Information Retrieval, 10(2), pages 111–125_<br>[Paper](https://doi.org/10.1007/s13735-021-00207-4) [Git repo](https://github.com/TIBHannover/cross-modal_entity_consistency)
+- Müller-Budack, E., Springstein, M., Hakimov, S., Mrutzek, K., Ewerth, R. (2021). **Ontology-driven Event Type Classification in Images.** _IEEE Winter Conference on Applications of Computer Vision (WACV 2021), pages 2927–2937, IEEE_<br>[Paper](https://doi.org/10.1109/WACV48630.2021.00297) [Open access PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf) [Git repo](https://github.com/TIBHannover/VisE)
+- Ilkou, E., Abu-Rasheed, H., Tavakoli, M., Hakimov, S., Kismihók, G., Auer, S., Nejdl, W. (2021). **EduCOR: An Educational and Career-Oriented Recommendation Ontology.** _The Semantic Web – ISWC 2021, 20th International Semantic Web Conference, Lecture Notes in Computer Science vol. 12922, pages 546–562, Springer_<br>[Paper](https://doi.org/10.1007/978-3-030-88361-4_32) [Ontology page](http://ontology.tib.eu/educor/) [Git repo](https://github.com/tibonto/educor/)
+- Tahmasebzadeh, G., Kacupaj, E., Müller-Budack, E., Hakimov, S., Lehmann, J., Ewerth, R. (2021). **GeoWINE: Geolocation based Wiki, Image, News and Event Retrieval.** _SIGIR '21: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 2565–2569, ACM_<br>[Paper](https://doi.org/10.1145/3404835.3462786) [Git repo](https://github.com/cleopatra-itn/GeoWINE)
+- Ghauri, J.A., Hakimov, S., Ewerth, R. (2021). **Supervised Video Summarization Via Multiple Feature Sets with Parallel Attention.** _2021 IEEE International Conference on Multimedia and Expo (ICME 2021), Shenzhen, China, IEEE_<br>[Paper](https://doi.org/10.1109/ICME51207.2021.9428318) [Git repo](https://github.com/TIBHannover/MSVA)
+- Kanafani, H., Ghauri, J.A., Hakimov, S., Ewerth, R. (2021). **Unsupervised Video Summarization via Multi-source Features.** _ICMR '21: International Conference on Multimedia Retrieval, pages 466–470, Taipei, Taiwan, ACM_<br>[Paper](https://doi.org/10.1145/3460426.3463597) [Git repo](https://github.com/TIBHannover/UnsupervisedVideoSummarization)
+- Pustu-Iren, K., Müller-Budack, E., Hakimov, S., Ewerth, R. (2021). **Visualizing Copyright-Protected Video Archive Content Through Similarity Search.** _Linking Theory and Practice of Digital Libraries – 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021), Lecture Notes in Computer Science vol. 12866, pages 123–127, Springer_<br>[Paper](https://doi.org/10.1007/978-3-030-86324-1_15)
+- Cheema, G.S., Hakimov, S., Müller-Budack, E., Ewerth, R. (2021). **A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods.** _Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding (MMPT '21) at ICMR, pages 37–45, Taipei, Taiwan, ACM_<br>[Paper](https://doi.org/10.1145/3463945.3469058) [Git repo](https://github.com/cleopatra-itn/fair_multimodal_sentiment)
+- Hakimov, S., Ewerth, R. (2021). **Combining Textual Features for the Detection of Hateful and Offensive Language.** _Working Notes of FIRE 2021 – Forum for Information Retrieval Evaluation, CEUR Workshop Proceedings vol. 3159, pages 412–418, Gandhinagar, India_<br>[Paper](https://ceur-ws.org/Vol-3159/T1-40.pdf) [Git repo](https://github.com/sherzod-hakimov/HASOC-2021---Hate-Speech-Detection)
+- Cheema, G.S., Hakimov, S., Müller-Budack, E., Ewerth, R. (2021). **On the Role of Images for Analyzing Claims in Social Media.** _Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2021) at The Web Conference 2021, CEUR Workshop Proceedings vol. 2829, pages 32–46_<br>[Paper](https://ceur-ws.org/Vol-2829/paper3.pdf) [Git repo](https://github.com/cleopatra-itn/image_text_claim_detection)
+- Demidova, E., Hakimov, S., Winters, J., Tadić, M. (eds.) (2021). **Proceedings of the 2nd International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2021) co-located with the 30th The Web Conference (WWW 2021).** _CEUR Workshop Proceedings vol. 2829_<br>[Proceedings](https://ceur-ws.org/Vol-2829) [Workshop page](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2021/)
+
+## 2020
+{: .archive__subtitle}
+- Cheema, G.S., Hakimov, S., Ewerth, R. (2020). **Check_square at CheckThat! 2020 Claim Detection in Social Media via Fusion of Transformer and Syntactic Features.** _Working Notes of CLEF 2020 – Conference and Labs of the Evaluation Forum, CEUR Workshop Proceedings vol. 2696, Thessaloniki, Greece_<br>[Paper](https://ceur-ws.org/Vol-2696/paper_216.pdf) [Git repo](https://github.com/cleopatra-itn/claim_detection)
+- Cheema, G.S., Hakimov, S., Ewerth, R. (2020). **TIB's Visual Analytics Group at MediaEval '20: Detecting Fake News on Corona Virus and 5G Conspiracy.** _Working Notes Proceedings of the MediaEval 2020 Workshop, CEUR Workshop Proceedings vol. 2882_<br>[Paper](https://ceur-ws.org/Vol-2882/paper56.pdf) [Git repo](https://github.com/cleopatra-itn/TIB_VA_MediaEval_FakeNews)
+- Ghauri, J.A., Hakimov, S., Ewerth, R. (2020). **Classification of Important Segments in Educational Videos using Multimodal Features.** _Proceedings of the CIKM 2020 Workshops, CEUR Workshop Proceedings vol. 2699, Galway, Ireland_<br>[Paper](https://ceur-ws.org/Vol-2699/paper15.pdf) [Git repo](https://github.com/VideoAnalysis/EDUVSUM)
+- Tahmasebzadeh, G., Hakimov, S., Müller-Budack, E., Ewerth, R. (2020). **A Feature Analysis for Multimodal News Retrieval.** _Proceedings of the 1st International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2020) at ESWC 2020, CEUR Workshop Proceedings vol. 2611, pages 43–56_<br>[Paper](https://ceur-ws.org/Vol-2611/paper4.pdf) [Git repo](https://github.com/cleopatra-itn/multimodal-news-retrieval)
+- Tavakoli, M., Hakimov, S., Ewerth, R., Kismihók, G. (2020). **A Recommender System For Open Educational Videos Based On Skill Requirements.** _20th IEEE International Conference on Advanced Learning Technologies (ICALT 2020), pages 1–5, Tartu, Estonia, IEEE_<br>[Paper](https://doi.org/10.1109/ICALT49669.2020.00008)
+- Demidova, E., Hakimov, S., Winters, J., Tadić, M. (eds.) (2020). **Proceedings of the 1st International Workshop on Cross-lingual Event-centric Open Analytics (CLEOPATRA 2020) co-located with the 17th Extended Semantic Web Conference (ESWC 2020).** _CEUR Workshop Proceedings vol. 2611_<br>[Proceedings](https://ceur-ws.org/Vol-2611) [Workshop page](https://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
+
+## 2019
+{: .archive__subtitle}
+- Hakimov, S. (2019). **Learning Multilingual Semantic Parsers for Question Answering over Linked Data. A comparison of neural and probabilistic graphical model architectures.** _Doctoral dissertation, Bielefeld University, Germany. Graded *magna cum laude*_<br>[Record](https://pub.uni-bielefeld.de/record/2935619) [PDF](https://pub.uni-bielefeld.de/download/2935619/2935620/Sherzod_Hakimov_PhD_Dissertation.pdf) [Slides](https://www.slideshare.net/shakimov/learning-multilingual-semantic-parsers-for-question-answering-over-linked-data-a-comparison-of-neural-and-probabilistic-graphical-model-architectures)
+- Hakimov, S., Jebbara, S., Cimiano, P. (2019). **Evaluating Architectural Choices for Deep Learning Approaches for Question Answering Over Knowledge Bases.** _13th IEEE International Conference on Semantic Computing (ICSC 2019), pages 110–113, Newport Beach, CA, USA, IEEE_<br>[Paper](https://doi.org/10.1109/ICOSC.2019.8665496) [Git repo](https://github.com/ag-sc/SimpleQA)
+
+## 2017
+{: .archive__subtitle}
+- Hakimov, S., Jebbara, S., Cimiano, P. (2017). **AMUSE: Multilingual Semantic Parsing for Question Answering over Linked Data.** _The Semantic Web – ISWC 2017, 16th International Semantic Web Conference, Lecture Notes in Computer Science vol. 10587, pages 329–346, Vienna, Austria, Springer_<br>[Paper](https://doi.org/10.1007/978-3-319-68288-4_20) [Git repo](https://github.com/ag-sc/AMUSE)
+- Ell, B., Hakimov, S., Braukmann, P., Cazzoli, L., Kaupmann, F., Mancino, A., Altaf Memon, J., Rother, K., Saini, A., Cimiano, P. (2017). **Towards a Large Corpus of Richly Annotated Web Tables for Knowledge Base Population.** _Proceedings of the 5th International Workshop on Linked Data for Information Extraction at ISWC 2017, CEUR Workshop Proceedings vol. 1946, pages 2–13, Vienna, Austria_<br>[Paper](https://ceur-ws.org/Vol-1946/paper-02.pdf) [Git repo](https://github.com/ag-sc/WTU)
+
+## 2016
+{: .archive__subtitle}
+- Hakimov, S., ter Horst, H., Jebbara, S., Hartung, M., Cimiano, P. (2016). **Combining Textual and Graph-Based Features for Named Entity Disambiguation Using Undirected Probabilistic Graphical Models.** _Knowledge Engineering and Knowledge Management – 20th International Conference (EKAW 2016), Lecture Notes in Computer Science vol. 10024, pages 288–302, Bologna, Italy, Springer_<br>[Paper](https://doi.org/10.1007/978-3-319-49004-5_19) [Git repo](https://github.com/ag-sc/NERFGUN)
+- Ell, B., Hakimov, S., Cimiano, P. (2016). **Statistical Induction of Coupled Domain/Range Restrictions from RDF Knowledge Bases.** _Knowledge Graphs and Language Technology – ISWC 2016 International Workshops (KEKI and NLP&DBpedia), Revised Selected Papers, Lecture Notes in Computer Science vol. 10579, pages 27–40, Kobe, Japan, Springer_<br>[Paper](https://doi.org/10.1007/978-3-319-68723-0_3) [Git repo](https://github.com/ag-sc/SchemaInduction)
+
+## 2015
+{: .archive__subtitle}
+- Hakimov, S., Unger, C., Walter, S., Cimiano, P. (2015). **Applying Semantic Parsing to Question Answering Over Linked Data: Addressing the Lexical Gap.** _Natural Language Processing and Information Systems – 20th International Conference on Applications of Natural Language to Information Systems (NLDB 2015), Lecture Notes in Computer Science vol. 9103, pages 103–109, Passau, Germany, Springer_<br>[Paper](https://doi.org/10.1007/978-3-319-19581-0_8) [Git repo](https://github.com/ag-sc/CCGParsing)
+
+## 2014
+{: .archive__subtitle}
+- Dogdu, E., Hakimov, S., Yumusak, S. (2014). **A data-model driven web application development framework.** _Proceedings of the 2014 ACM Southeast Regional Conference, article 47, Kennesaw, GA, USA, ACM_<br>[Paper](https://doi.org/10.1145/2638404.2638522)
+
+## 2013
+{: .archive__subtitle}
+- Hakimov, S., Tunc, H., Akimaliev, M., Dogdu, E. (2013). **Semantic question answering system over linked data using relational patterns.** _Joint EDBT/ICDT 2013 Workshops, pages 83–88, Genoa, Italy, ACM_<br>[Paper](https://doi.org/10.1145/2457317.2457331)
+- Hakimov, S. (2013). **Named Entity Disambiguation using Linked Open Data.** _Master's thesis, TOBB University of Economics and Technology, Ankara, Turkey_<br>[PDF](http://earsiv.etu.edu.tr/xmlui/bitstream/handle/20.500.11851/919/350357.pdf?sequence=1)
+
+## 2012
+{: .archive__subtitle}
+- Hakimov, S., Oto, S.A., Dogdu, E. (2012). **Named entity recognition and disambiguation using linked data and graph-based centrality scoring.** _Proceedings of the 4th International Workshop on Semantic Web Information Management (SWIM 2012), article 4, Scottsdale, AZ, USA, ACM_<br>[Paper](https://doi.org/10.1145/2237867.2237871)

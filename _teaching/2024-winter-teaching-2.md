@@ -6,6 +6,7 @@ permalink: /teaching/2024-winter-teaching-2
 venue: "University of Potsdam"
 date: 2024-10-14
 location: "Potsdam, Germany"
+excerpt: "BSc course on programming fundamentals: object-oriented design and data structures."
 ---
 
 This course is part of the BSc degree in Computational Linguistics. It covers basics of programming with focus on:

@@ -7,6 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% assign current_semester = "" %}
+
+{% for post in courses %}
+  {% assign month = post.date | date: "%-m" | plus: 0 %}
+  {% assign year = post.date | date: "%Y" | plus: 0 %}
+
+  {% if month >= 4 and month <= 9 %}
+    {% capture semester %}Summer {{ year }}{% endcapture %}
+  {% elsif month >= 10 %}
+    {% assign next_yy = year | plus: 1 | modulo: 100 %}
+    {% capture semester %}Winter {{ year }}/{{ next_yy }}{% endcapture %}
+  {% else %}
+    {% assign prev_year = year | minus: 1 %}
+    {% assign this_yy = year | modulo: 100 %}
+    {% capture semester %}Winter {{ prev_year }}/{{ this_yy }}{% endcapture %}
+  {% endif %}
+
+  {% if semester != current_semester %}
+    <h2 class="archive__subtitle">{{ semester }}</h2>
+    {% assign current_semester = semester %}
+  {% endif %}
+
+  {% include archive-single-teaching.html %}
 {% endfor %}

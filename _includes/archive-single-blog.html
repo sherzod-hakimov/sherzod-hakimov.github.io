@@ -1,0 +1,23 @@
+{% include base_path %}
+
+<article class="post-card" itemscope itemtype="https://schema.org/BlogPosting">
+  <a class="post-card__link" href="{{ base_path }}{{ post.url }}">
+
+    {% if post.header.teaser %}
+      <div class="post-card__media">
+        <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: base_path }}{% endif %}" alt="" loading="lazy">
+      </div>
+    {% endif %}
+
+    <div class="post-card__body">
+      {% if post.date %}
+        <p class="post-card__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></p>
+      {% endif %}
+      <h2 class="post-card__title" itemprop="headline">{{ post.title }}</h2>
+      {% if post.excerpt %}
+        <p class="post-card__excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | strip_newlines }}</p>
+      {% endif %}
+    </div>
+
+  </a>
+</article>

@@ -6,6 +6,7 @@ permalink: /teaching/2024-summer-teaching-2
 venue: "University of Potsdam"
 date: 2024-04-11
 location: "Potsdam, Germany"
+excerpt: "MSc project module adapting an existing game to the clembench framework in order to evaluate chat-optimized LLMs."
 ---
 
 This practical seminar (aka project module) is part of the MSc degree in Cognitive Systems. It covers evaluation of Large Language Models that are optimized for chat formats. The implementation includes taking an existing game (card, board, adventure, text-based, ...) and adapt it to the [clembench](https://github.com/clembench) framework.

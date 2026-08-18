@@ -6,6 +6,7 @@ permalink: /teaching/2023-winter-teaching-2
 venue: "University of Potsdam"
 date: 2023-10-16
 location: "Potsdam, Germany"
+excerpt: "BSc seminar on methods used across NLP, run as a role-playing paper-reading seminar."
 ---
 
 This seminar is part of the BSc degree in Computational Linguistics. It covers various methods from the Natural Language Processing field. The goals of the seminar are the following:

@@ -9,7 +9,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 **More:**
 
 - [Reviewing & organizing: workshops, challenges, special issues, conferences, journals](/research/conference-journal-reviews)
-- [Supervision & open research topics](/research/supervision)
+- [Supervised theses](/research/supervision)
 
 ## Research Topics & Publications
 

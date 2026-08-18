@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a NLP/ML researcher interested in M^3: Multi-turn, Multimodal and Multilingual tasks. 
+I'm a NLP/ML researcher interested in **M<sup>3</sup>**: Multi-turn, Multimodal and Multilingual tasks.
 
 I've previously worked at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam</a>,  [Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) - [L3S Research Center, Hanover, Germany](https://www.l3s.de/), and [Semantic Computing Group, CITEC, Bielefeld, Germany](http://sc.cit-ec.uni-bielefeld.de).
 
@@ -32,14 +32,17 @@ My research interests include topics such as Conversational AI, Natural Language
 
 ## Recent Updates
 
+- (August 2026) [MUWS - Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/) workshop to be held at [ACM Multimedia'26](https://2026.acmmm.org/) in Rio.
+
+- (August 2026) [LM Playschool Improving Language Models through Learning from Dialogue Interaction](https://lm-playschool.github.io/) workshop to be held at [EMNLP 2026](https://2026.emnlp.org/) in Budapest.
+
 - (April 2026) Teaching a lecture on [Formal Languages & Automata](https://sherzod-hakimov.github.io/teaching/2026-summer-teaching-1) and a [Project Seminar on Learning in Interaction](https://sherzod-hakimov.github.io/teaching/2026-summer-teaching-2) at the University of Potsdam, Summer Semester 2026
 
 - (March 2026) Presented the paper [The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models](https://arxiv.org/pdf/2510.08098) at [EACL'26](https://2026.eacl.org/) in Rabat, Morocco
 
-- (March 2026) Workshop accepted at EMNLP 2026 - [LM Playschool Improving Language Models through Learning from Dialogue Interaction](https://lm-playschool.github.io/)
-
 - (February 2026) Released an open-source library: [TurkicNLP toolkit](https://turkic-nlp.github.io/) that combines all available resources (trained models, tools) for 20+ Turkic languages into one library
 
+<!--
 - (November 2025) Presented the Paper on [Playpen: training language models on dialogue games' data](https://arxiv.org/pdf/2504.08590) at EMNLP 2025 in Suzhou, China
 
 - (October 2025) Organized the [4th MUWS Workshop](https://muws-workshop.github.io/program) at [ACM Multimedia 2025](https://acmmm2025.org/) in Dublin, Ireland
@@ -64,8 +67,6 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (January 2025) [Paper on benchmarking Multimodal LLMs](https://aclanthology.org/2025.coling-main.381/) was presented at [COLING 2025](https://coling2025.org/) in Abu Dhabi, UAE. Checkout the [Leaderboard (tab *Multimodal*)](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
-<!--
-
 - (November 2024) [Paper](https://aclanthology.org/2024.findings-emnlp.652) published at [EMNLP 2024](https://2024.emnlp.org/)
 
 - (October 2024) Teaching [MSc NLP seminar](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-1) and [BSc Programming 1](https://sherzod-hakimov.github.io/teaching/2024-winter-teaching-2) at the University of Potsdam, Winter Semester 2024-2025
@@ -82,7 +83,6 @@ My research interests include topics such as Conversational AI, Natural Language
 
 - (February 2024) [Paper](https://aclanthology.org/2024.scichat-1.4.pdf) published at [SCI-CHAT](https://sites.google.com/view/dialogue-evaluation/) workshop co-located with [EACL 2024](https://2024.eacl.org/)
 
-<!--
 - (December 2023) Our paper [clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents](https://clembench.github.io/) is published at [EMNLP 2023](https://2023.emnlp.org/) - Checkout the [clembench Leaderboard](https://huggingface.co/spaces/colab-potsdam/clem-leaderboard)
 
 - (October 2023) Organized the [2nd MUWS Workshop](https://muws-workshop.github.io/previous/2023/) co-located with [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) in Birmingham, UK

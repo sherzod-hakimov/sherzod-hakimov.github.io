@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% assign posts_sorted = site.blogposts | sort: 'date' | reverse %}
-{% for post in posts_sorted %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<div class="post-grid">
+  {% for post in posts_sorted %}
+    {% include archive-single-blog.html %}
+  {% endfor %}
+</div>

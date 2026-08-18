@@ -6,6 +6,7 @@ permalink: /teaching/2020-summer-teaching-1
 venue: "Hannover University"
 date: 2020-04-22
 location: "Hannover, Germany"
+excerpt: "Introduction to visual analytics and computational multimodal systems; each student presents a publication and writes a technical report."
 ---
 
 This seminars involves the understanding basic ideas around visual analytics and computational multimodal systems. The students are present a chosen publication and write a technical report about it.

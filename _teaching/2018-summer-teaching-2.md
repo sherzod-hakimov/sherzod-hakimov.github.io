@@ -6,6 +6,7 @@ permalink: /teaching/2018-summer-teaching-2
 venue: "Bielefeld University"
 date: 2018-04-15
 location: "Bielfeld, Germany"
+excerpt: "Building scalable text-processing systems with statistical methods, integrating recent research results into the students' own solutions. Taught over 8 semesters, 2014-2018."
 ---
 
 This course involves the creation of effective systems for the processing of text by means of statistical methods. There will be significant challenge in integrating these components into a scalable system that can handle the large amount of data required to obtain high accuracy. In addition to the technical challenges in this course, the students will be required to read recent research papers related to the task and integrate these results into their solutions. Between 2014-2018 (8 semesters).
