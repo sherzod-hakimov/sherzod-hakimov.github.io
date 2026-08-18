@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a postdoctoral researcher at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam, Potsdam, Germany</a>. 
+I'm a NLP/ML researcher interested in M^3: Multi-turn, Multimodal and Multilingual tasks. 
 
-I've previously worked at the [Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) - [L3S Research Center, Hanover, Germany](https://www.l3s.de/), and [Semantic Computing Group, CITEC, Bielefeld, Germany](http://sc.cit-ec.uni-bielefeld.de).
+I've previously worked at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam</a>,  [Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) - [L3S Research Center, Hanover, Germany](https://www.l3s.de/), and [Semantic Computing Group, CITEC, Bielefeld, Germany](http://sc.cit-ec.uni-bielefeld.de).
 
 
 
