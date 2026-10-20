@@ -6,6 +6,8 @@ permalink: /research/conference-journal-reviews
 
 Organizing committee
 
+* [SIGTURL @ACL 2027 - ACL Special Interest Group on Turkic Languages](https://sigturk.github.io/workshops/2027/)
+
 * [ The LM Playschool Workshop Improving Language Models through Learning from Dialogue Interaction - EMNLP 2026](https://lm-playschool.github.io/)
 
 * [Cross-lingual Event-centric Open Analytics (CLEOPATRA) Workshop 2020](http://cleopatra-workshop.l3s.uni-hannover.de/index.php/previous-editions/cleopatra-2020/)
@@ -18,6 +20,8 @@ Organizing committee
 * [MUWS 2024 - The 3rd International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2024/)
 
 * [MUWS 2025 - The 4th International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2025/)
+
+* [MUWS 2026 - The 5th International Workshop on Multimodal Human Understanding for the Web and Social Media](https://muws-workshop.github.io/previous/2026/)
 	
 * [Special Issue on Event-centric Open Analytics](http://www.semantic-web-journal.net/blog/call-papers-special-issue-event-centric-open-analytics)
 
