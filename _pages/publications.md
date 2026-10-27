@@ -9,6 +9,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ## 2026
 {: .archive__subtitle}
+- Hakimov, S. (2026). **Natural Language Processing Across Turkic Languages: Methods and Applications.** _Book (open access, CC BY-SA 4.0), version 0.1.0, Zenodo. DOI: 10.5281/zenodo.23324599_<br>[Read online](https://turkic-nlp.github.io/book/) [Git repo](https://github.com/turkic-nlp/book)
 - Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[Paper](https://aclanthology.org/2026.findings-eacl.27/)
 - Hakimov, S., Osswald, K., Psurek, J., Bukovszky, E., Lüser, A., Schlangen, D. (2026). **Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2608.01395) [Git repo](https://github.com/clembench/multilingual) [Leaderboard](https://clembench.github.io/leaderboard.html)
 - Mohiuddin, S., Chalamalasetti, K., Hakimov, S., Schlangen, D. (2026). **Don't Let Me Ask for It: LLMs Show Deficiencies in Active Multi-Turn Information Acquisition for Abductive Inference.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2608.03388)
