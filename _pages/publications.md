@@ -17,6 +17,8 @@ You can find the complete list of articles on my <a href="https://scholar.google
 - Hakimov, S., D'Agostini, M., Samodelkin, I., Schlangen, D. (2026). **The Image Reconstruction Game: Drawing Common Ground Through Iterative Multimodal Dialogue.** AACL 2026<br>[arXiv](https://arxiv.org/abs/2606.01901)
 - Yang, J., Feldhus, N., Mohtaj, S., Hennig, L., Wang, Q., Metheniti, E., Hakimov, S., Jakob, C., Solopova, V., Rieck, K., Schlangen, D., Möller, S., Schmitt, V. (2026). **Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends.** EMNLP 2026<br>[arXiv](https://arxiv.org/abs/2601.07648)
 - Hakimov, S. (2026). **TurkicNLP: An NLP Toolkit for Turkic Languages.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2602.19174) [Git repo](https://github.com/turkic-nlp/turkicnlp) [Project site](https://turkic-nlp.github.io/)
+- Hakimov, S., Ristic, D., Sadler, P., Mazzaccara, D., McCallum, S., Momentè, F., Manina, M., Osswald, K., Le, D., Lemon, O., Koller, A., Bernardi, R., Fernández, R., Giulianelli, M., Suglia, A., Schlangen, D. (2026) **The LM Playschool Challenge 2026** [PDF](https://aclanthology.org/2026.lmplayschool-1.9.pdf)
+- Suglia, A., Giulianelli, M., Schlangen, D., Bernardi, R., Fernández, R., Hakimov, S., McCallum, S., Mazzaccara, D., Le, D., Lemon, O., Koller, A. (2026) **The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction** [PDF](https://aclanthology.org/volumes/2026.lmplayschool-1/)
 
 ## 2025
 {: .archive__subtitle}
