@@ -14,7 +14,7 @@ You can find the complete list of articles on my <a href="https://scholar.google
 
 ## 2026
 {: .archive__subtitle}
-- Hakimov, S. (2026). **Natural Language Processing Across Turkic Languages: Methods and Applications.** _Book (open access, CC BY-SA 4.0), DOI: 10.5281/zenodo.23324599 <br>[Read online](https://turkic-nlp.github.io/book/) [Git repo](https://github.com/turkic-nlp/book) [PDF](https://github.com/turkic-nlp/book/blob/main/Natural-Language-Processing-Across-Turkic-Languages--Methods-and-Applications.pdf)
+- Hakimov, S. (2026). **Natural Language Processing Across Turkic Languages: Methods and Applications.** _Book (open access, CC BY-SA 4.0), DOI: 10.5281/zenodo.23324599 <br>[Read online](https://turkic-nlp.github.io/book/) [Git repo](https://github.com/turkic-nlp/book) [PDF](https://turkic-nlp.github.io/textbook/hakimov-2026-nlp-across-turkic-languages.pdf)
 - Hakimov, S. (2026). **TurkicNLP: An NLP Toolkit for Turkic Languages.** _Preprint_<br>[arXiv](https://arxiv.org/abs/2602.19174) [Git repo](https://github.com/turkic-nlp/turkicnlp) [Project site](https://turkic-nlp.github.io/)
 - Hakimov, S., Bernard, R., Leiber, T., Osswald, K., Richert, K., Yang, R., Bernardi, R., Schlangen, D. (2026). **The Price of Thought: A Multilingual Analysis of Reasoning, Performance, and Cost of Negotiation in Large Language Models.** _Findings of the Association for Computational Linguistics: EACL 2026, pages 529–570, Rabat, Morocco_<br>[Paper](https://aclanthology.org/2026.findings-eacl.27/)
 - Chalamalasetti, K., Hakimov, S., Schlangen, D. (2026). **Multi-Turn Multi-Agent Dialogue for Collaborative Reconstruction Improves VLM Performance on Spatial Reasoning, But Only Barely.** _Preprint, under review_<br>[arXiv](https://arxiv.org/abs/2605.31387)
