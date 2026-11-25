@@ -7,6 +7,10 @@ author_profile: true
 
 ## Experience
 
+**Managing Director** · since November 2026<br>
+*[AIR – Center for AI in Research](http://air.uni-potsdam.de/), University of Potsdam, Germany*<br>
+Leading the university-wide center for AI in research: strategy, operations, and support for AI adoption across disciplines.
+
 **Postdoctoral Researcher & Lecturer** · September 2022 – August 2026<br>
 *Computational Linguistics Group, University of Potsdam, Germany*<br>
 LLM post-training and evaluation, multi-turn agents, code generation, multimodal models. Led the [clembench](https://clembench.github.io) and [Playpen](https://github.com/lm-playpen/playpen) open-source systems. Taught two courses per semester and supervised doctoral, MSc and BSc projects.
