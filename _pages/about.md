@@ -13,7 +13,7 @@ I'm an AI researcher and managing director working on how AI systems are built, 
 
 Currently, working as a managing director of [AIR - Center for AI in Research at University of Potsdam](http://air.uni-potsdam.de/).
 
-I've previously worked at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam</a>,  [Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) - [L3S Research Center, Hanover, Germany](https://www.l3s.de/), and [Semantic Computing Group, CITEC, Bielefeld, Germany](http://sc.cit-ec.uni-bielefeld.de).
+I've previously worked at the <a href="https://clp.ling.uni-potsdam.de/" target="_blank">Foundations of Computational Linguistics, University of Potsdam</a>,  [Visual Analytics Group, TIB - Leibniz Information Centre for Science and Technology](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics) - [L3S Research Center, Hanover, Germany](https://www.l3s.de/), and [Semantic Computing Group, CITEC, Bielefeld, Germany](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/index.xml).
 
 My research interests span the development and evaluation of AI systems, including language models, multimodal learning, conversational and agentic AI, and multilingual NLP, as well as the use of AI as a tool for scientific research. [More Info](https://sherzod-hakimov.github.io/research/)
 
